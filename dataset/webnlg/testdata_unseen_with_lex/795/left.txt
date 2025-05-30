@@ -1,0 +1,5 @@
+Germany | leaderName | Andreas_Voßkuhle
+Germany | capital | Berlin
+Neptun_Werft | locationCity | Rostock
+Rostock | country | Germany
+A-Rosa_Luna | builder | Neptun_Werft

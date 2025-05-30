@@ -1,0 +1,7 @@
+Alan_Bean | nationality | United_States
+Alan_Bean | occupation | Test_pilot
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"
+Alan_Bean | birthPlace | Wheeler,_Texas
+Alan_Bean | timeInSpace | "100305.0"(minutes)
+Alan_Bean | was selected by NASA | 1963
+Alan_Bean | status | "Retired"

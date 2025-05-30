@@ -1,0 +1,4 @@
+Bhajji | country | India
+India | leaderName | Narendra_Modi
+Bhajji | region | Karnataka
+Karnataka | leaderName | Vajubhai_Vala

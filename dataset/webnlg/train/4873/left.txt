@@ -1,0 +1,4 @@
+René_Goscinny | nationality | French_people
+Asterix_(comicsCharacter) | creator | René_Goscinny
+Asterix_(comicsCharacter) | alternativeName | "Astérix"
+Asterix_(comicsCharacter) | creator | Albert_Uderzo

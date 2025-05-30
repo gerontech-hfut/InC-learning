@@ -1,0 +1,4 @@
+Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe
+Abdulsalami_Abubakar | militaryBranch | Nigerian_Army
+Mike_Akhigbe | predecessor | Oladipo_Diya
+Mike_Akhigbe | successor | Atiku_Abubakar

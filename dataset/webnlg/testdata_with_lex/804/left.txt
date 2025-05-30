@@ -1,0 +1,5 @@
+Auburn,_Washington | isPartOf | Pierce_County,_Washington
+Auburn,_Washington | country | United_States
+Auburn,_Washington | isPartOf | King_County,_Washington
+Auburn,_Washington | populationDensity | 914.8 (inhabitants per square kilometre)
+Auburn,_Washington | areaTotal | 77.41 (square kilometres)

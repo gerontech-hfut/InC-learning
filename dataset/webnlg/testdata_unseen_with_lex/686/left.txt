@@ -1,0 +1,4 @@
+Aaron_Deer | background | "solo_singer"
+Aaron_Deer | genre | Psychedelia
+Aaron_Deer | origin | Indianapolis
+Aaron_Deer | origin | Indiana

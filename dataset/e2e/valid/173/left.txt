@@ -1,0 +1,1 @@
+name : Fitzbillies | Type : coffee shop | food : Chinese | price : high | customer rating : average | area : city centre | family friendly : no

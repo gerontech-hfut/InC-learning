@@ -1,0 +1,5 @@
+United_States | leader | Barack_Obama
+United_States | capital | Washington,_D.C.
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+Akron,_Ohio | country | United_States
+Akron,_Ohio | isPartOf | Summit_County,_Ohio

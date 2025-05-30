@@ -1,0 +1,2 @@
+Mendrisio | neighboringMunicipality | Meride
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio

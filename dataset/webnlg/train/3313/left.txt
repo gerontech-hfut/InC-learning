@@ -1,0 +1,3 @@
+3Arena | location | "North Wall Quay"
+3Arena | architect | Populous_(company)
+3Arena | completionDate | "December 2008"

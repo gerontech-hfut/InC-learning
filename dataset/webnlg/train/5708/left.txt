@@ -1,0 +1,5 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | attackAircraft | Lockheed_AC-130
+United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III
+United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle
+United_States_Air_Force | battles | United_States_invasion_of_Panama

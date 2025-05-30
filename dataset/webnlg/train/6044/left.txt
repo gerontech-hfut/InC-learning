@@ -1,0 +1,5 @@
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | country | United_States
+Manhattan | leaderName | Cyrus_Vance,_Jr.
+Manhattan | isPartOf | New_York
+New_York_City | isPartOf | Manhattan

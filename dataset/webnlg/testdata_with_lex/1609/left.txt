@@ -1,0 +1,4 @@
+109_Felicitas | epoch | 2006-12-31
+109_Felicitas | orbitalPeriod | 139705000.0
+109_Felicitas | periapsis | 283326000000.0
+109_Felicitas | escapeVelocity | 0.0473 (kilometrePerSeconds)

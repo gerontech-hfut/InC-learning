@@ -1,0 +1,2 @@
+AMC_Matador | assembly | Kenosha,_Wisconsin
+AMC_Matador | modelYears | 1974

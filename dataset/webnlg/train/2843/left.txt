@@ -1,0 +1,2 @@
+AIP_Advances | abbreviation | "AIP Adv."
+AIP_Advances | academicDiscipline | Physics

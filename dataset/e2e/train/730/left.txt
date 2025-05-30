@@ -1,0 +1,1 @@
+name : Cotto | food : French | customer rating : 3 out of 5 | family friendly : yes | near : Ranch

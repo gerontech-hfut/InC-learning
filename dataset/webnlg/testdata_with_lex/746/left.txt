@@ -1,0 +1,4 @@
+Arròs_negre | country | Spain
+Spain | ethnicGroup | Spaniards
+Arròs_negre | region | Catalonia
+Catalonia | leaderName | Parliament_of_Catalonia

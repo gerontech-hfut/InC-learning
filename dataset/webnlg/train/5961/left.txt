@@ -1,0 +1,5 @@
+300_North_LaSalle | location | Chicago
+Chicago | leaderName | Rahm_Emanuel
+Illinois | country | United_States
+Illinois | language | English_language
+Chicago | isPartOf | Illinois

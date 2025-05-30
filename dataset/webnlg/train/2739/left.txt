@@ -1,0 +1,2 @@
+Akron_Summit_Assault | numberOfMembers | 3000
+Akron_Summit_Assault | season | 2011

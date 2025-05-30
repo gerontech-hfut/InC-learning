@@ -1,0 +1,3 @@
+Sandesh (confectionery) is a dish that can be served as a dessert. Another dish that is a dessert is Baked Alaska which has Christmas pudding as an ingredient.
+Sandesh and Baked Alaska are desserts. Baked Alaska uses Christmas pudding as an ingredient.
+Christmas pudding is an ingredient in Baked Alaska, which is a dessert, same as sandesh.

@@ -1,0 +1,3 @@
+Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras
+New_Democracy_(Greece) | colour | Blue
+Adonis_Georgiadis | party | New_Democracy_(Greece)

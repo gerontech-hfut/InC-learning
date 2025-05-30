@@ -1,0 +1,5 @@
+United_States | ethnicGroup | Asian_Americans
+United_States | leaderName | Barack_Obama
+A_Fortress_of_Grey_Ice | language | English_language
+English_language | spokenIn | Great_Britain
+A_Fortress_of_Grey_Ice | country | United_States

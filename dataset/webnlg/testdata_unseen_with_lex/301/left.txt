@@ -1,0 +1,2 @@
+Brandon,_Manitoba | leaderName | Conservative_Party_of_Canada
+Alex_Plante | birthPlace | Brandon,_Manitoba

@@ -1,0 +1,3 @@
+The location identifier for Agra Airport is VIAG.
+The Agra Airport's ICAO location identifier is "VIAG".
+The ICAO Location Identifier of Agra Airport is VIAG.

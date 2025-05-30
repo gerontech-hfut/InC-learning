@@ -1,0 +1,5 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Blackpool | leader | Gordon_Marsden
+Stuart_Parker_(footballer) | club | Stockport_County_F.C.
+Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton
+A.F.C._Blackpool | ground | Blackpool

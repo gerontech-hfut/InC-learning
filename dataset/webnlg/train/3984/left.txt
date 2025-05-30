@@ -1,0 +1,3 @@
+AZ_Alkmaar | fullname | "Alkmaar Zaanstreek"
+AZ_Alkmaar | season | 2014–15_Eredivisie
+AZ_Alkmaar | numberOfMembers | 17023

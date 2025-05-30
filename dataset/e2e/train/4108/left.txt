@@ -1,0 +1,1 @@
+name : Wildwood | Type : coffee shop | food : Indian | price : cheap | customer rating : average | near : Ranch

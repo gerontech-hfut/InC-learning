@@ -1,0 +1,4 @@
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Arabic
+Philippines | ethnicGroup | Zamboangans
+Batchoy | country | Philippines

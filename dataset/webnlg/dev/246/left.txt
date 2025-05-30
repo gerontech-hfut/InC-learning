@@ -1,0 +1,2 @@
+Ashgabat_International_Airport | runwayLength | 3800.0
+Ashgabat_International_Airport | location | Ashgabat

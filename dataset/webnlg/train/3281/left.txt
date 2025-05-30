@@ -1,0 +1,3 @@
+20_Fenchurch_Street | completionDate | "April 2014"
+20_Fenchurch_Street | floorCount | 34
+20_Fenchurch_Street | floorArea | 62145.3 (square metres)

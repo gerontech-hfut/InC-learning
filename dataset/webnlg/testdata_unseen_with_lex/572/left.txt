@@ -1,0 +1,3 @@
+Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers
+Aleksander_Barkov,_Jr. | birthDate | 1995-09-02
+Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"

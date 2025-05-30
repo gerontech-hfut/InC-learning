@@ -1,0 +1,4 @@
+Iraq | leaderName | Fuad_Masum
+Al-Taqaddum_Air_Base | cityServed | Fallujah
+Fallujah | country | Iraq
+Iraq | language | Arabic

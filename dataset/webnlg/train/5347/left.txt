@@ -1,0 +1,4 @@
+Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C
+Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
+Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube

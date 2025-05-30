@@ -1,0 +1,1 @@
+name : Taste of Cambridge | Type : restaurant | price : less than £ 20 | customer rating : average

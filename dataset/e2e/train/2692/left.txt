@@ -1,0 +1,1 @@
+name : Strada | price : less than £ 20 | customer rating : low | family friendly : no

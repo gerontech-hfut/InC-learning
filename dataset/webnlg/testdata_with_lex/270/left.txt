@@ -1,0 +1,2 @@
+Batagor | ingredient | Peanut_sauce
+Batagor | dishVariation | Siomay

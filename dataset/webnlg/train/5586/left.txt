@@ -1,0 +1,4 @@
+American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press
+Johns_Hopkins_University_Press | country | United_States
+American_Journal_of_Mathematics | ISSN_number | "1080-6377"
+Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University

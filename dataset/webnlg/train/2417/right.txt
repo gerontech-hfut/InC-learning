@@ -1,0 +1,2 @@
+Celery is an ingredient of Bakso which is made in China.
+Celery is an ingredient in Bakso which is made in China.

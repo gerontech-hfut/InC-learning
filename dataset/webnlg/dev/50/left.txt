@@ -1,0 +1,1 @@
+20_Fenchurch_Street | buildingStartDate | "January 2009"

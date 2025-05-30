@@ -1,0 +1,4 @@
+Indonesia | capital | Jakarta
+Bakso | region | Indonesia
+Bakso | country | Chinese_cuisine
+Indonesia | leaderName | Joko_Widodo

@@ -1,0 +1,3 @@
+American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press
+Johns_Hopkins_University_Press | country | United_States
+American_Journal_of_Mathematics | abbreviation | "Am. J. Math."

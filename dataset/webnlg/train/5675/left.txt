@@ -1,0 +1,5 @@
+Afonso_Pena_International_Airport | cityServed | Curitiba
+Curitiba | country | Brazil
+Curitiba | isPartOf | Paraná_(state)
+Curitiba | leaderName | Democratic_Labour_Party_(Brazil)
+Curitiba | isPartOf | South_Region,_Brazil

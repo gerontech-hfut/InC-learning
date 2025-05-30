@@ -1,0 +1,1 @@
+name : Browns Cambridge | Type : coffee shop | food : Fast food | customer rating : average | area : city centre | family friendly : yes | near : Crowne Plaza Hotel

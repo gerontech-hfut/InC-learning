@@ -1,0 +1,1 @@
+name : The Vaults | Type : restaurant | food : French | price : more than £ 30 | area : city centre | family friendly : no | near : Raja Indian Cuisine

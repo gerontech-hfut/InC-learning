@@ -1,0 +1,2 @@
+Canada | language | English_language
+Adam_McQuaid | birthPlace | Canada

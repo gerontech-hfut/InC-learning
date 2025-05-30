@@ -1,0 +1,2 @@
+Al_Asad_Airbase | runwayLength | 3990.0
+Al_Asad_Airbase | location | "Al Anbar Province, Iraq"

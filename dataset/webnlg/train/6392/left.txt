@@ -1,0 +1,5 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Stuart_Parker_(footballer) | club | KV_Mechelen
+Blackpool | leader | Conservative_Party_(UK)
+Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.
+A.F.C._Blackpool | ground | Blackpool

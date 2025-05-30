@@ -1,0 +1,3 @@
+Baked_Alaska | region | "Paris, New York or Hong Kong"
+Baked_Alaska | country | France
+Baked_Alaska | ingredient | Sponge_cake

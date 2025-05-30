@@ -1,0 +1,4 @@
+300_North_LaSalle | location | Illinois
+300_North_LaSalle | floorArea | 120770.0 (square metres)
+300_North_LaSalle | completionDate | 2009
+300_North_LaSalle | floorCount | 60

@@ -1,0 +1,6 @@
+William_Anders | was a crew member of | Apollo_8
+William_Anders | timeInSpace | "8820.0"(minutes)
+Apollo_8 | backup pilot | Buzz_Aldrin
+Apollo_8 | crewMembers | Frank_Borman
+William_Anders | served as Chief of the Astronaut Office in | 1976
+Apollo_8 | operator | NASA

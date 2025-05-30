@@ -1,0 +1,3 @@
+Adare_Manor | architect | Philip_Charles_Hardwick
+Adare_Manor | completionDate | 1862
+Adare_Manor | buildingStartDate | "1700"

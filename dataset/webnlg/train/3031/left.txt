@@ -1,0 +1,3 @@
+Afonso_Pena_International_Airport | cityServed | Curitiba
+Curitiba | isPartOf | Paraná_(state)
+Curitiba | isPartOf | South_Region,_Brazil

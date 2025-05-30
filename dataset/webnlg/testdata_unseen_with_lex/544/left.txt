@@ -1,0 +1,3 @@
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | assembly | United_Kingdom

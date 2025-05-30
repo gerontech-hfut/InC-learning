@@ -1,0 +1,4 @@
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong
+A_Loyal_Character_Dancer | mediaType | "Print"
+A_Loyal_Character_Dancer | OCLC_number | 49805501
+A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"

@@ -1,0 +1,4 @@
+Monocacy_National_Battlefield | location | Frederick_County,_Maryland
+14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service

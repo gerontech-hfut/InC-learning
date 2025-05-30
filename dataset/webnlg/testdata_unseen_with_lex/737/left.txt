@@ -1,0 +1,4 @@
+Abel_Caballero | office (workedAt, workedAs) | "Minister of Transport"
+Abel_Caballero | birthPlace | Galicia_(Spain)
+Abel_Caballero | birthPlace | Spain
+Abel_Caballero | party | Spanish_Socialist_Workers'_Party

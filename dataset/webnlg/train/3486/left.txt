@@ -1,0 +1,3 @@
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)
+Ben_Urich | creator | Gene_Colan
+Gene_Colan | nationality | Americans

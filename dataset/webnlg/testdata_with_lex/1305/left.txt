@@ -1,0 +1,2 @@
+Allen_Forrest | genre | Hip_hop_music
+Allen_Forrest | background | "solo_singer"

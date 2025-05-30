@@ -1,0 +1,4 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama
+ENAIRE | locationCity | Madrid
+Madrid | country | Spain
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE

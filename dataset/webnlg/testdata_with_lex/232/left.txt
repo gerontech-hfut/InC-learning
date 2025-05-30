@@ -1,0 +1,2 @@
+Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana
+Adams_Township,_Madison_County,_Indiana | country | United_States

@@ -1,0 +1,2 @@
+American_Motors | successor | Eagle_(automobile)
+AMC_Matador | manufacturer | American_Motors

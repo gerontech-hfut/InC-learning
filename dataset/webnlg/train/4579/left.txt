@@ -1,0 +1,4 @@
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | deathDate | "1998-07-21"
+Alan_Shepard | deathPlace | California
+Apollo_14 | operator | NASA

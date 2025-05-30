@@ -1,0 +1,5 @@
+Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey
+Port_Authority_of_New_York_and_New_Jersey | headquarter | New_York
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey
+Egg_Harbor_Township,_New_Jersey | country | United_States
+Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey

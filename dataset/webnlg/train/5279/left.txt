@@ -1,0 +1,4 @@
+A.C._Lumezzane | manager | Michele_Marcolini
+Michele_Marcolini | placeOfBirth | Italy
+Michele_Marcolini | club | Torino_F.C.
+Michele_Marcolini | club | Vicenza_Calcio

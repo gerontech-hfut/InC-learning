@@ -1,0 +1,3 @@
+Ace_Wilder | genre | Hip_hop_music
+Hip_hop_music | stylisticOrigin | Funk
+Hip_hop_music | stylisticOrigin | Disco

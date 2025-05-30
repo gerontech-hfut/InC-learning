@@ -1,0 +1,5 @@
+Angola_International_Airport | location | Ícolo_e_Bengo
+Angola_International_Airport | cityServed | Luanda
+Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159
+Angola_International_Airport | runwayName | "05L/23R"
+Angola_International_Airport | runwayLength | 3800.0

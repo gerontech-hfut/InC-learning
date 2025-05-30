@@ -1,0 +1,4 @@
+Anders_Osborne | recordLabel | Alligator_Records
+Alligator_Records | genre | Blues
+Alligator_Records | location | Chicago
+Anders_Osborne | recordLabel | Shanachie_Records

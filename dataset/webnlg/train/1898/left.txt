@@ -1,0 +1,2 @@
+Andrews_County,_Texas | countySeat | Andrews,_Texas
+Andrews_County_Airport | owner | Andrews_County,_Texas

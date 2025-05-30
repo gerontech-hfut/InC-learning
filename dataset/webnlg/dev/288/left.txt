@@ -1,0 +1,2 @@
+Amatriciana_sauce | region | Lazio
+Amatriciana_sauce | ingredient | Tomato

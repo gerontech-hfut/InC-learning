@@ -1,0 +1,1 @@
+name : Blue Spice | price : moderate | customer rating : 1 out of 5 | area : city centre | family friendly : yes

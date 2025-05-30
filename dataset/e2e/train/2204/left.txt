@@ -1,0 +1,1 @@
+name : The Rice Boat | food : English | price : less than £ 20 | customer rating : low | area : city centre | family friendly : yes | near : Express by Holiday Inn

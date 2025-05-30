@@ -1,0 +1,4 @@
+Philippines | language | Arabic
+Philippines | ethnicGroup | Zamboangans
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Igorot_people

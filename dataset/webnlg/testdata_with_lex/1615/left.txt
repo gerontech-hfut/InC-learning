@@ -1,0 +1,4 @@
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport
+DeSoto_Custom | successor | DeSoto_Firedome
+DeSoto_Custom | manufacturer | DeSoto_(automobile)

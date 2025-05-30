@@ -1,0 +1,5 @@
+Barny_Cakes | country | France
+France | leaderName | Gérard_Larcher
+France | language | French_language
+France | leaderName | François_Hollande
+Barny_Cakes | ingredient | Sponge_cake

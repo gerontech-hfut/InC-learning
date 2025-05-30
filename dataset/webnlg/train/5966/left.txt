@@ -1,0 +1,5 @@
+3Arena | height | 28.0 (metres)
+3Arena | location | "East Link Bridge"
+3Arena | architect | Populous_(company)
+3Arena | buildingType | "Concert and events venue"
+3Arena | completionDate | "December 2008"

@@ -1,0 +1,2 @@
+Asam_pedas | country | Indonesia
+Asam_pedas | region | Malay_Peninsula

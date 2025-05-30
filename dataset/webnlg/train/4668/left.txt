@@ -1,0 +1,4 @@
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | leaderName | Frank_G._Jackson
+Cleveland | isPartOf | Ohio

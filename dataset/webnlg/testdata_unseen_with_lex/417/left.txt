@@ -1,0 +1,3 @@
+Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"
+Abner_W._Sibal | party | Republican_Party_(United_States)
+Abner_W._Sibal | birthPlace | Ridgewood,_Queens

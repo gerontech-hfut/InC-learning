@@ -1,0 +1,5 @@
+Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School
+Akron,_Ohio | country | United_States
+Akron_Summit_Assault | league | Premier_Development_League
+Premier_Development_League | champions | K-W_United_FC
+St._Vincent–St._Mary_High_School | city | Akron,_Ohio

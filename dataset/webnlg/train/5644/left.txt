@@ -1,0 +1,5 @@
+Aarhus_Airport | location | Tirstrup
+Tirstrup | country | Denmark
+Denmark | language | Greenlandic_language
+Denmark | leaderName | Lars_Løkke_Rasmussen
+Tirstrup | isPartOf | Central_Denmark_Region

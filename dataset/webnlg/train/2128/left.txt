@@ -1,0 +1,2 @@
+Adisham_Hall | location | Sri_Lanka
+Sri_Lanka | leaderName | Ranil_Wickremesinghe

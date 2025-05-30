@@ -1,0 +1,3 @@
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | governingBody | Cleveland_City_Council

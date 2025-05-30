@@ -1,0 +1,5 @@
+Spain | leaderName | Felipe_VI_of_Spain
+Spain | language | Spanish_language
+Ajoblanco | region | Andalusia
+Andalusia | leaderName | Susana_Díaz
+Ajoblanco | country | Spain

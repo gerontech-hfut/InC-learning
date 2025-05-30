@@ -1,0 +1,2 @@
+Turkey | currency | Turkish_lira
+Atatürk_Monument_(İzmir) | location | Turkey

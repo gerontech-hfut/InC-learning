@@ -1,0 +1,5 @@
+Alderney_Airport | 1st_runway_SurfaceType | Poaceae
+Alderney_Airport | runwayLength | 733.0
+Alderney_Airport | cityServed | Alderney
+Alderney_Airport | elevationAboveTheSeaLevel_(in_metres) | 88.0
+Alderney_Airport | runwayName | "08/26"

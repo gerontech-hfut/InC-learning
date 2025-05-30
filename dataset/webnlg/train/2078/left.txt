@@ -1,0 +1,2 @@
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | Illinois

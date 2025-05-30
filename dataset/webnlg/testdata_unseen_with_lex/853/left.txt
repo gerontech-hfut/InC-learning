@@ -1,0 +1,5 @@
+Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)
+Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)
+Aaron_Turner | genre | Sludge_metal
+Aaron_Turner | origin | Massachusetts
+Aaron_Turner | activeYearsStartYear | 1995

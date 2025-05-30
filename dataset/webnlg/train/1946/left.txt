@@ -1,0 +1,2 @@
+Ashgabat_International_Airport | location | Ashgabat
+Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211

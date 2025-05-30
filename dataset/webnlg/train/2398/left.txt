@@ -1,0 +1,2 @@
+Baked_Alaska | country | "France, United States or China"
+Baked_Alaska | ingredient | Meringue

@@ -1,0 +1,5 @@
+Ace_Wilder | genre | Hip_hop_music
+Hip_hop_music | musicSubgenre | Gangsta_rap
+Hip_hop_music | stylisticOrigin | Funk
+Hip_hop_music | derivative | Drum_and_bass
+Hip_hop_music | stylisticOrigin | Disco

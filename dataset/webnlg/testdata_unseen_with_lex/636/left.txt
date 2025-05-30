@@ -1,0 +1,4 @@
+1089_Tama | escapeVelocity | 0.0068 (kilometrePerSeconds)
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | epoch | 2005-11-26
+1089_Tama | apoapsis | 373513000.0 (kilometres)

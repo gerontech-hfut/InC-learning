@@ -1,0 +1,4 @@
+1097_Vicia | epoch | 2006-12-31
+1097_Vicia | mass | 9.8 (kilograms)
+1097_Vicia | orbitalPeriod | 135589000.0
+1097_Vicia | apoapsis | 511592000.0 (kilometres)

@@ -1,0 +1,2 @@
+11_Diagonal_Street | location | South_Africa
+South_Africa | leaderName | Cyril_Ramaphosa

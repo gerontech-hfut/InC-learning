@@ -1,0 +1,4 @@
+Bananaman | broadcastedBy | BBC
+BBC | product | BBC_Radio
+BBC | locationCity | Broadcasting_House
+BBC | foundedBy | John_Reith,_1st_Baron_Reith

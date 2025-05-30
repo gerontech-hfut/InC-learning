@@ -1,0 +1,1 @@
+name : The Cricketers | Type : coffee shop | food : French | customer rating : 5 out of 5 | family friendly : no | near : The Portland Arms

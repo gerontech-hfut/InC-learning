@@ -1,0 +1,4 @@
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2
+Aleksey_Chirikov_(icebreaker) | status | "In service"
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard

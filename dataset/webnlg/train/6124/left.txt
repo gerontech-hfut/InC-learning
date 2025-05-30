@@ -1,0 +1,5 @@
+Asam_pedas | country | Indonesia
+Sumatra | ethnicGroup | Acehnese_people
+Indonesia | leaderName | Joko_Widodo
+Asam_pedas | region | Sumatra
+Sumatra | ethnicGroup | Malays_(ethnic_group)

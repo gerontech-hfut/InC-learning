@@ -1,0 +1,4 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Blackpool | leader | Conservative_Party_(UK)
+Stuart_Parker_(footballer) | club | Stockport_County_F.C.
+A.F.C._Blackpool | ground | Blackpool

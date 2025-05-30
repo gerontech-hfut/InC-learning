@@ -1,0 +1,4 @@
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | finalFlight | 2014-10-28
+Antares_(rocket) | maidenFlight | 2013-04-21
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0

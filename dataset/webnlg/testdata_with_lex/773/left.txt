@@ -1,0 +1,4 @@
+Bionico | country | Mexico
+Bionico | course | Dessert
+Bionico | region | Jalisco
+Bionico | ingredient | Granola

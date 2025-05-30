@@ -1,0 +1,4 @@
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23
+AC_Hotel_Bella_Sky_Copenhagen | numberOfRooms | 814

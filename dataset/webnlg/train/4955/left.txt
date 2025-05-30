@@ -1,0 +1,4 @@
+Bacon_Explosion | country | United_States
+Bacon_Explosion | ingredient | Sausage
+Bacon_Explosion | course | "Main course"
+Bacon_Explosion | mainIngredients | Bacon

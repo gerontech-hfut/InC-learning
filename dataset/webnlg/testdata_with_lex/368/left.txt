@@ -1,0 +1,2 @@
+Bibbo_Bibbowski | creator | Marv_Wolfman
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"

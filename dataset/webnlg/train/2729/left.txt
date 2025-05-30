@@ -1,0 +1,2 @@
+Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000
+Agremiação_Sportiva_Arapiraquense | manager | Vica

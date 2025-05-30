@@ -1,0 +1,2 @@
+250_Delaware_Avenue | buildingStartDate | "January, 2014"
+250_Delaware_Avenue | floorCount | 12

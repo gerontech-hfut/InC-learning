@@ -1,0 +1,4 @@
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | region | Singapore
+Singapore | leaderName | Tony_Tan
+Ayam_penyet | country | Java

@@ -1,0 +1,2 @@
+Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)
+Asser_Levy_Public_Baths | yearOfConstruction | 1904

@@ -1,0 +1,3 @@
+Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority
+Pakistan_Civil_Aviation_Authority | headquarter | Jinnah_International_Airport
+Allama_Iqbal_International_Airport | location | Punjab,_Pakistan

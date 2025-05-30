@@ -1,0 +1,4 @@
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | region | Singapore
+Singapore | language | Standard_Chinese
+Ayam_penyet | country | Java

@@ -1,0 +1,3 @@
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner
+Julia_Morgan | birthPlace | California

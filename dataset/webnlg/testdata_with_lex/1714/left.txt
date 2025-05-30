@@ -1,0 +1,4 @@
+Adonis_Georgiadis | birthPlace | Athens
+Adonis_Georgiadis | birthPlace | Greece
+Adonis_Georgiadis | office (workedAt, workedAs) | Ministry_of_Economy,_Development_and_Tourism_(Greece)
+Adonis_Georgiadis | successor | Makis_Voridis

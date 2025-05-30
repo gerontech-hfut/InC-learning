@@ -1,0 +1,4 @@
+Andra_(singer) | genre | Dance-pop
+Andra_(singer) | occupation | Singing
+Andra_(singer) | birthPlace | Romania
+Andra_(singer) | background | "solo_singer"

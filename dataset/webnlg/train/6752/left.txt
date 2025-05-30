@@ -1,0 +1,6 @@
+India | largestCity | Mumbai
+AWH_Engineering_College | country | India
+Kerala | leaderName | Kochi
+AWH_Engineering_College | academicStaffSize | 250
+AWH_Engineering_College | state | Kerala
+AWH_Engineering_College | city | "Kuttikkattoor"

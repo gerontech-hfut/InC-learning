@@ -1,0 +1,1 @@
+name : The Plough | Type : pub | food : Indian | price : more than £ 30 | family friendly : yes | near : Café Rouge

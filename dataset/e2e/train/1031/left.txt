@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : coffee shop | food : Japanese | price : cheap | customer rating : 5 out of 5 | area : riverside

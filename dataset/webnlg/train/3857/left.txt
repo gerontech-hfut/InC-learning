@@ -1,0 +1,3 @@
+Dead_Man's_Plack | location | England
+England | ethnicGroups | British_Arabs
+England | capital | London

@@ -1,0 +1,5 @@
+London | leaderTitle | Parliament_of_the_United_Kingdom
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | capital | London
+London | leaderName | Boris_Johnson
+United_Kingdom | currency | Pound_sterling

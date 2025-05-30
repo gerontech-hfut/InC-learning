@@ -1,0 +1,3 @@
+Bacon_Explosion | country | United_States
+United_States | leaderName | Joe_Biden
+United_States | ethnicGroup | White_Americans

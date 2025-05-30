@@ -1,0 +1,2 @@
+Akron_Summit_Assault | season | 2011_PDL_season
+Akron_Summit_Assault | numberOfMembers | 3000

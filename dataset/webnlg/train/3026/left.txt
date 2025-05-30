@@ -1,0 +1,3 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama
+Paracuellos_de_Jarama | country | Spain
+Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0

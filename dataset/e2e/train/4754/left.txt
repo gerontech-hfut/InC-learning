@@ -1,0 +1,1 @@
+name : Strada | food : French | price : less than £ 20 | customer rating : average | family friendly : no | near : Rainbow Vegetarian Café

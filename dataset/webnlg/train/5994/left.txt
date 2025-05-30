@@ -1,0 +1,5 @@
+Adisham_Hall | architecturalStyle | "Tudor and Jacabian"
+Adisham_Hall | location | "Haputale, Sri Lanka"
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | buildingStartDate | "1927"
+Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"

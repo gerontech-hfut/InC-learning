@@ -1,0 +1,2 @@
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | location | Haputale

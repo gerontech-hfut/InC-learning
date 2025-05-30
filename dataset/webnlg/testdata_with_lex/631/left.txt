@@ -1,0 +1,4 @@
+Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)
+Anderson,_Indiana | areaTotal | 107.43 (square kilometres)
+Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0
+Anderson,_Indiana | isPartOf | "Adams, Fall Creek, Lafayette, Richland, Union"

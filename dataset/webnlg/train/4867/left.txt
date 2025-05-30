@@ -1,0 +1,4 @@
+Jerry_Ordway | nationality | Americans
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"
+Bibbo_Bibbowski | creator | Jerry_Ordway
+Bibbo_Bibbowski | creator | Marv_Wolfman

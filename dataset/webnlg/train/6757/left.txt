@@ -1,0 +1,6 @@
+Romania | ethnicGroup | Germans_of_Romania
+Romania | leaderName | Klaus_Iohannis
+Romania | leaderTitle | Prime_Minister_of_Romania
+Alba_Iulia | country | Romania
+Romania | capital | Bucharest
+1_Decembrie_1918_University | city | Alba_Iulia

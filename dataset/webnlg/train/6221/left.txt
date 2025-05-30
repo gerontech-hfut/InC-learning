@@ -1,0 +1,5 @@
+Batagor | country | Indonesia
+Batagor | ingredient | Peanut_sauce
+Batagor | dishVariation | Shumai
+Batagor | dishVariation | Siomay
+Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"

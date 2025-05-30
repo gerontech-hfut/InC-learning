@@ -1,0 +1,4 @@
+Alfred_Moore_Scales | successor | Daniel_Gould_Fowle
+Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"
+Alfred_Moore_Scales | party | Democratic_Party_(United_States)
+Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina

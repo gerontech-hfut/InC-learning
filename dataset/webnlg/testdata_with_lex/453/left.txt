@@ -1,0 +1,3 @@
+Massimo_Drago | club | S.S._Chieti_Calcio
+A.C._Cesena | manager | Massimo_Drago
+Massimo_Drago | club | A.S.D._Licata_1931

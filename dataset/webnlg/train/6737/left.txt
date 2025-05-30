@@ -1,0 +1,6 @@
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | motto | "Nurturing Excellence"
+Acharya_Institute_of_Technology | country | "India"
+Acharya_Institute_of_Technology | state | Karnataka
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

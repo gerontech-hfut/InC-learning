@@ -1,0 +1,4 @@
+Allama_Iqbal_International_Airport | location | Punjab,_Pakistan
+Allama_Iqbal_International_Airport | runwayLength | 3360.12
+Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority
+Allama_Iqbal_International_Airport | cityServed | Lahore

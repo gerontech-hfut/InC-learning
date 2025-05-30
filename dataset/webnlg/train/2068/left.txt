@@ -1,0 +1,2 @@
+250_Delaware_Avenue | location | Buffalo,_New_York
+Buffalo,_New_York | isPartOf | Erie_County,_New_York

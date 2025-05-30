@@ -1,0 +1,3 @@
+Atlanta | populationDensity | 1299.0 (inhabitants per square kilometre)
+Atlanta | areaCode | 404
+Atlanta | areaTotal | 347.1 (square kilometres)

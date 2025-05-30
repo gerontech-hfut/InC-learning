@@ -1,0 +1,5 @@
+Ayam_penyet | region | Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | country | Java

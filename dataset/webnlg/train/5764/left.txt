@@ -1,0 +1,5 @@
+Angola_International_Airport | location | Ícolo_e_Bengo
+Ícolo_e_Bengo | country | Angola
+Angola_International_Airport | runwayLength | 3800.0
+Ícolo_e_Bengo | isPartOf | Luanda_Province
+Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159

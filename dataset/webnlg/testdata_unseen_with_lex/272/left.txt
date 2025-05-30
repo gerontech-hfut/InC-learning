@@ -1,0 +1,2 @@
+Netherlands | currency | Euro
+Agnes_Kant | country | Netherlands

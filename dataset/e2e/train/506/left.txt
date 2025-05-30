@@ -1,0 +1,1 @@
+name : Aromi | Type : coffee shop | food : Italian | customer rating : low | area : city centre | family friendly : yes

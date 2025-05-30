@@ -1,0 +1,5 @@
+Central_Español | league | Uruguayan_Segunda_División
+Abel_Hernández | youthclub | Central_Español
+U.S._Città_di_Palermo | manager | Giuseppe_Iachini
+Abel_Hernández | club | Uruguay_national_football_team
+Abel_Hernández | club | U.S._Città_di_Palermo

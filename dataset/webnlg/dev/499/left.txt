@@ -1,0 +1,3 @@
+AEK_Athens_F.C. | league | Superleague_Greece
+AEK_Athens_F.C. | ground | Athens
+AEK_Athens_F.C. | numberOfMembers | 69618

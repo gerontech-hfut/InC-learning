@@ -1,0 +1,3 @@
+Caterpillar_Inc. | foundationPlace | California
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | powerType | Caterpillar_Inc.

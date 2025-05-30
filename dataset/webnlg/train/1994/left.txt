@@ -1,0 +1,2 @@
+Alan_Shepard | nationality | United_States
+Alan_Shepard | birthDate | "1923-11-18"

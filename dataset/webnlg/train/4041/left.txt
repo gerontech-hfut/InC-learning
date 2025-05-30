@@ -1,0 +1,3 @@
+1_Decembrie_1918_University | nickname | Uab
+1_Decembrie_1918_University | city | Alba_Iulia
+1_Decembrie_1918_University | state | Alba

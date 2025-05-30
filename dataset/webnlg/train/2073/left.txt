@@ -1,0 +1,2 @@
+300_North_LaSalle | floorCount | 60
+300_North_LaSalle | completionDate | 2009

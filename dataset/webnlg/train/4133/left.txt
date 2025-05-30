@@ -1,0 +1,3 @@
+ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"
+ACM_Transactions_on_Information_Systems | LCCN_number | 89646863
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."

@@ -1,0 +1,4 @@
+Binignit | mainIngredients | Sago
+Binignit | country | Philippines
+Binignit | region | Mindanao
+Binignit | ingredient | Banana

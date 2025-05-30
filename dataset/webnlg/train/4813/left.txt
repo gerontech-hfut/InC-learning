@@ -1,0 +1,4 @@
+Ethiopia | leaderName | Hailemariam_Desalegn
+Addis_Ababa_City_Hall | country | Ethiopia
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Ethiopia | language | Amharic

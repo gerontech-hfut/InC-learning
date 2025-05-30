@@ -1,0 +1,4 @@
+103_Hera | discoverer | James_Craig_Watson
+James_Craig_Watson | nationality | Canada
+James_Craig_Watson | deathPlace | Madison,_Wisconsin
+103_Hera | apoapsis | 437170000.0 (kilometres)

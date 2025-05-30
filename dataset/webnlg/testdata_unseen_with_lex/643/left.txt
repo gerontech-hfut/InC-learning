@@ -1,0 +1,4 @@
+1955_Dodge | engine | V8_engine
+1955_Dodge | manufacturer | Dodge
+1955_Dodge | transmission | "3-speed automatic"
+1955_Dodge | wheelbase | 120.0 (inches)

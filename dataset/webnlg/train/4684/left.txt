@@ -1,0 +1,4 @@
+250_Delaware_Avenue | location | United_States
+250_Delaware_Avenue | buildingStartDate | "January, 2014"
+250_Delaware_Avenue | floorArea | 30843.8 (square metres)
+250_Delaware_Avenue | floorCount | 12

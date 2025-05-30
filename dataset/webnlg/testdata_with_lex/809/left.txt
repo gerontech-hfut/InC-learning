@@ -1,0 +1,5 @@
+Tarrant_County,_Texas | countySeat | Fort_Worth,_Texas
+Texas | language | Spanish_language
+Arlington,_Texas | isPartOf | Tarrant_County,_Texas
+Arlington,_Texas | isPartOf | Texas
+Texas | largestCity | Houston

@@ -1,0 +1,4 @@
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | engine | Straight-four_engine
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema

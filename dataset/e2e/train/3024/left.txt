@@ -1,0 +1,1 @@
+name : Clowns | Type : coffee shop | food : Fast food | customer rating : 3 out of 5 | area : riverside | near : Clare Hall

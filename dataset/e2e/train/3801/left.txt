@@ -1,0 +1,1 @@
+name : Strada | food : Italian | price : £ 20 - 25 | customer rating : high | family friendly : no | near : Rainbow Vegetarian Café

@@ -1,0 +1,2 @@
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."
+Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"

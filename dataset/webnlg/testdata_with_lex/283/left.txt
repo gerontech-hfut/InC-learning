@@ -1,0 +1,2 @@
+Shumai | ingredient | Shiitake
+Batagor | dishVariation | Shumai

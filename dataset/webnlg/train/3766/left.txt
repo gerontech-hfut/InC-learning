@@ -1,0 +1,3 @@
+Bionico | country | Mexico
+Bionico | region | Jalisco
+Bionico | ingredient | Condensed_milk

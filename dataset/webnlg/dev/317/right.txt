@@ -1,0 +1,3 @@
+Bionico is a dessert and it requires granola as one of it's ingredients.
+Bionico is a dessert, requiring granola as one of its ingredients.
+Bionico is a dessert that includes the ingredient granola.

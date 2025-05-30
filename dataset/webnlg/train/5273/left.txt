@@ -1,0 +1,4 @@
+A.C._Lumezzane | ground | Italy
+Italy | capital | Rome
+Italy | officialLanguage | Italian_language
+Italy | leader | Pietro_Grasso

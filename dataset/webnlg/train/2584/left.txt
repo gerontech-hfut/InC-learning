@@ -1,0 +1,2 @@
+Turkey | largestCity | Istanbul
+Atatürk_Monument_(İzmir) | location | Turkey

@@ -1,0 +1,4 @@
+Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey
+Atlantic_City_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 23.0
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey
+Egg_Harbor_Township,_New_Jersey | country | United_States

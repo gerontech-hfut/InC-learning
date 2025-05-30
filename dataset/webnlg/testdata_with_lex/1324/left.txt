@@ -1,0 +1,2 @@
+101_Helena | discoverer | James_Craig_Watson
+James_Craig_Watson | deathCause | Peritonitis

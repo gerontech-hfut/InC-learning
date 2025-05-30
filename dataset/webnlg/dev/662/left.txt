@@ -1,0 +1,4 @@
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | leaderName | Artur_Rasizade

@@ -1,0 +1,2 @@
+Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"
+Arion_(comicsCharacter) | creator | Paul_Kupperberg

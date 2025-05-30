@@ -1,0 +1,2 @@
+Alan_Shepard | deathPlace | California
+Alan_Shepard | deathDate | "1998-07-21"

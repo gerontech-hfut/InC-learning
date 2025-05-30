@@ -1,0 +1,2 @@
+The runway length of Abilene Regional Airport is 2,195.
+The runway length of Abilene Regional Airport is 2195.0.

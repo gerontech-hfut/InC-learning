@@ -1,0 +1,3 @@
+Massimo_Drago | club | Vigor_Lamezia
+A.C._Cesena | manager | Massimo_Drago
+Massimo_Drago | club | S.S.D._Potenza_Calcio

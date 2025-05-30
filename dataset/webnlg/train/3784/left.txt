@@ -1,0 +1,3 @@
+Chicharrón | country | Spain
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | region | Antioquia_Department

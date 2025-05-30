@@ -1,0 +1,2 @@
+Auburn,_Washington | isPartOf | Pierce_County,_Washington
+Pierce_County,_Washington | country | United_States

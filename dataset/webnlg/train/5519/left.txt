@@ -1,0 +1,4 @@
+A_Glastonbury_Romance | numberOfPages | "1174"
+A_Glastonbury_Romance | OCLC_number | 76798317
+A_Glastonbury_Romance | mediaType | "Print"
+A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"

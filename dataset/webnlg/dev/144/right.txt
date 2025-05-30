@@ -1,0 +1,3 @@
+Ice cream is a type of dessert.
+A type of dessert is an ice cream.
+Ice cream is a dessert.

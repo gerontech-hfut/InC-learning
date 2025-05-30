@@ -1,0 +1,4 @@
+Baked_Alaska | course | Dessert
+United_States | ethnicGroup | African_Americans
+Dessert | dishVariation | Sandesh_(confectionery)
+Baked_Alaska | country | United_States

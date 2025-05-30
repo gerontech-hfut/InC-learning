@@ -1,0 +1,3 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Switzerland | legislature | Federal_Assembly_(Switzerland)

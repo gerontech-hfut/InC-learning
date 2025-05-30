@@ -1,0 +1,2 @@
+American_Journal_of_Mathematics | abbreviation | "Am. J. Math."
+American_Journal_of_Mathematics | EISSN_number | 1080

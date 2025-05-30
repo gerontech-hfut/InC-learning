@@ -1,0 +1,1 @@
+name : Clowns | price : high | family friendly : yes | near : Café Sicilia

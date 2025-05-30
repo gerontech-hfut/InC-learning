@@ -1,0 +1,4 @@
+Andrews_County_Airport | location | Texas
+Texas | language | English_language
+Texas | demonym | Texan
+Texas | country | United_States

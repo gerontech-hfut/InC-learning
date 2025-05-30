@@ -1,0 +1,3 @@
+Abilene_Regional_Airport | cityServed | Abilene,_Texas
+Abilene_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 546
+Abilene_Regional_Airport | runwayLength | 1121.0

@@ -1,0 +1,3 @@
+American_Civil_War | commander | Jefferson_Davis
+Alfred_Moore_Scales | battles | Battle_of_Fredericksburg
+Battle_of_Fredericksburg | isPartOfMilitaryConflict | American_Civil_War

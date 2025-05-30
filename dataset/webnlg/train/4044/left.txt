@@ -1,0 +1,3 @@
+AWH_Engineering_College | academicStaffSize | 250
+AWH_Engineering_College | state | Kerala
+AWH_Engineering_College | city | "Kuttikkattoor"

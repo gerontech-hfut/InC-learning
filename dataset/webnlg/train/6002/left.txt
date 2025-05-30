@@ -1,0 +1,5 @@
+Akita,_Akita | isPartOf | Akita_Prefecture
+Japan | leaderName | Tarō_Asō
+Akita,_Akita | country | Japan
+Japan | ethnicGroup | Vietnamese_people_in_Japan
+Akita_Museum_of_Art | location | Akita,_Akita

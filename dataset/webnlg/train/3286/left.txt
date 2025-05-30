@@ -1,0 +1,3 @@
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | demonym | British_people
+United_Kingdom | currency | Pound_sterling

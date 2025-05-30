@@ -1,0 +1,4 @@
+Addiction_(journal) | publisher | Wiley-Blackwell
+Addiction_(journal) | ISSN_number | "0965-2140"
+Addiction_(journal) | LCCN_number | 93645978
+Addiction_(journal) | abbreviation | "Addiction"

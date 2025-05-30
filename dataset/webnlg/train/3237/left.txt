@@ -1,0 +1,3 @@
+William_Anders | dateOfRetirement | "1969-09-01"
+William_Anders | occupation | Fighter_pilot
+William_Anders | birthPlace | British_Hong_Kong

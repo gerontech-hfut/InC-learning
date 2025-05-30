@@ -1,0 +1,5 @@
+Allama_Iqbal_International_Airport | location | Pakistan
+Allama_Iqbal_International_Airport | runwayLength | 3310.0
+Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority
+Allama_Iqbal_International_Airport | cityServed | Lahore
+Allama_Iqbal_International_Airport | runwayName | "18L/36R"

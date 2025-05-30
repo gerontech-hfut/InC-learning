@@ -1,0 +1,5 @@
+Acta_Palaeontologica_Polonica | ISSN_number | "0567-7920"
+Acta_Palaeontologica_Polonica | LCCN_number | 60040714
+Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"
+Acta_Palaeontologica_Polonica | publisher | "Institute of Paleobiology, Polish Academy of Sciences"
+Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."

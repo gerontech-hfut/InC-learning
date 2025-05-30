@@ -1,0 +1,2 @@
+Alvah_Sabin | birthDate | 1793-10-23
+Alvah_Sabin | office (workedAt, workedAs) | Secretary_of_State_of_Vermont

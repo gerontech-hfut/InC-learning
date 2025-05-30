@@ -1,0 +1,1 @@
+name : Strada | Type : pub | food : Italian | customer rating : high | near : Yippee Noodle Bar

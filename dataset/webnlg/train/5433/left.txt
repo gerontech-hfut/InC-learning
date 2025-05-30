@@ -1,0 +1,4 @@
+Acharya_Institute_of_Technology | city | Bangalore
+Karnataka | has to its west | Arabian_Sea
+Acharya_Institute_of_Technology | state | Karnataka
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

@@ -1,0 +1,4 @@
+Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York
+Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York
+Harrietstown,_New_York | isPartOf | United_States

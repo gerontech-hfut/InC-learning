@@ -1,0 +1,2 @@
+A-Rosa_Luna | shipClass | Cruise_ship
+A-Rosa_Luna | length | 125800.0 (millimetres)

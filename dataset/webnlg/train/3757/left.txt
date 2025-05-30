@@ -1,0 +1,3 @@
+Binignit | mainIngredients | Sweet_potato
+Binignit | country | Philippines
+Binignit | ingredient | Taro

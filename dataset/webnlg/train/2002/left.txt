@@ -1,0 +1,2 @@
+Buzz_Aldrin | dateOfRetirement | "1971-07-01"
+Buzz_Aldrin | timeInSpace | "52.0"(minutes)

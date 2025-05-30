@@ -1,0 +1,1 @@
+name : The Eagle | Type : coffee shop | food : Indian | price : high | customer rating : average | area : city centre | family friendly : no | near : Burger King

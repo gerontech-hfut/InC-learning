@@ -1,0 +1,2 @@
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita,_Akita | country | Japan

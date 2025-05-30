@@ -1,0 +1,7 @@
+Karnataka | has to its northeast | Telangana
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | sportsOffered | Tennis
+Karnataka | has to its west | Arabian_Sea
+Acharya_Institute_of_Technology | state | Karnataka
+Tennis | sportsGoverningBody | International_Tennis_Federation
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

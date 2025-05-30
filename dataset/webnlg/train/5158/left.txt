@@ -1,0 +1,4 @@
+Italy | capital | Rome
+Amatriciana_sauce | country | Italy
+Italy | leaderName | Sergio_Mattarella
+Italy | language | Italian_language

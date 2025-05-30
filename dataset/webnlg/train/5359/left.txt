@@ -1,0 +1,4 @@
+Akron_Summit_Assault | fullname | "Akron Metro Futbol Club Summit Assault"
+Akron_Summit_Assault | season | 2011
+Akron_Summit_Assault | numberOfMembers | 3000
+Akron_Summit_Assault | manager | Denzil_Antonio

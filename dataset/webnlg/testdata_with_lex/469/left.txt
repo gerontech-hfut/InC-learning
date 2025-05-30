@@ -1,0 +1,3 @@
+Adisham_Hall | country | Sri_Lanka
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Sri_Lanka | currency | Sri_Lankan_rupee

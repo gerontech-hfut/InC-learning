@@ -1,0 +1,2 @@
+Alberto_Teisaire | office (workedAt, workedAs) | "Provisional President of the Argentine Senate"
+Alberto_Teisaire | successor | Isaac_Rojas

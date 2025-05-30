@@ -1,0 +1,2 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon

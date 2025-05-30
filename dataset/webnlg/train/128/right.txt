@@ -1,0 +1,3 @@
+The length of the runway at Andrews County Airport is 1773 metres.
+The runway length at Andrews County airport is 1773.0.
+Andrews County Airport's runway length is 1773.0.

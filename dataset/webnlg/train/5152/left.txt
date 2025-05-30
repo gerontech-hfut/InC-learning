@@ -1,0 +1,4 @@
+Indonesia | language | Indonesian_language
+Bakso | region | Indonesia
+Bakso | country | Indonesia
+Indonesia | leaderName | Joko_Widodo

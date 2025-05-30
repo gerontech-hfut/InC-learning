@@ -1,0 +1,5 @@
+Belgium | leaderName | Charles_Michel
+Antwerp_International_Airport | cityServed | Antwerp
+Flemish_Region | leaderName | Flemish_Government
+Flemish_Region | country | Belgium
+Flemish_Government | jurisdiction | Flemish_Region

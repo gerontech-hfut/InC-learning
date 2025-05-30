@@ -1,0 +1,4 @@
+Texas | language | English_language
+Arlington,_Texas | isPartOf | Texas
+Texas | country | United_States
+Texas | largestCity | Houston

@@ -1,0 +1,3 @@
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | instrument | Singing
+Al_Anderson_(NRBQ band) | genre | Rock_music

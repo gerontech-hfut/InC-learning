@@ -1,0 +1,4 @@
+A.C._Chievo_Verona | manager | Rolando_Maran
+Rolando_Maran | placeOfBirth | Italy
+Rolando_Maran | club | Unione_Triestina_2012_S.S.D.
+Rolando_Maran | club | Carrarese_Calcio

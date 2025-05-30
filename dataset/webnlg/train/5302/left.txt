@@ -1,0 +1,4 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+A.F.C._Blackpool | ground | Blackpool
+Blackpool | leader | Labour_Party_(UK)
+Stuart_Parker_(footballer) | club | Blackpool_F.C.

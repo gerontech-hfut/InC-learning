@@ -1,0 +1,6 @@
+William_Anders | birthDate | "1933-10-17"
+William_Anders | was a crew member of | Apollo_8
+Apollo_8 | backup pilot | Buzz_Aldrin
+Apollo_8 | crewMembers | Frank_Borman
+Apollo_8 | operator | NASA
+William_Anders | was selected by NASA | 1963

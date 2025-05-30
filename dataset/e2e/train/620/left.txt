@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Fast food | price : less than £ 20 | family friendly : no | near : The Bakers

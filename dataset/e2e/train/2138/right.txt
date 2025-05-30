@@ -1,0 +1,4 @@
+The Punter has a customer rating of 3 out of 5 , because their price range is £ 20 - 25 . It is located near Café Sicilia and is not kids friendly , because it is a coffee shop and they serve French food . 
+The Punter is near the Café Sicilia and is children friendly . It sells French food with a price range of £ 20 and £ 25 . It has a customer rating of 3 out of 5 . 
+The Punter is a coffee shop that serves French food . It is located near Café Sicilia and not a kids friendly place . The price range is £ 20 - 25 and has a customer rating of 2 out of 5 . 
+The Punter is a French coffee shop near the Café Sicilia . It is children friendly , with a price range between £ 20 and £ 25 and has a customer rating of 3 out of 5 . 

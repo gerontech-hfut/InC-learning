@@ -1,0 +1,4 @@
+Delta_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_2
+Delta_II | launchSite | Cape_Canaveral_Air_Force_Station
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States

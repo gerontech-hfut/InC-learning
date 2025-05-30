@@ -1,0 +1,5 @@
+Alan_Frew | occupation | Musician
+Alan_Frew | origin | Canada
+Alan_Frew | birthPlace | Coatbridge
+Alan_Frew | origin | Newmarket,_Ontario
+Alan_Frew | background | "solo_singer"

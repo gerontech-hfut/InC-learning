@@ -1,0 +1,3 @@
+The Apollo 8 operator is NASA.
+Apollo 8 is operated by Nasa.
+Apollo 8 was operated by NASA.

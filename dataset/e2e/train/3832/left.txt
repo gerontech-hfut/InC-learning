@@ -1,0 +1,1 @@
+name : Cocum | Type : pub | price : more than £ 30 | customer rating : low | family friendly : no

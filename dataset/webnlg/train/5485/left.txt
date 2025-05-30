@@ -1,0 +1,4 @@
+1634:_The_Bavarian_Crisis | author | Eric_Flint
+Eric_Flint | influencedBy | Robert_A._Heinlein
+Eric_Flint | birthPlace | Burbank,_California
+1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III

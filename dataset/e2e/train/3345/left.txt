@@ -1,0 +1,1 @@
+name : Bibimbap House | food : French | price : £ 20 - 25 | area : riverside | near : Clare Hall

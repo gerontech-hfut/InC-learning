@@ -1,0 +1,5 @@
+Ayam_penyet | region | Malaysia
+Ayam_penyet | country | Java
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | servingTemperature | "Hot"

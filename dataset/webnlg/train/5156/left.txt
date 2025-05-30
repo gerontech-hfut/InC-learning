@@ -1,0 +1,4 @@
+Italy | capital | Rome
+Amatriciana_sauce | country | Italy
+Italy | language | Italian_language
+Italy | leaderName | Pietro_Grasso

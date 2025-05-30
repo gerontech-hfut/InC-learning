@@ -1,0 +1,2 @@
+(410777)_2009_FD | periapsis | 88234300000.0
+(410777)_2009_FD | discoverer | Spacewatch

@@ -1,0 +1,5 @@
+1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II
+Ring_of_Fire_II | language | English_language
+1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II
+1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"
+1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes

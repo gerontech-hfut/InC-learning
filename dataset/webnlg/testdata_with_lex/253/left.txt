@@ -1,0 +1,2 @@
+Arrabbiata_sauce | ingredient | Chili_pepper
+Arrabbiata_sauce | country | Italy

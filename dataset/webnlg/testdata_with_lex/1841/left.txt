@@ -1,0 +1,5 @@
+Alison_O'Donnell | genre | Jazz
+Jazz | stylisticOrigin | Blues
+Jazz | derivative | Funk
+Jazz | musicFusionGenre | Afrobeat
+Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"

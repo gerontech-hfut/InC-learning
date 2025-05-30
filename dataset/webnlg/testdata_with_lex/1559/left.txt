@@ -1,0 +1,3 @@
+FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League
+Aleksandr_Chumakov | club | FC_Torpedo_Moscow
+FC_Torpedo_Moscow | manager | Valery_Petrakov

@@ -1,0 +1,2 @@
+AWH_Engineering_College | established | 2001
+AWH_Engineering_College | city | "Kuttikkattoor"

@@ -1,0 +1,3 @@
+109 Felicitas, with a temperature of 170 kelvins, has an apoapsis of 523329000.0 (kilometres).
+The temperature of the asteroid called 109 Felicitas is 170.0 kelvins and it has an apoapsis of 523329000.0 km.
+The temperature of the asteroid called 109 Felicitas is 170.0 kelvins and it has an apoapsis of 523329000 kilometres.

@@ -1,0 +1,4 @@
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Montevideo | country | Uruguay
+Uruguay | demonym | Uruguayans
+Montevideo | leaderName | Daniel_Martínez_(politician)

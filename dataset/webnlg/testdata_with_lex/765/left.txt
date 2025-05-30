@@ -1,0 +1,4 @@
+Batchoy | ingredient | Chicken
+Batchoy | country | Philippines
+Batchoy | course | Soup
+Batchoy | mainIngredients | "noodles, pork organs, vegetables, chicken, shrimp, beef"

@@ -1,0 +1,2 @@
+Ariane_5 | manufacturer | Airbus_Defence_and_Space
+Airbus_Defence_and_Space | parentCompany | Airbus_Group

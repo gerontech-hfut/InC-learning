@@ -1,0 +1,5 @@
+Alfred_Garth_Jones | deathPlace | Sidcup
+Alfred_Garth_Jones | deathPlace | London
+Alfred_Garth_Jones | birthPlace | Manchester
+London | leaderTitle | European_Parliament
+London | leaderName | Boris_Johnson

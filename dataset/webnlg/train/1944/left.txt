@@ -1,0 +1,2 @@
+Ashgabat_International_Airport | 3rd_runway_LengthFeet | 2953
+Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211

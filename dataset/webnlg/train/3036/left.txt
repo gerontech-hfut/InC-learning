@@ -1,0 +1,3 @@
+Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
+Afonso_Pena_International_Airport | runwayName | "15/33"
+Afonso_Pena_International_Airport | runwayLength | 1800.0

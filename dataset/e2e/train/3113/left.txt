@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : coffee shop | food : Italian | price : high | customer rating : 1 out of 5 | area : city centre

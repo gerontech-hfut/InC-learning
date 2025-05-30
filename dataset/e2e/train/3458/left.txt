@@ -1,0 +1,1 @@
+name : Travellers Rest Beefeater | Type : restaurant | price : £ 20 - 25 | family friendly : yes

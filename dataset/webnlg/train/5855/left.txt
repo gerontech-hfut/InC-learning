@@ -1,0 +1,5 @@
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Apollo_12 | commander | David_Scott
+Alan_Bean | was selected by NASA | 1963
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"

@@ -1,0 +1,1 @@
+Al_Asad_Airbase | elevationAboveTheSeaLevel_(in_feet) | 618

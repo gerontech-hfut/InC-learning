@@ -1,0 +1,3 @@
+A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500
+A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis
+A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli

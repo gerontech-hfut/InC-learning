@@ -1,0 +1,6 @@
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Alan_Shepard | deathPlace | California
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | deathDate | "1998-07-21"
+Alan_Shepard | nationality | United_States
+Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)

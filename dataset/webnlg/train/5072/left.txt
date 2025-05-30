@@ -1,0 +1,4 @@
+Batchoy | country | Philippines
+Batchoy | mainIngredients | "noodles, pork organs, vegetables, chicken, shrimp, beef"
+Batchoy | ingredient | Shrimp
+Batchoy | region | La_Paz,_Iloilo_City

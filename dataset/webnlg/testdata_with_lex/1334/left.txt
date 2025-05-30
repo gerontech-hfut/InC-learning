@@ -1,0 +1,2 @@
+109_Felicitas | apoapsis | 523329000.0 (kilometres)
+109_Felicitas | temperature | 170.0 (kelvins)

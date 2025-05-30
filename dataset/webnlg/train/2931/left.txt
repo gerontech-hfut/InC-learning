@@ -1,0 +1,2 @@
+Addiction_(journal) | CODEN_code | "ADICE5"
+Addiction_(journal) | abbreviation | "Addiction"

@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : restaurant | price : less than £ 20

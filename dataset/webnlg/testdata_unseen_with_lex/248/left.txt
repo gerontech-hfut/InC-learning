@@ -1,0 +1,2 @@
+Adonis_Georgiadis | birthPlace | Greece
+Adonis_Georgiadis | office (workedAt, workedAs) | "Deputy Parliamentary Spokesman of Popular Orthodox Rally"

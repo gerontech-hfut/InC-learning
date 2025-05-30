@@ -1,0 +1,3 @@
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Bebi_Dol
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač
+Aleksandra_Kovač | genre | Pop_music

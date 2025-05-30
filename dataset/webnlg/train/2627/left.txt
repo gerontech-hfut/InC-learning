@@ -1,0 +1,2 @@
+A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez
+A.D._Isidro_Metapán | numberOfMembers | 10000

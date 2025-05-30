@@ -1,0 +1,4 @@
+1634:_The_Bavarian_Crisis | author | Eric_Flint
+Eric_Flint | influencedBy | Robert_A._Heinlein
+1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion
+Eric_Flint | birthPlace | Burbank,_California

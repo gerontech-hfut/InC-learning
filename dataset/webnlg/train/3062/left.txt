@@ -1,0 +1,3 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | battles | Invasion_of_Grenada
+United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya

@@ -1,0 +1,4 @@
+Bionico | country | Mexico
+Bionico | mainIngredients | "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"
+Bionico | region | Jalisco
+Bionico | ingredient | Sour_cream

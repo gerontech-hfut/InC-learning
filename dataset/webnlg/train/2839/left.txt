@@ -1,0 +1,2 @@
+AIDS_(journal) | country | United_Kingdom
+United_Kingdom | capital | London

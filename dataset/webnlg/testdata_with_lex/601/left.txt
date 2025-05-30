@@ -1,0 +1,4 @@
+Adare_Manor | location | Adare
+County_Limerick | isPartOf | Munster
+Adare_Manor | location | County_Limerick
+County_Limerick | governmentType | Limerick_City_and_County_Council

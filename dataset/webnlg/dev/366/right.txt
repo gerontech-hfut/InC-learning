@@ -1,0 +1,3 @@
+A Wizard of Mars is 560 pages long and has the ISBN number 978-0-15-204770-2.
+A Wizard of Mars has 560 pages and the ISBN number 978-0-15-204770-2.
+A Wizard of Mars with ISBN number "978-0-15-204770-2 contains 560 pages.

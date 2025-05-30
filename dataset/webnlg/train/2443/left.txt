@@ -1,0 +1,2 @@
+Barny_Cakes | country | France
+France | leaderName | Gérard_Larcher

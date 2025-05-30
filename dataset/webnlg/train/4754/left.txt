@@ -1,0 +1,4 @@
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business

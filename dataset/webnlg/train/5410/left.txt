@@ -1,0 +1,4 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Switzerland | leaderName | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600

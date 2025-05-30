@@ -1,0 +1,3 @@
+Vermicelli is an ingredient in Bakso.
+Vermicelli is an ingredient of the dish Bakso.
+Vermicelli is included in bakso.

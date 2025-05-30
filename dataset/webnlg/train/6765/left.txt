@@ -1,0 +1,6 @@
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+European_University_Association | headquarters | Brussels
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association

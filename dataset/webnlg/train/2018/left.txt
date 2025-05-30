@@ -1,0 +1,2 @@
+New_Hampshire | bird | Purple_finch
+Alan_Shepard | birthPlace | New_Hampshire

@@ -1,0 +1,3 @@
+Antioquia_Department | country | Colombia
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | region | Antioquia_Department

@@ -1,0 +1,5 @@
+Iraq | leaderName | Haider_al-Abadi
+Iraq | officialLanguage | Arabic
+Iraq | leaderName | Fuad_Masum
+Al-Taqaddum_Air_Base | cityServed | Fallujah
+Fallujah | country | Iraq

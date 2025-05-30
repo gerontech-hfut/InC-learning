@@ -1,0 +1,3 @@
+Netherlands | currency | Euro
+Ab_Klink | birthPlace | Stellendam
+Ab_Klink | nationality | Netherlands

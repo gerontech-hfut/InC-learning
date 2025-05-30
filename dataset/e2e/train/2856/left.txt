@@ -1,0 +1,1 @@
+name : Strada | food : Chinese | price : moderate | customer rating : 3 out of 5 | family friendly : no | near : Rainbow Vegetarian Café

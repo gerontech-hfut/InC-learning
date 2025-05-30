@@ -1,0 +1,3 @@
+Agra Airport is in Uttar Pradesh and is operated by the Indian Air Force. It has two type of identifiers, its ATA Location identifier is AGR and its ICAO location identifier is VIAG.
+Agra airport is operated by the Indian Air Force and is located in Uttar Pradesh. Its ATA location identifier is AGR, but the location identifier for the airport is VIAG.
+Agra airport is operated by the Indian air force and is located in Uttar Pradesh. The IATA ID for the airport is AGR and the location identifier is VIAG.

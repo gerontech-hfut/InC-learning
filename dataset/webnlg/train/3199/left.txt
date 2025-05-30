@@ -1,0 +1,3 @@
+Alan_Shepard | occupation | Test_pilot
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | birthDate | "1923-11-18"

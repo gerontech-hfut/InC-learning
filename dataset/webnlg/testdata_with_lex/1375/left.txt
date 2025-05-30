@@ -1,0 +1,2 @@
+General_Dynamics_Electric_Boat | parentCompany | General_Dynamics
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat

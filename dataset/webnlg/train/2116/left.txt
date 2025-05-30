@@ -1,0 +1,2 @@
+Addis_Ababa_City_Hall | country | Ethiopia
+Ethiopia | language | Amharic

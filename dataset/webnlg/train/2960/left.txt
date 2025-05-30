@@ -1,0 +1,2 @@
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"

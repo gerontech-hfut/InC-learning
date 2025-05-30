@@ -1,0 +1,2 @@
+Batagor | country | Indonesia
+Batagor | servingTemperature | "hot"

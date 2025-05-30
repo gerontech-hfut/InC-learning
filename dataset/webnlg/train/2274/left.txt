@@ -1,0 +1,2 @@
+The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"
+The_Arrow_(comicsCharacter) | creator | Paul_Gustavson

@@ -1,0 +1,5 @@
+Aleksandr_Chumakov | deathPlace | Russia
+Russia | leaderName | Valentina_Matviyenko
+Aleksandr_Chumakov | club | FC_Torpedo_Moscow
+Aleksandr_Chumakov | club | Soviet_Union_national_football_team
+FC_Torpedo_Moscow | manager | Valery_Petrakov

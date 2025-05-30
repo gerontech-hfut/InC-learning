@@ -1,0 +1,3 @@
+AFC_Ajax_(amateurs) | numberOfMembers | 5000
+AFC_Ajax_(amateurs) | league | Hoofdklasse
+AFC_Ajax_(amateurs) | season | 2014

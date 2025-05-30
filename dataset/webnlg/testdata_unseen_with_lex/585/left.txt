@@ -1,0 +1,3 @@
+Alex_Tyus | league | Turkish_Basketball_Super_League
+Alex_Tyus | club | Maccabi_Ashdod_B.C.
+Maccabi_Ashdod_B.C. | coach | Zvi_Sherf

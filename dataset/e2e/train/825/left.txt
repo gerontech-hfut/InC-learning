@@ -1,0 +1,1 @@
+name : Giraffe | Type : pub | food : Japanese | area : city centre | family friendly : yes

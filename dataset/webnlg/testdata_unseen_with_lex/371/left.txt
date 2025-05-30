@@ -1,0 +1,2 @@
+A-Rosa_Luna | shipOrdered | 2004-01-22
+A-Rosa_Luna | length | 125800.0 (millimetres)

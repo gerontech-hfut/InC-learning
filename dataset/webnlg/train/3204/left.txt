@@ -1,0 +1,3 @@
+Apollo_12 | backup pilot | Alfred_Worden
+Alan_Bean | was a crew member of | Apollo_12
+Alan_Bean | birthPlace | Wheeler,_Texas

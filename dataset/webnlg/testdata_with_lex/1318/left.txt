@@ -1,0 +1,2 @@
+(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)

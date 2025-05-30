@@ -1,0 +1,2 @@
+Ashgabat_International_Airport | ICAO_Location_Identifier | "UTAA"
+Ashgabat_International_Airport | IATA_Location_Identifier | "ASB"

@@ -1,0 +1,6 @@
+Denmark | leaderName | Lars_Løkke_Rasmussen
+European_University_Association | headquarters | Brussels
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+Denmark | leaderTitle | Monarchy_of_Denmark
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+Denmark | religion | Church_of_Denmark

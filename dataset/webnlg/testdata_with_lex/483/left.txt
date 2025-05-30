@@ -1,0 +1,3 @@
+Alpharetta,_Georgia | country | United_States
+United_States | ethnicGroup | African_Americans
+Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia

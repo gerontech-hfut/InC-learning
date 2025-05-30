@@ -1,0 +1,1 @@
+name : Travellers Rest Beefeater | price : cheap | customer rating : 5 out of 5 | area : city centre | near : Café Adriatic

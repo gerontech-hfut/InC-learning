@@ -1,0 +1,5 @@
+Abel_Hernández | youthclub | Peñarol
+Central_Español | league | Uruguayan_Segunda_División
+Abel_Hernández | club | Central_Español
+Peñarol | manager | Jorge_Orosmán_da_Silva
+Abel_Hernández | club | U.S._Città_di_Palermo

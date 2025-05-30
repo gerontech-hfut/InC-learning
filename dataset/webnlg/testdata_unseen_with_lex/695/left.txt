@@ -1,0 +1,4 @@
+Ahmet_Ertegun | genre | Rock_and_roll
+Ahmet_Ertegun | origin | United_States
+Rock_and_roll | stylisticOrigin | Blues
+United_States | ethnicGroup | African_Americans

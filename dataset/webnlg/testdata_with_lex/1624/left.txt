@@ -1,0 +1,4 @@
+AMC_Matador | alternativeName | "VAM Classic"
+AMC_Matador | assembly | Kenosha,_Wisconsin
+AMC_Matador | class | Mid-size_car
+AMC_Matador | engine | AMC_straight-6_engine

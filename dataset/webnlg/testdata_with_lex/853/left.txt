@@ -1,0 +1,5 @@
+Batagor | country | Indonesia
+Indonesia | leaderName | Joko_Widodo
+Batagor | dishVariation | Siomay
+Siomay | ingredient | Peanut_sauce
+Batagor | dishVariation | Shumai

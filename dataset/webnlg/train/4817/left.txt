@@ -1,0 +1,4 @@
+Ethiopia | leaderName | Mulatu_Teshome
+Ethiopia | leaderName | Hailemariam_Desalegn
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | country | Ethiopia

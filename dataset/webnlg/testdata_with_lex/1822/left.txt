@@ -1,0 +1,5 @@
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | origin | United_States
+Aaron_Deer | associatedBand/associatedMusicalArtist | Wee_Giant
+Aaron_Deer | background | "solo_singer"
+Aaron_Deer | origin | Indiana

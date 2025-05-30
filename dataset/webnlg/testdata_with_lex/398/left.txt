@@ -1,0 +1,3 @@
+Buzz_Aldrin | nationality | United_States
+Buzz_Aldrin | was selected by NASA | 1963
+Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"

@@ -1,0 +1,5 @@
+Finland | demonym | Finns
+Finland | language | Sami_languages
+Finland | leaderName | Juha_Sipilä
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard

@@ -1,0 +1,4 @@
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Chinese_Filipino

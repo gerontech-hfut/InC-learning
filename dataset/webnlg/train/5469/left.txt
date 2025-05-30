@@ -1,0 +1,4 @@
+Visvesvaraya_Technological_University | city | Belgaum
+Acharya_Institute_of_Technology | sportsOffered | Tennis
+Tennis | sportsGoverningBody | International_Tennis_Federation
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

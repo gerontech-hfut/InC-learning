@@ -1,0 +1,3 @@
+Alfons_Gorbach | deathPlace | Graz
+Alfons_Gorbach | birthPlace | County_of_Tyrol
+Alfons_Gorbach | birthPlace | Austria

@@ -1,0 +1,1 @@
+Abilene_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 546

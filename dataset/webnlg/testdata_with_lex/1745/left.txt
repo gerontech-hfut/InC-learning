@@ -1,0 +1,5 @@
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | demonym | Americans
+United_States | capital | Washington,_D.C.
+United_States | anthem | The_Star-Spangled_Banner

@@ -1,0 +1,2 @@
+(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)
+(410777)_2009_FD | minimumTemperature | 211.0 (kelvins)

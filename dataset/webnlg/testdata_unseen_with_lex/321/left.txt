@@ -1,0 +1,2 @@
+Aleksandra_Kovač | genre | Pop_music
+Aleksandra_Kovač | background | "solo_singer"

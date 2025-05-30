@@ -1,0 +1,4 @@
+Arrabbiata_sauce | mainIngredients | "Tomatoes, red chili, garlic, olive oil"
+Arrabbiata_sauce | region | Rome
+Arrabbiata_sauce | country | Italy
+Arrabbiata_sauce | ingredient | Olive_oil

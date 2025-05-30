@@ -1,0 +1,1 @@
+name : Bibimbap House | food : Indian | price : moderate | area : city centre | near : Clare Hall

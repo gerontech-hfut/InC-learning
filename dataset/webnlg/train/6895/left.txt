@@ -1,0 +1,7 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Switzerland | leaderName | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | location | Ticino
+Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland

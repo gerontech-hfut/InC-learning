@@ -1,0 +1,2 @@
+Ayam_penyet | region | Singapore
+Singapore | leaderName | Tony_Tan

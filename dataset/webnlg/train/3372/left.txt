@@ -1,0 +1,3 @@
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Mason_School_of_Business | country | United_States

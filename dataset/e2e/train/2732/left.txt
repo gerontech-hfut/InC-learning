@@ -1,0 +1,1 @@
+name : Cotto | food : English | customer rating : high | family friendly : yes | near : Ranch

@@ -1,0 +1,4 @@
+Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Milan
+Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)

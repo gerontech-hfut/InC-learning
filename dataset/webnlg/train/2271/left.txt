@@ -1,0 +1,2 @@
+Roger_McKenzie_(comic_book_writer) | nationality | United_States
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)

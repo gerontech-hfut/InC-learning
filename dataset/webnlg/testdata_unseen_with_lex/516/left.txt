@@ -1,0 +1,3 @@
+Ska_punk | stylisticOrigin | Ska
+Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends
+Aaron_Bertram | genre | Ska_punk

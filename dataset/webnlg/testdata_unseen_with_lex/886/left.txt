@@ -1,0 +1,5 @@
+Polydor_Records | location | London
+Alternative_rock | musicFusionGenre | Nu_metal
+Andrew_White_(musician) | recordLabel | Polydor_Records
+Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)
+Andrew_White_(musician) | genre | Alternative_rock

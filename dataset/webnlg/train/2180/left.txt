@@ -1,0 +1,2 @@
+Asser_Levy_Public_Baths | location | Manhattan
+Manhattan | leaderName | Gale_Brewer

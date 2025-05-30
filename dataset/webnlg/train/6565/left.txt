@@ -1,0 +1,5 @@
+United_States | leaderName | Barack_Obama
+English_language | spokenIn | Great_Britain
+United_States | ethnicGroup | Asian_Americans
+United_States | language | English_language
+A_Wizard_of_Mars | country | United_States

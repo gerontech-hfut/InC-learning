@@ -1,0 +1,4 @@
+Bandeja_paisa | mainIngredients | "red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon"
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Pork_belly

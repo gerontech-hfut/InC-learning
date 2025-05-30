@@ -1,0 +1,2 @@
+Baked_Alaska | country | China
+Baked_Alaska | ingredient | Ice_cream

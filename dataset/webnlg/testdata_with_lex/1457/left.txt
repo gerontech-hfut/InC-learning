@@ -1,0 +1,3 @@
+Agustín_Barboza | birthPlace | Asunción
+Paraguay | leaderName | Juan_Afara
+Agustín_Barboza | birthPlace | Paraguay

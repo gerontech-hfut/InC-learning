@@ -1,0 +1,3 @@
+Alan_B._Miller_Hall | address | "101 Ukrop Way"
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business

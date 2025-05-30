@@ -1,0 +1,3 @@
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredients | Sago
+Binignit | country | Philippines

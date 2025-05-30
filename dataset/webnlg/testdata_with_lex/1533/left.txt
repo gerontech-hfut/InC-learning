@@ -1,0 +1,3 @@
+Adam_Maher | club | PSV_Eindhoven
+Adam_Maher | birthPlace | Netherlands
+Adam_Maher | club | AZ_Alkmaar

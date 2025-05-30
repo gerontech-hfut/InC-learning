@@ -1,0 +1,4 @@
+Arròs_negre | country | Spain
+Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Cuttlefish

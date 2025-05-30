@@ -1,0 +1,4 @@
+Bhajji | region | Karnataka
+Bhajji | mainIngredients | "Gram flour, vegetables"
+Bhajji | alternativeName | "Bhaji, bajji"
+Bhajji | ingredient | Gram_flour

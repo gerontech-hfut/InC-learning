@@ -1,0 +1,4 @@
+14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service
+14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"

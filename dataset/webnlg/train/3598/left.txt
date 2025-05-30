@@ -1,0 +1,3 @@
+Ayam_penyet | region | Malaysia
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | country | Java

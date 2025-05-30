@@ -1,0 +1,4 @@
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"
+AFC_Ajax_(amateurs) | season | 2014
+AFC_Ajax_(amateurs) | numberOfMembers | 5000
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"

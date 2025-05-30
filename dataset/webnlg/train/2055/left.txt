@@ -1,0 +1,2 @@
+20_Fenchurch_Street | buildingStartDate | "January 2009"
+20_Fenchurch_Street | floorArea | 62145.3 (square metres)

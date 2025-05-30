@@ -1,0 +1,4 @@
+Binignit | region | Visayas
+Binignit | mainIngredients | Taro
+Binignit | country | Philippines
+Binignit | ingredient | Sago

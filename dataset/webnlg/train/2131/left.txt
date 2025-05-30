@@ -1,0 +1,2 @@
+Akita_Museum_of_Art | floorCount | 3
+Akita_Museum_of_Art | floorArea | 3746.66 (square metres)

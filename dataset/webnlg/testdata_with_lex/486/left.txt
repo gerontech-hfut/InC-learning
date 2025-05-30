@@ -1,0 +1,3 @@
+Anaheim,_California | UTCOffset | "-7"
+Anaheim,_California | areaCode | 657, 714
+Anaheim,_California | areaTotal | 131.6 (square kilometres)

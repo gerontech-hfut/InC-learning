@@ -1,0 +1,4 @@
+A_Severed_Wasp | language | English_language
+English_language | spokenIn | Great_Britain
+A_Severed_Wasp | country | United_States
+United_States | ethnicGroup | African_Americans

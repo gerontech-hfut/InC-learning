@@ -1,0 +1,4 @@
+Manchester | isPartOf | Greater_Manchester
+Alfred_Garth_Jones | birthPlace | England
+Alfred_Garth_Jones | birthPlace | Manchester
+Manchester | leaderName | Labour_Party_(UK)

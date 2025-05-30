@@ -1,0 +1,1 @@
+name : Strada | food : Indian | price : high | customer rating : average | family friendly : no | near : Rainbow Vegetarian Café

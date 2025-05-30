@@ -1,0 +1,4 @@
+Adam_McQuaid | birthPlace | Prince_Edward_Island
+Adam_McQuaid | birthDate | 1986-10-12
+Adam_McQuaid | weight | 94.8024 (kilograms)
+Adam_McQuaid | birthYear | 1986

@@ -1,0 +1,3 @@
+10_Hygiea | averageSpeed | 16.76 (kilometrePerSeconds)
+10_Hygiea | orbitalPeriod | 5.57 (days)
+10_Hygiea | apoapsis | 523951582.33968 (kilometres)

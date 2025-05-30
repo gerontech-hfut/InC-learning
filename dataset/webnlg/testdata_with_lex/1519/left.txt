@@ -1,0 +1,3 @@
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | assembly | Audi_Brussels
+Audi_A1 | bodyStyle | Hatchback

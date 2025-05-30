@@ -1,0 +1,3 @@
+Adonis_Georgiadis | birthPlace | Greece
+Adonis_Georgiadis | office (workedAt, workedAs) | "Minister for Health"
+Adonis_Georgiadis | birthPlace | Athens

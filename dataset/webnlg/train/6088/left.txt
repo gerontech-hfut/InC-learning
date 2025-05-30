@@ -1,0 +1,5 @@
+Bananaman | creator | John_Geering
+Bananaman | starring | Graeme_Garden
+Bananaman | firstAired | "1983-10-03"
+Bananaman | lastAired | "1986-04-15"
+Bananaman | broadcastedBy | "STV"

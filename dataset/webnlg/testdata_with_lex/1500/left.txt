@@ -1,0 +1,3 @@
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | engine | Straight-four_engine

@@ -1,0 +1,3 @@
+Dead_Man's_Plack | location | England
+England | capital | London
+Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia

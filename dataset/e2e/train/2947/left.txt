@@ -1,0 +1,1 @@
+name : The Rice Boat | food : English | customer rating : 5 out of 5 | area : city centre | family friendly : yes

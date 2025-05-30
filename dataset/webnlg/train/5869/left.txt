@@ -1,0 +1,5 @@
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | occupation | Test_pilot
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | dateOfRetirement | "1974-08-01"
+Apollo_14 | operator | NASA

@@ -1,0 +1,3 @@
+The ICAO Location Identifier of Ashgabat International Airport is UTAA and the IATA location is ASB.
+UTAA is the ICAO Location Identifier of Ashgabat International Airport and ASB is the IATA identifier.
+Ashgabat International airport has an ICAO location identifier of UTAA, and an IATA location identifier of ASB.

@@ -1,0 +1,5 @@
+Austin,_Texas | isPartOf | Texas
+Texas | language | English_language
+Austin,_Texas | isPartOf | Williamson_County,_Texas
+Williamson_County,_Texas | largestCity | Round_Rock,_Texas
+Williamson_County,_Texas | countySeat | Georgetown,_Texas

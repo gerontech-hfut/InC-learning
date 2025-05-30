@@ -1,0 +1,5 @@
+Amdavad_ni_Gufa | location | Ahmedabad
+Ahmedabad | country | India
+Amdavad_ni_Gufa | location | Gujarat
+India | leaderName | Sumitra_Mahajan
+Gujarat | leaderTitle | Gujarat_Legislative_Assembly

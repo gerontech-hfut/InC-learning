@@ -1,0 +1,2 @@
+United_Kingdom | leaderName | Elizabeth_II
+Aston_Martin_V8 | assembly | United_Kingdom

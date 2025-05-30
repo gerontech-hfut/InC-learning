@@ -1,0 +1,2 @@
+Sandesh and Baked Alaska (which contains ice cream) are both desserts.
+Baked Alaska (which has ice cream as an ingredient) and sandesh are both types of dessert.

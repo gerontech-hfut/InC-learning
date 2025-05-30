@@ -1,0 +1,5 @@
+Andra_(singer) | genre | Rhythm_and_blues
+Andra_(singer) | background | "solo_singer"
+Andra_(singer) | birthYear | 1986
+Andra_(singer) | occupation | Singing
+Andra_(singer) | birthPlace | Romania

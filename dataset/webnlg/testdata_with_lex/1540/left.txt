@@ -1,0 +1,3 @@
+Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.
+Alan_Martin_(footballer) | birthDate | 1989-01-01
+Alan_Martin_(footballer) | club | Clyde_F.C.

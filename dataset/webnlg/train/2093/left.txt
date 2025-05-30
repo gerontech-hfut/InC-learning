@@ -1,0 +1,2 @@
+3Arena | location | Dublin
+Dublin | isPartOf | Leinster

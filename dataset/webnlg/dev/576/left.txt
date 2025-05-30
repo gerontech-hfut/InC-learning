@@ -1,0 +1,4 @@
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | dateOfRetirement | "1974-08-01"
+Alan_Shepard | birthDate | "1923-11-18"

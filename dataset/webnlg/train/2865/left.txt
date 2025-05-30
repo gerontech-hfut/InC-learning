@@ -1,0 +1,2 @@
+A_Glastonbury_Romance | precededBy | Wolf_Solent
+Wolf_Solent | author | John_Cowper_Powys

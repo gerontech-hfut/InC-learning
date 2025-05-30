@@ -1,0 +1,1 @@
+name : Strada | food : English | price : cheap | customer rating : average | family friendly : yes | near : Rainbow Vegetarian Café

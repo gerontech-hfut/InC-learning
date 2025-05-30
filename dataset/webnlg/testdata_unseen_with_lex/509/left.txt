@@ -1,0 +1,3 @@
+Andra_(singer) | associatedBand/associatedMusicalArtist | Puya_(singer)
+Andra_(singer) | associatedBand/associatedMusicalArtist | CRBL
+Andra_(singer) | genre | Dance-pop

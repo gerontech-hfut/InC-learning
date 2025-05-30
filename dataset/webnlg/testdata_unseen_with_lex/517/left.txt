@@ -1,0 +1,3 @@
+United_States | ethnicGroup | African_Americans
+Albennie_Jones | birthPlace | Errata,_Mississippi
+Albennie_Jones | birthPlace | United_States

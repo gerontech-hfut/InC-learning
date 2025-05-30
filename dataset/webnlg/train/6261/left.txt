@@ -1,0 +1,5 @@
+Bionico | country | Mexico
+Mexico | language | Spanish_language
+Mexico | leaderName | Enrique_Peña_Nieto
+Bionico | dishVariation | Cottage_cheese
+Bionico | course | Dessert

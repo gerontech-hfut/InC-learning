@@ -1,0 +1,5 @@
+Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Montevideo | country | Uruguay
+Montevideo | leaderName | Daniel_Martínez_(politician)
+Uruguay | language | Spanish_language

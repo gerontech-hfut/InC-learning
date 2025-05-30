@@ -1,0 +1,2 @@
+Arròs_negre | region | Catalonia
+Catalonia | leaderName | Parliament_of_Catalonia

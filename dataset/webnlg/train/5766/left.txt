@@ -1,0 +1,5 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Appleton,_Wisconsin | isPartOf | Kimberly,_Wisconsin
+Greenville,_Wisconsin | isPartOf | Dale,_Wisconsin
+Greenville,_Wisconsin | country | United_States
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin

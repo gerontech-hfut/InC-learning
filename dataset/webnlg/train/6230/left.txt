@@ -1,0 +1,5 @@
+Beef_kway_teow | region | Singapore
+Singapore | language | English_language
+Beef_kway_teow | country | Indonesia
+Singapore | leaderName | Tony_Tan
+Singapore | leaderName | Halimah_Yacob

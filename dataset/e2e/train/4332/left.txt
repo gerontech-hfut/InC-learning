@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : coffee shop | food : Fast food | price : moderate | customer rating : 3 out of 5 | area : city centre

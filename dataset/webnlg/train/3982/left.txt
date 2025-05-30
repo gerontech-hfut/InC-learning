@@ -1,0 +1,3 @@
+AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"
+AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League
+AZAL_PFK | numberOfMembers | 3500

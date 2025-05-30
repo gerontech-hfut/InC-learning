@@ -1,0 +1,4 @@
+Acta_Palaeontologica_Polonica | LCCN_number | 60040714
+Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology
+Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."
+Acta_Palaeontologica_Polonica | ISSN_number | "0567-7920"

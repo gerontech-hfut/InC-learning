@@ -1,0 +1,2 @@
+AZAL_Arena | location | Baku
+AZAL_PFK | ground | AZAL_Arena

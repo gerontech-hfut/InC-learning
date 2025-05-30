@@ -1,0 +1,4 @@
+Binignit | ingredient | Sweet_potato
+Sweet_potato | division | Flowering_plant
+Binignit | mainIngredients | Coconut_milk
+Sweet_potato | order | Solanales

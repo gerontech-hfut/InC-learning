@@ -1,0 +1,3 @@
+Ardmore_Airport_(New_Zealand) | runwayLength | 1411.0
+Ardmore_Airport_(New_Zealand) | 3rd_runway_SurfaceType | Poaceae
+Ardmore_Airport_(New_Zealand) | elevationAboveTheSeaLevel_(in_metres) | 34.0

@@ -1,0 +1,3 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
+Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
+San_Sebastián_de_los_Reyes | country | Spain

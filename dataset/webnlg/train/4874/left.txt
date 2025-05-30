@@ -1,0 +1,4 @@
+Roger_McKenzie_(comic_book_writer) | nationality | United_States
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)
+Ben_Urich | creator | Gene_Colan
+Ben_Urich | fullName | "Benjamin Urich"

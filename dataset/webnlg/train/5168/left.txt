@@ -1,0 +1,4 @@
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"
+Ayam_penyet | country | Java

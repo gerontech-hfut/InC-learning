@@ -1,0 +1,1 @@
+name : Aromi | Type : coffee shop | food : French | customer rating : average | area : city centre | family friendly : yes

@@ -1,0 +1,2 @@
+Bakso | ingredient | Noodle
+Bakso | country | Indonesia

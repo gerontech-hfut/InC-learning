@@ -1,0 +1,2 @@
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman
+AIDAluna | powerType | Caterpillar_Inc.

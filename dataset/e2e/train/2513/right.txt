@@ -1,0 +1,6 @@
+There is a restaurant called The Phoenix . They are located at the city centre . They serve Japanese food , have a customer rating of 3 out of 5 , and their price ranges from L20 - 25 . 
+The Phoenix serves Japanese food . Their price ranges from L20 - 25 and they have a customer rating of 3 out of 5 . They are located at the city centre . 
+There is a cheap Japanese restaurant , The Phoenix in the city centre . 
+Located in the city centre , The Phoenix is a Japanese restaurant offering moderately priced food . It has a customer rating of 3 out of 5 . 
+The Phoenix is a cheap Japanese restaurant in the city centre . 
+The Phoenix is a Japanese restaurant located in the centre of the city . It offers food in the average price range and has a customer rating of 3 out of 5 . 

@@ -1,0 +1,4 @@
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | country | Philippines
+Philippines | ethnicGroup | Igorot_people

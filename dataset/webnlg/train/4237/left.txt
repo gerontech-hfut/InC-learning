@@ -1,0 +1,3 @@
+Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences
+Polish_Academy_of_Sciences | headquarter | Warsaw
+Polish_Academy_of_Sciences | regionServed | Poland

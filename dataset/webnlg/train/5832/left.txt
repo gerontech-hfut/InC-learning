@@ -1,0 +1,5 @@
+Madrid | isPartOf | Community_of_Madrid
+ENAIRE | locationCity | Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
+San_Sebastián_de_los_Reyes | country | Spain
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE

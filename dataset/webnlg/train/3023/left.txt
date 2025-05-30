@@ -1,0 +1,3 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18R/36L"
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0

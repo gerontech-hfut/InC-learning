@@ -1,0 +1,4 @@
+Bacon_sandwich | dishVariation | BLT
+BLT | dishVariation | Club_sandwich
+Bacon_sandwich | country | United_Kingdom
+United_Kingdom | language | English_language

@@ -1,0 +1,5 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Stuart_Parker_(footballer) | club | Chesterfield_F.C.
+Stuart_Parker_(footballer) | club | Stockport_County_F.C.
+A.F.C._Blackpool | ground | Blackpool
+Blackpool | leader | Labour_Party_(UK)

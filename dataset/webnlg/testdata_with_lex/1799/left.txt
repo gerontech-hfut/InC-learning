@@ -1,0 +1,5 @@
+Abraham_A._Ribicoff | deathPlace | United_States
+Abraham_A._Ribicoff | party | Democratic_Party_(United_States)
+Abraham_A._Ribicoff | birthPlace | Connecticut
+Abraham_A._Ribicoff | nationality | United_States
+Abraham_A._Ribicoff | office (workedAt, workedAs) | "Governor of Connecticut"

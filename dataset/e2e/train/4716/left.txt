@@ -1,0 +1,1 @@
+name : Strada | food : French | price : high | customer rating : 3 out of 5 | family friendly : no | near : Rainbow Vegetarian Café

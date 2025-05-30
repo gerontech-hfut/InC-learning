@@ -1,0 +1,2 @@
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"
+Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"

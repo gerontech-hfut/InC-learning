@@ -1,0 +1,4 @@
+Weymouth_Sands | followedBy | Maiden_Castle_(novel)
+A_Glastonbury_Romance | followedBy | Weymouth_Sands
+Weymouth_Sands | author | John_Cowper_Powys
+A_Glastonbury_Romance | precededBy | Wolf_Solent

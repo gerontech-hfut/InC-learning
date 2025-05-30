@@ -1,0 +1,3 @@
+320_South_Boston_Building | architect | George_Winkler
+George_Winkler | country | United_States
+320_South_Boston_Building | buildingStartDate | 1910

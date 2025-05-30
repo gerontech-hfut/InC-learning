@@ -1,0 +1,4 @@
+United_States | language | English_language
+Angola,_Indiana | isPartOf | Indiana
+Angola,_Indiana | country | United_States
+United_States | ethnicGroup | Asian_Americans

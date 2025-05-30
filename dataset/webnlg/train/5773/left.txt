@@ -1,0 +1,5 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Greenville,_Wisconsin | isPartOf | Ellington,_Wisconsin
+Greenville,_Wisconsin | country | United_States
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin
+Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin

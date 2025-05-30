@@ -1,0 +1,2 @@
+AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23

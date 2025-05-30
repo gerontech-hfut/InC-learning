@@ -1,0 +1,4 @@
+Alberto_Teisaire | deathPlace | Buenos_Aires
+Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta
+Alberto_Teisaire | party | Justicialist_Party
+Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón

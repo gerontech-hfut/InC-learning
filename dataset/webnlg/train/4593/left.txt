@@ -1,0 +1,4 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | was a crew member of | Apollo_11
+Buzz_Aldrin | status | "Retired"
+Apollo_11 | operator | NASA

@@ -1,0 +1,6 @@
+Turkey | leaderTitle | President_of_Turkey
+Turkey | leader | Ahmet_Davutoğlu
+Turkey | capital | Ankara
+Atatürk_Monument_(İzmir) | material | "Bronze"
+Turkey | currency | Turkish_lira
+Atatürk_Monument_(İzmir) | location | Turkey

@@ -1,0 +1,4 @@
+Adam_Holloway | battles | Gulf_War
+Adam_Holloway | birthPlace | Kent
+Adam_Holloway | activeYearsStartDate | 2005-05-05
+Adam_Holloway | almaMater | Magdalene_College,_Cambridge

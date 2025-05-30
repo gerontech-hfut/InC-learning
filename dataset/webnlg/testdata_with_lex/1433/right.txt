@@ -1,0 +1,3 @@
+103 Hera has an apoapsis of 437170000 km, an orbital period of 1622.213 days and an epoch date of 27 August 2011.
+103 Hera has the epoch of 27 August 2011. It has an orbital period of 1622.213 days and an apoapsis of 437170000.0 (kilometres).
+103 Hera, which has an epoch date of 27 August 2011, has an apoapsis of 437170000.0 km and an orbital period of 1622.213 days.

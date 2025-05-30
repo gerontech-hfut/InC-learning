@@ -1,0 +1,3 @@
+Auron_(comicsCharacter) | creator | Karl_Kesel
+Auron_(comicsCharacter) | creator | Walt_Simonson
+Auron_(comicsCharacter) | fullName | "Lambien"

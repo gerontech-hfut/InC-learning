@@ -1,0 +1,4 @@
+Auburn,_Alabama | isPartOf | Lee_County,_Alabama
+Auburn,_Alabama | country | United_States
+Lee_County,_Alabama | state | Alabama
+United_States | ethnicGroup | Asian_Americans

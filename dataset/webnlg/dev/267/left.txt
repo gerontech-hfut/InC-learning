@@ -1,0 +1,2 @@
+Alan_B._Miller_Hall | buildingStartDate | "30 March 2007"
+Alan_B._Miller_Hall | address | "101 Ukrop Way"

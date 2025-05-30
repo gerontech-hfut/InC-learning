@@ -1,0 +1,3 @@
+109 Felicitas, with an escape velocity of 0.0473 kmps, has an epoch date of 31 December 2006, an orbital period of 139705000.0 and a periapsis of 283326000000.0.
+109 Felicitas has an orbital period of 139705000.0 and a periapsis of 283326000000.0. Its epoch date is 31 December 2006, and it has an escape velocity of 0.0473 kilometres per second.
+109 Felicitas ,which has an epoch date of December 31st 2006, has an escape velocity of 0.0473 kilometres per second. 139705000.0 is its orbital period and 283326000000.0 is its periapsis.

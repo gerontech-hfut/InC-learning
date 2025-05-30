@@ -1,0 +1,2 @@
+Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"
+Bhajji | ingredient | Vegetable

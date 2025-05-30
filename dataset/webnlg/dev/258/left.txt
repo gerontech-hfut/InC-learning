@@ -1,0 +1,2 @@
+250_Delaware_Avenue | location | United_States
+United_States | leaderName | Barack_Obama

@@ -1,0 +1,3 @@
+The novel Castle is followed by Aenir.
+Aenir followed the novel Castle.
+Castle is followed by Aenir.

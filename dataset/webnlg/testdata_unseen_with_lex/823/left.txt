@@ -1,0 +1,5 @@
+11264_Claudiomaccone | epoch | 2005-11-26
+11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)
+11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)
+11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)
+11264_Claudiomaccone | temperature | 173.0 (kelvins)

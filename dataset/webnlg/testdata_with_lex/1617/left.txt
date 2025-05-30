@@ -1,0 +1,4 @@
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | builder | Meyer_Werft
+AIDAstella | owner | Costa_Crociere

@@ -1,0 +1,2 @@
+Alba_Iulia | country | Romania
+1_Decembrie_1918_University | city | Alba_Iulia

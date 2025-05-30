@@ -1,0 +1,6 @@
+A restaurant with a price range greater than £ 30 that serves English food is The Dumpling Tree . 
+The Dumpling Tree serves English cuisine with prices at just over £ 30 
+The Dumpling Tree is a moderately priced restaurant that serves English food . 
+An English restaurant , The Dumpling Tree , serves moderately priced food . 
+The Dumpling Tree is a restaurant that serves English food and has a price range that is over £ 30 . 
+The Dumpling Tree is an English cuisine restaurant , with a very moderate price range of just over £ 30 

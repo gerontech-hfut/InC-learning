@@ -1,0 +1,4 @@
+Allen_Forrest | genre | Hip_hop_music
+Allen_Forrest | birthYear | 1981
+Allen_Forrest | birthPlace | "Fort Campbell, KY, raised in Dothan, AL"
+Allen_Forrest | background | "solo_singer"

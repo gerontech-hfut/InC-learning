@@ -1,0 +1,3 @@
+A_Severed_Wasp | language | English_language
+A_Severed_Wasp | country | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States

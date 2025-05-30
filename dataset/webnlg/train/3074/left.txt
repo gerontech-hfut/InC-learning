@@ -1,0 +1,3 @@
+Alderney_Airport | runwayLength | 497.0
+Alderney_Airport | 1st_runway_SurfaceType | Asphalt
+Alderney_Airport | cityServed | Alderney

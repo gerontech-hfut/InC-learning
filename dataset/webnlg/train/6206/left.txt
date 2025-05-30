@@ -1,0 +1,5 @@
+Barny_Cakes | country | France
+France | language | French_language
+France | leaderName | Claude_Bartolone
+France | leaderName | Manuel_Valls
+Barny_Cakes | ingredient | Sponge_cake

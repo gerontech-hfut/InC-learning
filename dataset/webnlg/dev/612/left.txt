@@ -1,0 +1,4 @@
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Ernie_Colón | nationality | Puerto_Ricans
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+Bolt_(comicsCharacter) | creator | Dan_Mishkin

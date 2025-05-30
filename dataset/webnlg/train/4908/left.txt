@@ -1,0 +1,4 @@
+Arrabbiata_sauce | country | Italy
+Italy | demonym | Italians
+Italy | capital | Rome
+Italy | leaderName | Sergio_Mattarella

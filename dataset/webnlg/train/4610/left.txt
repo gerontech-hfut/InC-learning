@@ -1,0 +1,4 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+University_of_Texas_at_Austin | affiliations | University_of_Texas_System
+Elliot_See | occupation | Test_pilot
+Elliot_See | birthPlace | Dallas

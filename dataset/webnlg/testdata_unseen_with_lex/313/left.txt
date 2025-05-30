@@ -1,0 +1,2 @@
+Abradab | birthDate | 1978-11-12
+Abradab | birthPlace | Katowice

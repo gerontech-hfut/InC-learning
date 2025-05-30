@@ -1,0 +1,3 @@
+Bananaman | starring | Bill_Oddie
+Bill_Oddie | child | Kate_Hardie
+Bill_Oddie | birthPlace | Rochdale

@@ -1,0 +1,2 @@
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | ingredient | Sesame_oil

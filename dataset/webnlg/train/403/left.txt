@@ -1,0 +1,1 @@
+250_Delaware_Avenue | buildingStartDate | "January, 2014"

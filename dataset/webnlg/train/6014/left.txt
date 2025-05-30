@@ -1,0 +1,5 @@
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | completionDate | "1 June 2009"
+Alan_B._Miller_Hall | address | "101 Ukrop Way"
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern

@@ -1,0 +1,1 @@
+name : Fitzbillies | Type : coffee shop | food : English | price : £ 20 - 25 | customer rating : high | area : riverside | family friendly : yes

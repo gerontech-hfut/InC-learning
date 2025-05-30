@@ -1,0 +1,6 @@
+Alan_Bean | occupation | Test_pilot
+Alan_Bean | birthDate | "1932-03-15"
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"
+Alan_Bean | was a crew member of | Apollo_12
+Alan_Bean | birthPlace | Wheeler,_Texas
+Alan_Bean | timeInSpace | "100305.0"(minutes)

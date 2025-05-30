@@ -1,0 +1,1 @@
+300_North_LaSalle | floorArea | 120770.0 (square metres)

@@ -1,0 +1,3 @@
+The Amsterdam Airport, whose runway is 3800 feet, serves Amsterdam.
+Amsterdam Airport Schuphol serves Amsterdam and has a runway length of 3800.0.
+Amsterdam Airport Schiphol's runway length is 3800.0 and it serves Amsterdam.

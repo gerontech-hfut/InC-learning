@@ -1,0 +1,4 @@
+Abilene_Regional_Airport | cityServed | Abilene,_Texas
+Abilene,_Texas | isPartOf | Texas
+Abilene_Regional_Airport | runwayLength | 1121.0
+Abilene,_Texas | country | United_States

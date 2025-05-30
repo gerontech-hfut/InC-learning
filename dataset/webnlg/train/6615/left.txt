@@ -1,0 +1,6 @@
+Apollo_12 | backup pilot | Alfred_Worden
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Apollo_12 | commander | David_Scott
+Alan_Bean | was selected by NASA | 1963
+Alan_Bean | birthDate | "1932-03-15"

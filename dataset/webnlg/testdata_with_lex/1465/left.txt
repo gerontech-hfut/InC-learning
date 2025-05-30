@@ -1,0 +1,3 @@
+Alex_Day | genre | Synthpop
+Synthpop | stylisticOrigin | Pop_music
+Synthpop | stylisticOrigin | Disco

@@ -1,0 +1,3 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | legislature | Federal_Assembly_(Switzerland)
+Switzerland | leaderName | Johann_Schneider-Ammann

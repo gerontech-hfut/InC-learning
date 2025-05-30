@@ -1,0 +1,5 @@
+Adare_Manor | country | Republic_of_Ireland
+Adare_Manor | architect | Augustus_Pugin
+Augustus_Pugin | significantBuilding | Palace_of_Westminster
+Augustus_Pugin | birthPlace | Bloomsbury
+Republic_of_Ireland | leaderName | Enda_Kenny

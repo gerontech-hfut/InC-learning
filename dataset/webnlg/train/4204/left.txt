@@ -1,0 +1,3 @@
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | OCLC_number | 8805735
+A_Severed_Wasp | mediaType | "Print"

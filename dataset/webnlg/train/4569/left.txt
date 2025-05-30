@@ -1,0 +1,4 @@
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Alan_Shepard | occupation | Test_pilot
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | was selected by NASA | 1959

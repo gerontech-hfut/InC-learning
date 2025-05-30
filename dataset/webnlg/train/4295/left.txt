@@ -1,0 +1,3 @@
+SAGE_Publications | founder | Sara_Miller_McCune
+Administrative_Science_Quarterly | OCLC_number | 1461102
+Administrative_Science_Quarterly | publisher | SAGE_Publications

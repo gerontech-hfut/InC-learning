@@ -1,0 +1,2 @@
+Bakso | ingredient | Beef
+Bakso | country | Chinese_cuisine

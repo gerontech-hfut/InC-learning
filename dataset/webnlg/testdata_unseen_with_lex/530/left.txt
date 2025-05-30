@@ -1,0 +1,3 @@
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | width | 1.55
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"

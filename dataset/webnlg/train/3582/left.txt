@@ -1,0 +1,3 @@
+Asam_pedas | country | Malaysia
+Malaysia | leaderName | Abdul_Halim_of_Kedah
+Malaysia | capital | Putrajaya

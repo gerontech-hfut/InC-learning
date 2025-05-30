@@ -1,0 +1,4 @@
+United_States | leaderName | Barack_Obama
+A_Wizard_of_Mars | language | English_language
+English_language | spokenIn | Great_Britain
+A_Wizard_of_Mars | country | United_States

@@ -1,0 +1,3 @@
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | birthPlace | New_Hampshire
+Apollo_14 | operator | NASA

@@ -1,0 +1,3 @@
+Aarhus_Airport | runwayLength | 2777.0
+Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"
+Aarhus_Airport | runwayName | "10R/28L"

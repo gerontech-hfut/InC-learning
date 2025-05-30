@@ -1,0 +1,4 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Greenville,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin
+Appleton,_Wisconsin | isPartOf | Kimberly,_Wisconsin
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin

@@ -1,0 +1,3 @@
+20_Fenchurch_Street | location | London
+London | leaderTitle | European_Parliament
+London | leaderName | Boris_Johnson

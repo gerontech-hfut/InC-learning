@@ -1,0 +1,5 @@
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman
+Caterpillar_Inc. | foundationPlace | United_States
+AIDA_Cruises | location | Rostock
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.

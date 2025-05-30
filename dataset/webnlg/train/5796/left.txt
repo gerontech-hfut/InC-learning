@@ -1,0 +1,5 @@
+Athens_International_Airport | cityServed | Athens
+Athens | country | Greece
+Greece | leaderName | Prokopis_Pavlopoulos
+Greece | demonym | Greeks
+Greece | leaderName | Alexis_Tsipras

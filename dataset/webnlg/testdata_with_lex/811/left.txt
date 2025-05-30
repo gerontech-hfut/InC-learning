@@ -1,0 +1,5 @@
+United_States | capital | Washington,_D.C.
+United_States | ethnicGroup | White_Americans
+New_Jersey | country | United_States
+United_States | largestCity | New_York_City
+Atlantic_City,_New_Jersey | isPartOf | New_Jersey

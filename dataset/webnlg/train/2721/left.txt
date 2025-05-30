@@ -1,0 +1,2 @@
+AZ_Alkmaar | owner | Max_Huiberts
+AZ_Alkmaar | numberOfMembers | 17023

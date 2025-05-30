@@ -1,0 +1,5 @@
+Antioch,_California | isPartOf | Contra_Costa_County,_California
+Antioch,_California | isPartOf | California
+California | language | English_language
+Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area
+Antioch,_California | leaderTitle | California's_11th_State_Assembly_district

@@ -1,0 +1,4 @@
+Amsterdam_Airport_Schiphol | cityServed | Amsterdam
+Amsterdam_Airport_Schiphol | runwayLength | 2014.0
+Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528
+Amsterdam_Airport_Schiphol | runwayName | "04/22 'Oostbaan'"

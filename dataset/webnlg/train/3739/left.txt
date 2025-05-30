@@ -1,0 +1,3 @@
+Binignit | ingredient | Coconut_milk
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie

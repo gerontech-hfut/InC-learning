@@ -1,0 +1,3 @@
+Bionico | ingredient | Granola
+Bionico | course | Dessert
+Dessert | dishVariation | Cookie

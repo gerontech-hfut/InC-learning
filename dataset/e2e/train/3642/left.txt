@@ -1,0 +1,1 @@
+name : Giraffe | Type : restaurant | price : less than £ 20 | near : The Six Bells

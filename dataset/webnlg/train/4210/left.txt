@@ -1,0 +1,3 @@
+A_Wizard_of_Mars | language | English_language
+United_States | ethnicGroup | Asian_Americans
+A_Wizard_of_Mars | country | United_States

@@ -1,0 +1,7 @@
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+Denmark | leaderName | Lars_Løkke_Rasmussen
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at the Aarhus University | established | 1928

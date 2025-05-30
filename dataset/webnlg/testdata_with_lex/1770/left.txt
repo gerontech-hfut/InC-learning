@@ -1,0 +1,5 @@
+Aleksandre_Guruli | club | FC_Karpaty_Lviv
+FC_Karpaty_Lviv | manager | Oleh_Luzhny
+Olympique_Lyonnais | chairman | Jean-Michel_Aulas
+Aleksandre_Guruli | club | Olympique_Lyonnais
+Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais

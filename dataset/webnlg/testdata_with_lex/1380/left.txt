@@ -1,0 +1,3 @@
+Abdul_Rahman_Ya'kub | hasDeputy | Stephen_Yong_Kuet_Tze
+Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak
+Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub

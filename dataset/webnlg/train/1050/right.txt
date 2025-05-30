@@ -1,0 +1,3 @@
+Ground beef is an ingredient in Basko.
+Ground beef is one ingredient in Bakso.
+Ground beef is an ingredient of Bakso.

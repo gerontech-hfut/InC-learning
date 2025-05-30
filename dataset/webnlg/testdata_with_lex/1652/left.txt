@@ -1,0 +1,4 @@
+General_Dynamics_Electric_Boat | parentCompany | General_Dynamics
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat
+General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut

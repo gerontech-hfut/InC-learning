@@ -1,0 +1,4 @@
+Italy | leaderName | Pietro_Grasso
+Italy | capital | Rome
+Amatriciana_sauce | country | Italy
+Italy | leaderName | Laura_Boldrini

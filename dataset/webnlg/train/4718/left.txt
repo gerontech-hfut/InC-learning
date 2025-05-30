@@ -1,0 +1,4 @@
+Adare_Manor | location | Adare
+Adare_Manor | completionDate | 1862
+Adare_Manor | architect | George_Richard_Pain
+Adare_Manor | location | County_Limerick

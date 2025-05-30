@@ -1,0 +1,2 @@
+Antwerp_International_Airport | cityServed | Antwerp
+Antwerp | country | Belgium

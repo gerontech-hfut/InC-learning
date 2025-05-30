@@ -1,0 +1,3 @@
+AIP_Advances | abbreviation | "AIP Adv."
+AIP_Advances | CODEN_code | "AAIDBI"
+AIP_Advances | editor | "Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson,  Masaaki Tanaka, Enge G. Wang"

@@ -1,0 +1,4 @@
+Batagor | dishVariation | Siomay
+Siomay | dishVariation | Shumai
+Shumai | ingredient | Shiitake
+Shumai | country | China

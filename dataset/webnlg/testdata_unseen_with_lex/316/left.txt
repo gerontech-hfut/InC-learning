@@ -1,0 +1,2 @@
+Ace_Wilder | recordLabel | Warner_Music_Group
+Ace_Wilder | background | "solo_singer"

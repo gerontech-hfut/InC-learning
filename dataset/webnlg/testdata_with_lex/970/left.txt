@@ -1,0 +1,7 @@
+William_Anders | dateOfRetirement | "1969-09-01"
+William_Anders | was selected by NASA | 1963
+William_Anders | timeInSpace | "8820.0"(minutes)
+William_Anders | birthDate | "1933-10-17"
+William_Anders | occupation | Fighter_pilot
+William_Anders | birthPlace | British_Hong_Kong
+William_Anders | was a crew member of | Apollo_8

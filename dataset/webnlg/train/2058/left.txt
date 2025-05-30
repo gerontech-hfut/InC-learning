@@ -1,0 +1,2 @@
+20_Fenchurch_Street | location | London
+London | leaderName | Boris_Johnson

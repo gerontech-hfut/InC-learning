@@ -1,0 +1,4 @@
+Adam_Koc | battles | Polish–Soviet_War
+Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
+Adam_Koc | deathPlace | New_York_City
+Polish–Soviet_War | commander | Joseph_Stalin

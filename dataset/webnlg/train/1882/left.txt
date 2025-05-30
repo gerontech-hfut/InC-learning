@@ -1,0 +1,2 @@
+Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210
+Alpena_County_Regional_Airport | owner | Alpena_County,_Michigan

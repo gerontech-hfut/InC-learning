@@ -1,0 +1,1 @@
+Appleton_International_Airport | runwayLength | 1982.0

@@ -1,0 +1,3 @@
+Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso
+Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit
+Anders_Osborne | associatedBand/associatedMusicalArtist | Kirk_Joseph

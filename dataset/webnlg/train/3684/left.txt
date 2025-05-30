@@ -1,0 +1,3 @@
+Bandeja_paisa | ingredient | Lemon
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | country | Colombian_cuisine

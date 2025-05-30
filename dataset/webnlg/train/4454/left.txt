@@ -1,0 +1,4 @@
+Andrews_County_Airport | location | Texas
+Texas | capital | Austin,_Texas
+Texas | language | English_language
+Texas | demonym | Texan

@@ -1,0 +1,2 @@
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Ohio

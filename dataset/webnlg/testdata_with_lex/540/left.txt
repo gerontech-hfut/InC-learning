@@ -1,0 +1,3 @@
+Arem-arem | ingredient | Banana_leaf
+Arem-arem | region | Javanese_cuisine
+Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"

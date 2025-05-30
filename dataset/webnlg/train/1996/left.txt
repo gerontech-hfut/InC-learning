@@ -1,0 +1,2 @@
+Alan_Shepard | timeInSpace | "13017.0"(minutes)
+Alan_Shepard | birthPlace | New_Hampshire

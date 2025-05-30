@@ -1,0 +1,3 @@
+Alberto_Teisaire | deathPlace | Buenos_Aires
+Buenos_Aires | governingBody | Buenos_Aires_City_Legislature
+Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta

@@ -1,0 +1,4 @@
+A.E_Dimitra_Efxeinoupolis | location | Greece
+Greece | leader | Alexis_Tsipras
+Greece | leader | Nikos_Voutsis
+Greece | language | Greek_language

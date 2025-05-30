@@ -1,0 +1,4 @@
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"

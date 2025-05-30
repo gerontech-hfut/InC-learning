@@ -1,0 +1,2 @@
+Chicken is a type of bird.
+the class of chickens is bird.

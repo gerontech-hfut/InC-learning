@@ -1,0 +1,3 @@
+Andra_(singer) | genre | Rhythm_and_blues
+Andra_(singer) | associatedBand/associatedMusicalArtist | Andreea_Bălan
+Andra_(singer) | associatedBand/associatedMusicalArtist | Marius_Moga

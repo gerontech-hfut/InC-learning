@@ -1,0 +1,4 @@
+Akeem_Dent | debutTeam | Atlanta_Falcons
+Akeem_Dent | formerTeam | Houston_Texans
+Akeem_Dent | birthDate | 1987-09-27
+Akeem_Dent | birthPlace | "Atlanta, Georgia"

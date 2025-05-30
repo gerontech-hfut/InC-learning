@@ -1,0 +1,2 @@
+Dublin | country | Republic_of_Ireland
+3Arena | location | Dublin

@@ -1,0 +1,2 @@
+AFC_Ajax_(amateurs) | numberOfMembers | 5000
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"

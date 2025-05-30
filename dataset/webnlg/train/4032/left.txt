@@ -1,0 +1,3 @@
+Peter_Stöger | club | SK_Vorwärts_Steyr
+1._FC_Köln | manager | Peter_Stöger
+Peter_Stöger | club | First_Vienna_FC

@@ -1,0 +1,3 @@
+101 Helena has an apoapsis of 441092000.0 (kilometres).
+101 Helena has an apoapsis of 441092000.0 kilometres.
+The apoapsis of 101 Helena is 441092000.0 kilometres.

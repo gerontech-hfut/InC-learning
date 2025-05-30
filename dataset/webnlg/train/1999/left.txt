@@ -1,0 +1,2 @@
+British_Hong_Kong | representative | Chris_Patten
+William_Anders | birthPlace | British_Hong_Kong

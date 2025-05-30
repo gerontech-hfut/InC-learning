@@ -1,0 +1,4 @@
+Adams_County,_Pennsylvania | has to its southeast | Carroll_County,_Maryland
+11th_Mississippi_Infantry_Monument | established | 2000
+Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania
+11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania

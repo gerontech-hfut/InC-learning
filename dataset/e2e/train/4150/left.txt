@@ -1,0 +1,1 @@
+name : Taste of Cambridge | Type : restaurant | price : moderate | customer rating : 3 out of 5

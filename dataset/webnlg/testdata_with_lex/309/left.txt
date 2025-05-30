@@ -1,0 +1,2 @@
+A.C._Chievo_Verona | ground | "Verona, Italy"
+A.C._Chievo_Verona | numberOfMembers | 39371

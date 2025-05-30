@@ -1,0 +1,5 @@
+Arianespace | locationCity | Courcouronnes
+Guiana_Space_Centre | headquarter | French_Guiana
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
+ELA-3 | operator | Arianespace

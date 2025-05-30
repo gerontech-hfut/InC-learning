@@ -1,0 +1,5 @@
+Bacon_Explosion | country | United_States
+Bacon_Explosion | mainIngredients | "Bacon,sausage"
+Bacon_Explosion | ingredient | Bacon
+Bacon_Explosion | region | Kansas_City_metropolitan_area
+Bacon_Explosion | course | "Main course"

@@ -1,0 +1,3 @@
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leaderName | John_Clancy_(Labour_politician)

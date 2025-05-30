@@ -1,0 +1,1 @@
+Allama_Iqbal_International_Airport | runwayName | "18R/36L"

@@ -1,0 +1,2 @@
+Ardmore_Airport_(New_Zealand) | runwayLength | 1411.0
+Ardmore_Airport_(New_Zealand) | 3rd_runway_SurfaceType | Poaceae

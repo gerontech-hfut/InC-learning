@@ -1,0 +1,4 @@
+Baymax | series | Big_Hero_6_(film)
+Baymax | creator | Duncan_Rouleau
+Baymax | firstAppearanceInFilm | Big_Hero_6_(film)
+Baymax | creator | Steven_T._Seagle

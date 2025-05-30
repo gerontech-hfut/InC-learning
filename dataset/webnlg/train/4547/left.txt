@@ -1,0 +1,4 @@
+San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)
+San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
+San_Sebastián_de_los_Reyes | country | Spain

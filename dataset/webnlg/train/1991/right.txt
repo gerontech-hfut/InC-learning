@@ -1,0 +1,4 @@
+Alan Shepard was born in New Hampshire but died in California.
+Alan Shepard was born in New Hampshire and died in California.
+Alan Shepard (born in New Hampshire) died in California.
+Alan Shepard ( born in New Hampshire ) died in California.

@@ -1,0 +1,2 @@
+1._FC_Köln | manager | Peter_Stöger
+Peter_Stöger | club | FK_Austria_Wien

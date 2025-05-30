@@ -1,0 +1,5 @@
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | finalFlight | 2014-07-13
+Antares_(rocket) | maidenFlight | 2014-10-28
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Antares_(rocket) | diameter | 3.9 (metres)

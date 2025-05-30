@@ -1,0 +1,2 @@
+Alan_Bean | timeInSpace | "100305.0"(minutes)
+Alan_Bean | was selected by NASA | 1963

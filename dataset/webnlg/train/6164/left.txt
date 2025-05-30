@@ -1,0 +1,5 @@
+Bacon_Explosion | country | United_States
+United_States | leaderName | Joe_Biden
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | capital | Washington,_D.C.
+United_States | language | English_language

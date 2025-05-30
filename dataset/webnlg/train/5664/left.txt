@@ -1,0 +1,5 @@
+Adirondack_Regional_Airport | location | Harrietstown,_New_York
+Adirondack_Regional_Airport | runwayLength | 2003.0
+Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York
+Adirondack_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 507
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York

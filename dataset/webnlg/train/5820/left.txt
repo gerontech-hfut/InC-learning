@@ -1,0 +1,5 @@
+Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey
+Atlantic_City_International_Airport | runwayName | "13/31"
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey
+Egg_Harbor_Township,_New_Jersey | country | United_States
+Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey

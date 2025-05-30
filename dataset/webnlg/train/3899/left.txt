@@ -1,0 +1,3 @@
+A.C._Chievo_Verona | manager | Rolando_Maran
+Rolando_Maran | club | Varese_Calcio_S.S.D.
+Rolando_Maran | club | Carrarese_Calcio

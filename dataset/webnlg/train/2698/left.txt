@@ -1,0 +1,2 @@
+AFC_Ajax | season | 2014
+AFC_Ajax | numberOfMembers | 53502

@@ -1,0 +1,4 @@
+Paris_Cullins | nationality | United_States
+Bolt_(comicsCharacter) | creator | Dan_Mishkin
+Bolt_(comicsCharacter) | creator | Paris_Cullins
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"

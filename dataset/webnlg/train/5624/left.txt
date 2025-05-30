@@ -1,0 +1,4 @@
+United_States | leaderName | Barack_Obama
+A_Severed_Wasp | language | English_language
+United_States | ethnicGroup | Asian_Americans
+A_Severed_Wasp | country | United_States

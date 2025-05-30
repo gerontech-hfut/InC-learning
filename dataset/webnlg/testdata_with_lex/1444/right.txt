@@ -1,0 +1,3 @@
+110 Lydia's epoch is 31st December 2006, it has a mass of 6.7kg and a periapsis of 377016000000.0.
+110 Lydia has a mass of 6.7 kg, a periapsis of 377016000000.0, and has an epoch date of December 31st, 2006.
+110 Lydia has an epoch date of December 31st 2006. Its mass is 6.7 kg and has a periapsis measurement of 377016000000.0.

@@ -1,0 +1,3 @@
+(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)
+(66063)_1998_RO1 | maximumTemperature | 500.0 (kelvins)
+(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)

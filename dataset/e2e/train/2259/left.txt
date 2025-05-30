@@ -1,0 +1,1 @@
+name : Loch Fyne | food : Fast food | customer rating : 5 out of 5 | area : riverside | near : The Rice Boat

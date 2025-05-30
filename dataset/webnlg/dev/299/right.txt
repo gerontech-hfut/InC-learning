@@ -1,0 +1,3 @@
+Bacon is an ingredient in the main course dish 'Bacon Explosion'.
+Bacon is an ingredient in a main course called Bacon Explosion.
+Bacon Explosion is an entree that includes bacon, the main ingredient.

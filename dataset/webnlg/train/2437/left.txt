@@ -1,0 +1,2 @@
+Bandeja_paisa | ingredient | Kidney_bean
+Bandeja_paisa | country | Colombian_cuisine

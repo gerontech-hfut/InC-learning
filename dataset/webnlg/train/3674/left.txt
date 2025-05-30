@@ -1,0 +1,3 @@
+Bakso | region | Indonesia
+Bakso | country | Indonesia
+Bakso | ingredient | Ground_beef

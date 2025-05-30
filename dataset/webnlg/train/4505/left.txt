@@ -1,0 +1,4 @@
+Athens_International_Airport | cityServed | Athens
+Athens_International_Airport | runwayLength | 4000.0
+Athens_International_Airport | location | Spata
+Athens_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 94

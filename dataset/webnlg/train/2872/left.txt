@@ -1,0 +1,2 @@
+A_Long_Long_Way | country | Ireland
+Ireland | ethnicGroup | White_people

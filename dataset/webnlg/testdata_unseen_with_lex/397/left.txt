@@ -1,0 +1,2 @@
+Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station
+Atlas_II | manufacturer | Lockheed_Martin

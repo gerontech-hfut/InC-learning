@@ -1,0 +1,2 @@
+Bhajji | alternativeName | "Bhaji, bajji"
+Bhajji | ingredient | Vegetable

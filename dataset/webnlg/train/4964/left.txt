@@ -1,0 +1,4 @@
+Bacon_Explosion | country | United_States
+United_States | leaderName | Joe_Biden
+United_States | ethnicGroup | Asian_Americans
+United_States | capital | Washington,_D.C.

@@ -1,0 +1,2 @@
+Alderney_Airport | 1st_runway_SurfaceType | Poaceae
+Alderney_Airport | runwayLength | 733.0

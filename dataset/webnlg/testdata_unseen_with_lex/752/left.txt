@@ -1,0 +1,4 @@
+Albert_B._White | birthPlace | Cleveland
+Albert_B._White | deathPlace | Parkersburg,_West_Virginia
+Albert_B._White | successor | William_M._O._Dawson
+William_M._O._Dawson | birthPlace | Bloomington,_Maryland

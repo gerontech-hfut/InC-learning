@@ -1,0 +1,4 @@
+1634:_The_Ram_Rebellion | author | Eric_Flint
+1634:_The_Ram_Rebellion | mediaType | E-book
+1634:_The_Ram_Rebellion | numberOfPages | "512"
+1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"

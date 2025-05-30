@@ -1,0 +1,1 @@
+name : The Wrestlers | food : Fast food | price : moderate | customer rating : 3 out of 5 | family friendly : no

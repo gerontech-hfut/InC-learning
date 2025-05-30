@@ -1,0 +1,5 @@
+Antioquia_Department | country | Colombia
+Avocado | order | Laurales
+Bandeja_paisa | ingredient | Avocado
+Avocado | family | Lauraceae
+Bandeja_paisa | region | Antioquia_Department

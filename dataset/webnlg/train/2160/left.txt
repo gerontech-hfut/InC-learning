@@ -1,0 +1,2 @@
+Asherton,_Texas | isPartOf | United_States
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas

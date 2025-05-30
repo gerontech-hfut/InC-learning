@@ -1,0 +1,3 @@
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | San_Francisco
+Julia_Morgan | significantBuilding | Riverside_Art_Museum

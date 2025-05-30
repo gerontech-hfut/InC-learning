@@ -1,0 +1,4 @@
+Antwerp_International_Airport | cityServed | Antwerp
+Flemish_Region | leaderName | Flemish_Government
+Antwerp | country | Belgium
+Flemish_Government | jurisdiction | Flemish_Region

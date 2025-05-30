@@ -1,0 +1,4 @@
+Aaron_Turner | genre | Black_metal
+Aaron_Turner | associatedBand/associatedMusicalArtist | Sumac_(band)
+Aaron_Turner | instrument | Electric_guitar
+Black_metal | musicFusionGenre | Death_metal

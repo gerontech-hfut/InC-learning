@@ -1,0 +1,2 @@
+Atlantic_City,_New_Jersey | country | United_States
+United_States | capital | Washington,_D.C.

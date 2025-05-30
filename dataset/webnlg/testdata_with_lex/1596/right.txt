@@ -1,0 +1,3 @@
+The dark asteroid called 1000 Piazzia has an orbital period of 488160.0 and its epoch is 2015-06-27. Additionally, it has periapsis of 352497000000.0 and an escape velocity of 0.0252 kilometres per second.
+The epoch of 1000 Piazzia is 2015-06-27. It has an escape velocity of 0.0252 km/sec, a periapsis of 352497000000.0 and an orbital period of 488160.0.
+The dark asteroid 1000 Piazzia has a periapsis is 352497000000.0 and an escape velocity of 0.0252 km/sec. It has an orbital period of 488160 and an epoch of 27th June 2015.

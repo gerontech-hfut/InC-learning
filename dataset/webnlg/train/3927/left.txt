@@ -1,0 +1,3 @@
+A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500
+A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli
+A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP

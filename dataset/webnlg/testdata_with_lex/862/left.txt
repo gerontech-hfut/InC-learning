@@ -1,0 +1,5 @@
+Catalonia | leaderName | Carles_Puigdemont
+Arròs_negre | country | Spain
+Spain | ethnicGroup | Spaniards
+Spain | leaderName | Felipe_VI_of_Spain
+Arròs_negre | region | Catalonia

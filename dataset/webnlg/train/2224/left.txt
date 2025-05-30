@@ -1,0 +1,2 @@
+Bananaman | broadcastedBy | BBC
+BBC | locationCity | London

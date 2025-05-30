@@ -1,0 +1,3 @@
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | Brooklyn
+New_York_City | isPartOf | New_Netherland

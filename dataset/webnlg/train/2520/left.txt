@@ -1,0 +1,2 @@
+Catalonia | leaderName | Carles_Puigdemont
+Arròs_negre | region | Catalonia

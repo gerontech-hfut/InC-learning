@@ -1,0 +1,2 @@
+Arrabbiata_sauce | ingredient | Garlic
+Arrabbiata_sauce | country | Italy

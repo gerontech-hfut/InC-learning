@@ -1,0 +1,4 @@
+Peñarol | league | Uruguayan_Primera_División
+Abel_Hernández | youthclub | Peñarol
+Hull_City_A.F.C. | manager | Steve_Bruce
+Abel_Hernández | club | Hull_City_A.F.C.

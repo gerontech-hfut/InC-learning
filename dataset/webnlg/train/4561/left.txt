@@ -1,0 +1,4 @@
+Alan_Bean | occupation | Test_pilot
+Alan_Bean | birthDate | "1932-03-15"
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"
+Alan_Bean | birthPlace | Wheeler,_Texas

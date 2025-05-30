@@ -1,0 +1,2 @@
+Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."
+Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"

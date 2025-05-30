@@ -1,0 +1,4 @@
+Aston_Martin_V8 | assembly | United_Kingdom
+United_Kingdom | capital | London
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_Virage | manufacturer | Aston_Martin

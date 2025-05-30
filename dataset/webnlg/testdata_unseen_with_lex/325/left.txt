@@ -1,0 +1,2 @@
+Alfred_Garth_Jones | birthPlace | England
+Alfred_Garth_Jones | birthYear | 1872

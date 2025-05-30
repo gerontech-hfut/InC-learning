@@ -1,0 +1,2 @@
+Asam_pedas | region | Malay_Peninsula
+Asam_pedas | country | "Indonesia and Malaysia"

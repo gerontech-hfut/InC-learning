@@ -1,0 +1,1 @@
+name : Giraffe | Type : restaurant | price : cheap | near : The Six Bells

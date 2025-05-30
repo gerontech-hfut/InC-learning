@@ -1,0 +1,3 @@
+Madrid | isPartOf | Community_of_Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
+Madrid | country | Spain

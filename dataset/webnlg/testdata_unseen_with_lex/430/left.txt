@@ -1,0 +1,3 @@
+Albert_B._White | deathYear | 1941
+Albert_B._White | birthDate | 1856-09-22
+Albert_B._White | dateOfDeath | 1941-07-03

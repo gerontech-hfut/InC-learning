@@ -1,0 +1,3 @@
+Alberto_Teisaire | profession | Rear_admiral
+Alberto_Teisaire | successor | Isaac_Rojas
+Alberto_Teisaire | birthPlace | Mendoza,_Argentina

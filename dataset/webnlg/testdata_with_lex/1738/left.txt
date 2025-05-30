@@ -1,0 +1,4 @@
+Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War
+American_Civil_War | commander | Robert_E._Lee
+Aaron_S._Daggett | battles | Battle_of_Gettysburg
+Aaron_S._Daggett | award | Purple_Heart

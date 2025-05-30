@@ -1,0 +1,2 @@
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | floorCount | 22

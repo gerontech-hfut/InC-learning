@@ -1,0 +1,2 @@
+Antioch,_California | elevationAboveTheSeaLevel | 13.0
+Antioch,_California | areaTotal | 75.324 (square kilometres)

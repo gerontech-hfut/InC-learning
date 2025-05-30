@@ -1,0 +1,4 @@
+11_Diagonal_Street | location | South_Africa
+South_Africa | capital | Cape_Town
+South_Africa | leaderName | Jacob_Zuma
+South_Africa | ethnicGroup | White_South_African

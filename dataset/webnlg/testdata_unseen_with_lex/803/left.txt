@@ -1,0 +1,5 @@
+FC_Spartak_Moscow | chairman | Sergey_Rodionov
+FC_Spartak_Moscow | ground | Otkrytiye_Arena
+Aleksandr_Prudnikov | club | FC_Spartak_Moscow
+Aleksandr_Prudnikov | club | FC_Amkar_Perm
+FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev

@@ -1,0 +1,4 @@
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | dateOfRetirement | "1974-08-01"
+Apollo_14 | operator | NASA

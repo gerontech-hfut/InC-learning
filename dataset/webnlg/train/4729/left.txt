@@ -1,0 +1,4 @@
+Adisham_Hall | country | Sri_Lanka
+Adisham_Hall | location | "Haputale, Sri Lanka"
+Sri_Lanka | leaderName | Ranil_Wickremesinghe
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte

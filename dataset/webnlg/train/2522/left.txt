@@ -1,0 +1,2 @@
+Hong_Kong | leaderName | Carrie_Lam_(politician)
+Baked_Alaska | region | Hong_Kong

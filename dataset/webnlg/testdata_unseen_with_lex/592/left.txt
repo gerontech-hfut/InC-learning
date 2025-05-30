@@ -1,0 +1,3 @@
+Real_Madrid_Castilla | manager | Luis_Miguel_Ramis
+Abner_(footballer) | club | Real_Madrid_Castilla
+Abner_(footballer) | club | C.D._FAS

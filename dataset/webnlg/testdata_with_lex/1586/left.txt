@@ -1,0 +1,4 @@
+Canada | anthem | O_Canada
+Canada | leaderName | Elizabeth_II
+Aaron_Boogaard | birthPlace | Canada
+Canada | language | Inuktitut

@@ -1,0 +1,3 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+Al_Asad_Airbase | runwayLength | 3992.88
+Al_Asad_Airbase | location | "Al Anbar Province, Iraq"

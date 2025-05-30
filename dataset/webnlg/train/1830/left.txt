@@ -1,0 +1,2 @@
+Agra_Airport | ICAO_Location_Identifier | "VIAG"
+Agra_Airport | location | Agra

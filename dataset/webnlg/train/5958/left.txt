@@ -1,0 +1,5 @@
+300_North_LaSalle | location | Chicago
+Chicago | leaderName | Rahm_Emanuel
+300_North_LaSalle | floorCount | 60
+Illinois | country | United_States
+Chicago | isPartOf | Illinois

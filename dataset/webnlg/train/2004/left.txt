@@ -1,0 +1,2 @@
+Buzz_Aldrin | nationality | United_States
+United_States | leaderName | Joe_Biden

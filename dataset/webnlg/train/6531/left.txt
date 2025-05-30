@@ -1,0 +1,5 @@
+English_language | spokenIn | Great_Britain
+United_States | ethnicGroup | Asian_Americans
+United_States | capital | Washington,_D.C.
+United_States | language | English_language
+Alcatraz_Versus_the_Evil_Librarians | country | United_States

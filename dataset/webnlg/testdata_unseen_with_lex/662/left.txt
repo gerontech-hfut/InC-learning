@@ -1,0 +1,4 @@
+Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company
+Alvis_Car_and_Engineering_Company | foundationPlace | Coventry
+Alvis_Speed_25 | engine | "Petrol"
+Alvis_Car_and_Engineering_Company | successor | Rover_Company

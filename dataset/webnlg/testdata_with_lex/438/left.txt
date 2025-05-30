@@ -1,0 +1,3 @@
+A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez
+Jorge_Humberto_Rodríguez | club | Alianza_F.C.
+Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team

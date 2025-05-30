@@ -1,0 +1,3 @@
+AIP_Advances | editor | A.T._Charlie_Johnson
+AIP_Advances | abbreviation | "AIP Adv."
+AIP_Advances | CODEN_code | "AAIDBI"

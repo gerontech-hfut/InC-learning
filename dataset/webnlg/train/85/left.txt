@@ -1,0 +1,1 @@
+Alderney_Airport | runwayName | "08/26"

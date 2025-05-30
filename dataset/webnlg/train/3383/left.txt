@@ -1,0 +1,3 @@
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"
+Amdavad_ni_Gufa | country | India

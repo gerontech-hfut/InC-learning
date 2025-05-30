@@ -1,0 +1,3 @@
+Adam_Koc | battles | Polish–Soviet_War
+Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
+Polish–Soviet_War | commander | Leon_Trotsky

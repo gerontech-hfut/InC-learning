@@ -1,0 +1,2 @@
+110 Lydia; has an apoapsis of 440756000.0 kilometres, a periapsis of 377016000000.0, and its epoch is 31st December 2006.
+110 Lydia, with the epoch date December 31st 2006, has an apoapsis of 440756000.0 km and a periapsis measurement of 377016000000.0.

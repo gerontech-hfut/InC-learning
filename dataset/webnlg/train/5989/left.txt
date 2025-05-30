@@ -1,0 +1,5 @@
+Adare_Manor | architect | Augustus_Pugin
+Augustus_Pugin | significantBuilding | Palace_of_Westminster
+Augustus_Pugin | birthPlace | Bloomsbury
+County_Limerick | isPartOf | Munster
+Adare_Manor | location | County_Limerick

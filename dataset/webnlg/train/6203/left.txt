@@ -1,0 +1,5 @@
+Bandeja_paisa | ingredient | Lemon
+Lemon | family | Rutaceae
+Bandeja_paisa | country | Colombian_cuisine
+Lemon | genus | Citrus
+Bandeja_paisa | region | Antioquia_Department

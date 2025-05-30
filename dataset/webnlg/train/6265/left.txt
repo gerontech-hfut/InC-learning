@@ -1,0 +1,5 @@
+Bionico | country | Mexico
+Mexico | language | Spanish_language
+Mexico | leaderName | Silvano_Aureoles_Conejo
+Bionico | dishVariation | Honey
+Bionico | course | Dessert

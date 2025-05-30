@@ -1,0 +1,3 @@
+Banana is an ingredient in binignit, which along with sandesh are types of dessert.
+Banana is an ingredient in binignit, a type of dessert. Sandesh (confectionery) is a dish that can be served as a dessert.
+Banana is an ingredient in binignit, it is served as the dessert course, same as Sandesh (confectionery).

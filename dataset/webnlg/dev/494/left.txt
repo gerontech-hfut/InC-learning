@@ -1,0 +1,3 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Stuart_Parker_(footballer) | club | Drogheda_United_F.C.
+Stuart_Parker_(footballer) | club | Stockport_County_F.C.

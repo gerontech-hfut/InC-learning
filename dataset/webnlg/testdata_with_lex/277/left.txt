@@ -1,0 +1,2 @@
+Binignit | mainIngredients | Banana
+Binignit | country | Philippines

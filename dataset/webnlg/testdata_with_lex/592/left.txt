@@ -1,0 +1,3 @@
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)

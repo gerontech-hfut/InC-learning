@@ -1,0 +1,3 @@
+Ayam_penyet | region | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Ayam_penyet | country | Indonesia

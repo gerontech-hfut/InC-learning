@@ -1,0 +1,1 @@
+name : The Punter | Type : coffee shop | food : Chinese | price : high | customer rating : 1 out of 5 | family friendly : no | near : Café Sicilia

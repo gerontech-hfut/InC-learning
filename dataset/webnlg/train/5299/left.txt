@@ -1,0 +1,4 @@
+A.F.C._Blackpool | ground | "The Mechanics,"
+A.F.C._Blackpool | season | 2014
+A.F.C._Blackpool | numberOfMembers | 1500
+A.F.C._Blackpool | fullname | "Association Football Club Blackpool"

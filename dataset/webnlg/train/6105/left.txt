@@ -1,0 +1,5 @@
+Antioquia_Department | country | Colombia
+Bandeja_paisa | ingredient | Avocado
+Avocado | genus | Persea
+Avocado | family | Lauraceae
+Bandeja_paisa | region | Antioquia_Department

@@ -1,0 +1,2 @@
+Beef_kway_teow | ingredient | Palm_sugar
+Beef_kway_teow | country | "Singapore and Indonesia"

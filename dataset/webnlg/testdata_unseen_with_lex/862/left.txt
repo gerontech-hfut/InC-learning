@@ -1,0 +1,5 @@
+Aleksandra_Kovač | background | "solo_singer"
+Aleksandra_Kovač | birthYear | 1972
+Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia
+Aleksandra_Kovač | genre | Pop_music
+Pop_music | musicFusionGenre | Disco

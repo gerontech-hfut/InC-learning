@@ -1,0 +1,5 @@
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_DBS | successor | Aston_Martin_Vantage
+Aston_Martin_V8 | assembly | Newport_Pagnell
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | manufacturer | Aston_Martin

@@ -1,0 +1,5 @@
+Baked_Alaska | country | France
+Hong_Kong | leaderName | Carrie_Lam_(politician)
+France | leaderName | Gérard_Larcher
+France | language | French_language
+Baked_Alaska | region | Hong_Kong

@@ -1,0 +1,2 @@
+Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"
+Alan_B._Miller_Hall | address | "101 Ukrop Way"

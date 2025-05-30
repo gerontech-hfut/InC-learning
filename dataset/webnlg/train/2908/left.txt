@@ -1,0 +1,2 @@
+A_Wizard_of_Mars | mediaType | Hardcover
+A_Wizard_of_Mars | author | Diane_Duane

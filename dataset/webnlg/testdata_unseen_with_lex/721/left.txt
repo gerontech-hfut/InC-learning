@@ -1,0 +1,4 @@
+Country_music | instrument | Banjo
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | genre | Country_music

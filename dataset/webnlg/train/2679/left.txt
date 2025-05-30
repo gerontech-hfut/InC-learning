@@ -1,0 +1,2 @@
+A.S._Roma | ground | Stadio_Olimpico
+A.S._Roma | numberOfMembers | 70634

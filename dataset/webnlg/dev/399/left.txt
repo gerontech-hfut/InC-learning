@@ -1,0 +1,3 @@
+Atlantic_City_International_Airport | runwayName | "4/22"
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey
+Egg_Harbor_Township,_New_Jersey | country | United_States

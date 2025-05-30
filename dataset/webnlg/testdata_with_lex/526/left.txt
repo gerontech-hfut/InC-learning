@@ -1,0 +1,3 @@
+Antwerp_International_Airport | cityServed | Antwerp
+Belgium | language | German_language
+Antwerp | country | Belgium

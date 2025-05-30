@@ -1,0 +1,3 @@
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | ingredient | Chorizo
+Bandeja_paisa | country | Colombian_cuisine

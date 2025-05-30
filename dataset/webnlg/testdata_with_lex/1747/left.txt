@@ -1,0 +1,5 @@
+Alhambra | owner | P&O_(company)
+P&O_(company) | location | London
+Alhambra | shipBeam | 8.3 m
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Alhambra | builder | Samuda_Brothers

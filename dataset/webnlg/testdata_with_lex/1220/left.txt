@@ -1,0 +1,2 @@
+Agnes_Kant | birthPlace | Hessisch_Oldendorf
+Agnes_Kant | office (workedAt, workedAs) | Parliamentary_group_leader

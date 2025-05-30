@@ -1,0 +1,4 @@
+In city centre , with a high customer rating and a price range of £ 20 - 25 , The Phoenix serves French food . 
+The Phoenix is located at city centre . It is a French restaurant with good customer rating and normal price range . 
+The Phoenix serves French food in city centre . They have a high customer rating and have a price range of £ 20 - 25 . 
+The Phoenix is a French restaurant with normal price range and good customer rating located at city centre . 

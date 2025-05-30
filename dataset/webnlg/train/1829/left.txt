@@ -1,0 +1,2 @@
+Agra_Airport | IATA_Location_Identifier | "AGR"
+Agra_Airport | location | Agra

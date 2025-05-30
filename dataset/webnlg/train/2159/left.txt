@@ -1,0 +1,2 @@
+Asherton,_Texas | isPartOf | Dimmit_County,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas

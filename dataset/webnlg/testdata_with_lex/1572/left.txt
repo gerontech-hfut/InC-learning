@@ -1,0 +1,4 @@
+Adam_McQuaid | draftTeam | Columbus_Blue_Jackets
+Boston_Bruins | generalManager | Don_Sweeney
+Columbus_Blue_Jackets | city | Columbus,_Ohio
+Adam_McQuaid | club | Boston_Bruins

@@ -1,0 +1,4 @@
+ACF_Fiorentina | manager | Paulo_Sousa
+Paulo_Sousa | club | Juventus_F.C.
+Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.
+Paulo_Sousa | club | Inter_Milan

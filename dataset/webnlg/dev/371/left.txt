@@ -1,0 +1,2 @@
+Administrative_Science_Quarterly | CODEN_code | "ASCQAG"
+Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."

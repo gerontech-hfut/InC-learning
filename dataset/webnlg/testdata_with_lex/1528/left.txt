@@ -1,0 +1,3 @@
+United_States | demonym | Americans
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans

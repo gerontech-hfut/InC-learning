@@ -1,0 +1,3 @@
+Aurakles | creator | Dick_Dillin
+Dick_Dillin | nationality | United_States
+Aurakles | alternativeName | "Aurakles"

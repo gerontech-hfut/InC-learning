@@ -1,0 +1,1 @@
+name : Blue Spice | Type : restaurant | food : Chinese | area : city centre | family friendly : no | near : Rainbow Vegetarian Café

@@ -1,0 +1,2 @@
+A_Glastonbury_Romance | mediaType | Hardcover
+A_Glastonbury_Romance | numberOfPages | "1174"

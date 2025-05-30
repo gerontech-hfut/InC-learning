@@ -1,0 +1,4 @@
+Ajoblanco | region | Andalusia
+Andalusia | leaderName | Susana_Díaz
+Ajoblanco | country | Spain
+Spain | ethnicGroup | Spaniards

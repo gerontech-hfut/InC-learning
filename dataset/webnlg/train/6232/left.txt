@@ -1,0 +1,5 @@
+Bhajji | country | India
+India | currency | Indian_rupee
+India | leaderName | Narendra_Modi
+India | leaderName | Sumitra_Mahajan
+Bhajji | region | Karnataka

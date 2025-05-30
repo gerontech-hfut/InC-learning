@@ -1,0 +1,3 @@
+Poland | language | Polish_language
+Adam_Koc | nationality | Poland
+Poland | ethnicGroup | Kashubians

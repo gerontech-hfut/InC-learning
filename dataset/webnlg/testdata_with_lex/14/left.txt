@@ -1,0 +1,1 @@
+Andrews_County_Airport | runwayLength | 896.0

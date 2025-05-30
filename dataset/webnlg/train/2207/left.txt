@@ -1,0 +1,2 @@
+Asterix_(comicsCharacter) | alternativeName | "Astérix"
+Asterix_(comicsCharacter) | creator | Albert_Uderzo

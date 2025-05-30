@@ -1,0 +1,3 @@
+103_Hera | discoverer | James_Craig_Watson
+James_Craig_Watson | deathPlace | Madison,_Wisconsin
+James_Craig_Watson | deathCause | Peritonitis

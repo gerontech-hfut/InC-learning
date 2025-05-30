@@ -1,0 +1,5 @@
+Bionico | country | Mexico
+Bionico | course | Dessert
+Bionico | mainIngredients | "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"
+Bionico | region | Guadalajara
+Bionico | ingredient | Condensed_milk

@@ -1,0 +1,3 @@
+Spain | currency | Euro
+Arròs_negre | country | Spain
+Spain | leaderName | Felipe_VI_of_Spain

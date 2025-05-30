@@ -1,0 +1,5 @@
+Hip_hop_music | stylisticOrigin | Disco
+Allen_Forrest | birthPlace | Fort_Campbell
+Allen_Forrest | genre | Hip_hop_music
+Hip_hop_music | stylisticOrigin | Funk
+Hip_hop_music | derivative | Drum_and_bass

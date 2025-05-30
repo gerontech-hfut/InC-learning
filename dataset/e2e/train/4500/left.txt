@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : pub | price : moderate | area : city centre | near : Rainbow Vegetarian Café

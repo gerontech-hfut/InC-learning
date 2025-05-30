@@ -1,0 +1,4 @@
+Baked_Alaska | mainIngredients | "Meringue, ice cream, sponge cake or Christmas pudding"
+Baked_Alaska | country | "France, United States or China"
+Baked_Alaska | region | "Paris, New York or Hong Kong"
+Baked_Alaska | ingredient | Sponge_cake

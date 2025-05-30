@@ -1,0 +1,3 @@
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina
+Andrew_Rayel | genre | Trance_music

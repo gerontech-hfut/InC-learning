@@ -1,0 +1,3 @@
+Indonesia | language | Indonesian_language
+Indonesia | leaderName | Jusuf_Kalla
+Bakso | country | Indonesia

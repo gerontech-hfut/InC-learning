@@ -1,0 +1,4 @@
+Adams_County,_Pennsylvania | has to its west | Franklin_County,_Pennsylvania
+Adams_County,_Pennsylvania | has to its southwest | Frederick_County,_Maryland
+11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania
+11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania

@@ -1,0 +1,3 @@
+Albert_Jennings_Fountain | deathPlace | United_States
+Albert_Jennings_Fountain | birthPlace | New_York
+Albert_Jennings_Fountain | birthPlace | Staten_Island

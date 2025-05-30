@@ -1,0 +1,2 @@
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | country | Colombian_cuisine

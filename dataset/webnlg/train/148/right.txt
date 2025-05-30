@@ -1,0 +1,3 @@
+The runway at Antwerp International airport is 600.0 in length.
+Antwerp International Airport has a runway length of 600.0.
+The runway length of Antwerp International Airport is 600.0.

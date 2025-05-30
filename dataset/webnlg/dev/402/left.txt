@@ -1,0 +1,3 @@
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Apollo_12 | commander | David_Scott

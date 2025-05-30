@@ -1,0 +1,2 @@
+Alpena_County_Regional_Airport | locationIdentifier | "APN"
+Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210

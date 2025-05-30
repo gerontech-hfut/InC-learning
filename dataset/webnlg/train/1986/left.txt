@@ -1,0 +1,2 @@
+Alan_Bean | was a crew member of | Apollo_12
+Alan_Bean | dateOfRetirement | "June 1981"

@@ -1,0 +1,2 @@
+Amsterdam_Airport_Schiphol | cityServed | Amsterdam
+Amsterdam | leaderName | Eberhard_van_der_Laan

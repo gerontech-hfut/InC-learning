@@ -1,0 +1,5 @@
+Bionico | country | Mexico
+Mexico | leaderName | Silvano_Aureoles_Conejo
+Dessert | dishVariation | Ice_cream
+Mexico | language | Mexican_Spanish
+Bionico | course | Dessert

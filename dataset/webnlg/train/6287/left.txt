@@ -1,0 +1,5 @@
+Indonesia | leaderName | Jusuf_Kalla
+Asam_pedas | country | Indonesia
+Sumatra | ethnicGroup | Acehnese_people
+Asam_pedas | region | Sumatra
+Sumatra | ethnicGroup | Malays_(ethnic_group)

@@ -1,0 +1,3 @@
+Bakewell_pudding | region | Derbyshire_Dales
+Derbyshire_Dales | leaderName | Patrick_McLoughlin
+Derbyshire_Dales | isPartOf | Derbyshire

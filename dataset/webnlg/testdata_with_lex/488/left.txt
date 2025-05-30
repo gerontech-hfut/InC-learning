@@ -1,0 +1,3 @@
+Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana
+Lafayette_Township,_Madison_County,_Indiana | country | United_States
+Anderson,_Indiana | isPartOf | Indiana

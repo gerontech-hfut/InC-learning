@@ -1,0 +1,4 @@
+Audi_A1 | class | Supermini
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | layout | Front-engine,_front-wheel-drive_layout
+Audi_A1 | assembly | Audi_Brussels

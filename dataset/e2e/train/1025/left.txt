@@ -1,0 +1,1 @@
+name : Clowns | Type : coffee shop | food : Japanese | customer rating : low | area : riverside | near : Clare Hall

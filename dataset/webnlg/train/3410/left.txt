@@ -1,0 +1,3 @@
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"
+Asilomar_Conference_Grounds | yearOfConstruction | 1913

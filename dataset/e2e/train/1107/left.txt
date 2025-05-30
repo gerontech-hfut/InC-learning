@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Fast food | price : high | family friendly : no | near : The Bakers

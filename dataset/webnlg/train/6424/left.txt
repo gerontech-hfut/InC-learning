@@ -1,0 +1,5 @@
+AWH_Engineering_College | country | India
+AWH_Engineering_College | academicStaffSize | 250
+AWH_Engineering_College | state | Kerala
+Kerala | has to its northwest | Mahé,_India
+India | river | Ganges

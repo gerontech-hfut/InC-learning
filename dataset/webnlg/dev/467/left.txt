@@ -1,0 +1,3 @@
+Beef_kway_teow | country | Singapore
+Singapore | currency | Singapore_dollar
+Singapore | leaderName | Halimah_Yacob

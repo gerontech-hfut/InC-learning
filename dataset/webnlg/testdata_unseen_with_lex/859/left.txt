@@ -1,0 +1,5 @@
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | birthPlace | Windsor,_Connecticut
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966

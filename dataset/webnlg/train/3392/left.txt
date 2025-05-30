@@ -1,0 +1,3 @@
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leaderName | Ranil_Wickremesinghe
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte

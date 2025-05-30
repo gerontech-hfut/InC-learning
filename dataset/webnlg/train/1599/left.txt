@@ -1,0 +1,1 @@
+ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"

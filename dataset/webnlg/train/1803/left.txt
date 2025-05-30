@@ -1,0 +1,2 @@
+Abilene_Regional_Airport | cityServed | Abilene,_Texas
+Abilene,_Texas | isPartOf | Jones_County,_Texas

@@ -1,0 +1,4 @@
+Bhajji | country | India
+India | demonym | Indian_people
+India | leaderName | T._S._Thakur
+India | leaderName | Sumitra_Mahajan

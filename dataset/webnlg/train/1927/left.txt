@@ -1,0 +1,2 @@
+Appleton,_Wisconsin | isPartOf | Little_Chute,_Wisconsin
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin

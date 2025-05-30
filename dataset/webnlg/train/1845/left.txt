@@ -1,0 +1,2 @@
+Al_Asad_Airbase | location | Iraq
+Al_Asad_Airbase | elevationAboveTheSeaLevel_(in_feet) | 618

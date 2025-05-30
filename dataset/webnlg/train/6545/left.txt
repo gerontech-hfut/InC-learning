@@ -1,0 +1,5 @@
+United_Kingdom | leaderName | David_Cameron
+AIDS_(journal) | country | United_Kingdom
+United_Kingdom | capital | London
+AIDS_(journal) | publisher | Lippincott_Williams_&_Wilkins
+United_Kingdom | leaderName | Elizabeth_II

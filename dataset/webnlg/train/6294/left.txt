@@ -1,0 +1,5 @@
+Italy | leaderName | Pietro_Grasso
+Italy | demonym | Italians
+Italy | capital | Rome
+Amatriciana_sauce | country | Italy
+Italy | leaderName | Sergio_Mattarella

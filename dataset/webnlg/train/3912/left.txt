@@ -1,0 +1,3 @@
+A.C._Lumezzane | season | 2014
+A.C._Lumezzane | league | Lega_Pro
+A.C._Lumezzane | numberOfMembers | 4150

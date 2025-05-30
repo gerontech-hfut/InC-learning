@@ -1,0 +1,4 @@
+Gujarat | leaderName | Anandiben_Patel
+India | leaderName | T._S._Thakur
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India

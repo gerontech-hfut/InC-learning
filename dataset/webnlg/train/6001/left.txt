@@ -1,0 +1,5 @@
+Akita,_Akita | isPartOf | Akita_Prefecture
+Japan | ethnicGroup | Brazilians_in_Japan
+Japan | leaderName | Tarō_Asō
+Akita,_Akita | country | Japan
+Akita_Museum_of_Art | location | Akita,_Akita

@@ -1,0 +1,3 @@
+Angola_International_Airport | location | Ícolo_e_Bengo
+Ícolo_e_Bengo | country | Angola
+Angola_International_Airport | runwayName | "South Runway"

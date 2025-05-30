@@ -1,0 +1,5 @@
+Agra_Airport | location | Uttar_Pradesh
+Agra_Airport | runwayLength | 2743.0
+Uttar_Pradesh | isPartOf | Awadh
+Uttar_Pradesh | leaderName | Ram_Naik
+Uttar_Pradesh | isPartOf | Bundelkhand

@@ -1,0 +1,3 @@
+Barny_Cakes | country | France
+France | leaderName | François_Hollande
+France | leaderName | Manuel_Valls

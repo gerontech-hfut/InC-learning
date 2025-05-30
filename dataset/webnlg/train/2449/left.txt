@@ -1,0 +1,2 @@
+Batagor | country | Indonesia
+Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"

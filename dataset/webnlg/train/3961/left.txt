@@ -1,0 +1,3 @@
+A.S._Livorno_Calcio | manager | Christian_Panucci
+Christian_Panucci | club | Italy_national_football_team
+Christian_Panucci | club | Inter_Milan

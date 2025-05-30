@@ -1,0 +1,5 @@
+Bacon_sandwich | dishVariation | BLT
+Bacon_sandwich | ingredient | Ketchup
+United_Kingdom | leaderName | David_Cameron
+BLT | dishVariation | Club_sandwich
+Bacon_sandwich | country | United_Kingdom

@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Indian | customer rating : low | area : riverside | family friendly : yes | near : Café Rouge

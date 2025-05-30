@@ -1,0 +1,5 @@
+FC_Spartak_Moscow | chairman | Sergey_Rodionov
+FC_Terek_Grozny | ground | Grozny
+Aleksandr_Prudnikov | club | FC_Spartak_Moscow
+Aleksandr_Prudnikov | club | FC_Terek_Grozny
+FC_Terek_Grozny | manager | Rashid_Rakhimov

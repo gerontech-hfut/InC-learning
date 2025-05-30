@@ -1,0 +1,5 @@
+Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"

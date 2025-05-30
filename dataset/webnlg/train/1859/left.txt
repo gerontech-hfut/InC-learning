@@ -1,0 +1,2 @@
+Alderney_Airport | 1st_runway_SurfaceType | Asphalt
+Alderney_Airport | cityServed | Alderney

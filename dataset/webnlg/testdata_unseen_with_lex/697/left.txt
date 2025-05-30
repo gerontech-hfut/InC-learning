@@ -1,0 +1,4 @@
+Albennie_Jones | genre | Jazz
+Jazz | stylisticOrigin | Blues
+United_States | ethnicGroup | African_Americans
+Albennie_Jones | birthPlace | United_States

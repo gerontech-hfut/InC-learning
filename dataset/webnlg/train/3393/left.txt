@@ -1,0 +1,3 @@
+Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)
+Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas
+Alfred_Giles_(architect) | birthPlace | England

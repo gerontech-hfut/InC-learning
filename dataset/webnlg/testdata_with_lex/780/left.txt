@@ -1,0 +1,4 @@
+Philippines | language | Philippine_English
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie
+Binignit | country | Philippines

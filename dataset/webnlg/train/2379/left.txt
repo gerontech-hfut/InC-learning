@@ -1,0 +1,2 @@
+Bacon_Explosion | ingredient | Sausage
+Bacon_Explosion | course | "Main course"

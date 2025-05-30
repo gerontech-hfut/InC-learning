@@ -1,0 +1,6 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+Elliot_See | deathPlace | St._Louis
+Elliot_See | birthPlace | Dallas
+Elliot_See | deathDate | "1966-02-28"
+Elliot_See | occupation | Test_pilot
+Elliot_See | nationality | United_States

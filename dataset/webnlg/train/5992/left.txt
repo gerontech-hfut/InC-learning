@@ -1,0 +1,5 @@
+Adare_Manor | country | Republic_of_Ireland
+Republic_of_Ireland | leaderName | Enda_Kenny
+Republic_of_Ireland | demonym | Irish_people
+Republic_of_Ireland | language | Irish_language
+Republic_of_Ireland | currency | Euro

@@ -1,0 +1,2 @@
+300_North_LaSalle | location | Chicago
+300_North_LaSalle | architect | Pickard_Chilton

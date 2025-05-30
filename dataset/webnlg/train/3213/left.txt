@@ -1,0 +1,3 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | occupation | Fighter_pilot
+Buzz_Aldrin | birthDate | "1930-01-20"

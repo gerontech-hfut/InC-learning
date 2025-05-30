@@ -1,0 +1,4 @@
+ENAIRE | locationCity | Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
+Madrid | country | Spain
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE

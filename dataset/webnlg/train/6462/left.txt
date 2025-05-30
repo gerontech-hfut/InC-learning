@@ -1,0 +1,5 @@
+European_University_Association | headquarters | Brussels
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+Denmark | leaderName | Lars_Løkke_Rasmussen
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+Denmark | religion | Church_of_Denmark

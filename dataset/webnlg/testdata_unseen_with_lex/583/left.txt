@@ -1,0 +1,3 @@
+Alex_Plante | height | 1.9304
+Alex_Plante | club | Anyang_Halla
+Alex_Plante | birthPlace | Canada

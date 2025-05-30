@@ -1,0 +1,3 @@
+Iraq | language | Kurdish_languages
+Al-Taqaddum_Air_Base | cityServed | Fallujah
+Fallujah | country | Iraq

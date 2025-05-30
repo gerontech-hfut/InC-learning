@@ -1,0 +1,4 @@
+Ayam_penyet | region | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | country | Indonesia

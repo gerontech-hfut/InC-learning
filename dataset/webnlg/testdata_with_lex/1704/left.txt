@@ -1,0 +1,4 @@
+Abdul_Taib_Mahmud | successor | Adenan_Satem
+Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo
+Abdul_Taib_Mahmud | residence | Sarawak
+Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu

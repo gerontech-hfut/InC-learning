@@ -1,0 +1,5 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+University_of_Texas_at_Austin | affiliations | University_of_Texas_System
+St._Louis | leaderName | Francis_G._Slay
+Elliot_See | deathPlace | St._Louis
+University_of_Texas_at_Austin | president | Gregory_L._Fenves

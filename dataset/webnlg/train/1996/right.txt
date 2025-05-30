@@ -1,0 +1,4 @@
+Alan Shepard, born in New Hampshire, spent 13017 minutes in space.
+Alan Shepard, who was born in New Hampshire has spent 13017,0 minutes in space.
+Alan Shepard was born in New Hampshire and spent 13017 minutes in space.
+Alan Shepard was born in New Hampshire and spent 13017.0 minutes in space.

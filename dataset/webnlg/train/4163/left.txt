@@ -1,0 +1,3 @@
+A_Fortress_of_Grey_Ice | mediaType | Hardcover
+A_Fortress_of_Grey_Ice | numberOfPages | "672"
+A_Fortress_of_Grey_Ice | author | J._V._Jones

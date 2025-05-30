@@ -1,0 +1,2 @@
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."
+ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"

@@ -1,0 +1,5 @@
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Malaysia | ethnicGroup | Malaysian_Malay
+Malaysia | leaderName | Arifin_Zakaria
+Asam_pedas | region | Malay_Peninsula

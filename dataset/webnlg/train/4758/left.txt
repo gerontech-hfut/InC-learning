@@ -1,0 +1,4 @@
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+College_of_William_&_Mary | chancellor | Robert_Gates
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Mason_School_of_Business | country | United_States

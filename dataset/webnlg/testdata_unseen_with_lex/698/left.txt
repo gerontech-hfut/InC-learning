@@ -1,0 +1,4 @@
+Aleksandra_Kovač | birthYear | 1972
+Aleksandra_Kovač | genre | Pop_music
+Aleksandra_Kovač | birthPlace | Belgrade
+Aleksandra_Kovač | background | "solo_singer"

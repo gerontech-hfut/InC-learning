@@ -1,0 +1,2 @@
+Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey
+Atlantic_City_International_Airport | runwayName | "4/22"

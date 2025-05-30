@@ -1,0 +1,5 @@
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | capital | London
+United_Kingdom | demonym | British_people
+London | leaderTitle | European_Parliament
+United_Kingdom | leaderName | Elizabeth_II

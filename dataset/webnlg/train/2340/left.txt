@@ -1,0 +1,2 @@
+Asam_pedas | country | Malaysia
+Malaysia | capital | Kuala_Lumpur

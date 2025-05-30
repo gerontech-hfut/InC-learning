@@ -1,0 +1,5 @@
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | instrument | Guitar
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Rock_music | stylisticOrigin | Country_music

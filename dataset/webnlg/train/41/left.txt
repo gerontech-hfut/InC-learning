@@ -1,0 +1,1 @@
+Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 911.0

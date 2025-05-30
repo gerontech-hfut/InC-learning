@@ -1,0 +1,3 @@
+India | demonym | Indian_people
+Amdavad_ni_Gufa | country | India
+India | leaderName | Sumitra_Mahajan

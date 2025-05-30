@@ -1,0 +1,1 @@
+name : Loch Fyne | Type : restaurant | food : Italian | price : £ 20 - 25 | family friendly : yes

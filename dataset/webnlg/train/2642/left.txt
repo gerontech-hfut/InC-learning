@@ -1,0 +1,2 @@
+A.F.C._Blackpool | ground | "Jepson Way,"
+A.F.C._Blackpool | numberOfMembers | 1500

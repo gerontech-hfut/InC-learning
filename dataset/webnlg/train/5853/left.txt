@@ -1,0 +1,5 @@
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Alan_Bean | timeInSpace | "100305.0"(minutes)
+Apollo_12 | commander | David_Scott
+Alan_Bean | birthName | "Alan LaVern Bean"

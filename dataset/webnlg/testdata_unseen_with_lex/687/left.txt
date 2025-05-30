@@ -1,0 +1,4 @@
+Aaron_Turner | associatedBand/associatedMusicalArtist | Isis_(band)
+Aaron_Turner | associatedBand/associatedMusicalArtist | Sumac_(band)
+Aaron_Turner | genre | Electroacoustic_music
+Aaron_Turner | instrument | Singing

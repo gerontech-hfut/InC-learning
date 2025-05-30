@@ -1,0 +1,4 @@
+Agnes_Kant | nationality | Netherlands
+Netherlands | leaderName | Mark_Rutte
+Agnes_Kant | office (workedAt, workedAs) | House_of_Representatives_(Netherlands)
+Agnes_Kant | party | Socialist_Party_(Netherlands)

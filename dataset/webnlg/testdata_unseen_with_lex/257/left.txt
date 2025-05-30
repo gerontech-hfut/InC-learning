@@ -1,0 +1,2 @@
+Albert_B._White | profession | Politician
+Albert_B._White | birthDate | 1856-09-22

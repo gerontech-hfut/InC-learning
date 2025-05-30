@@ -1,0 +1,3 @@
+Alcobendas | leaderParty | People's_Party_(Spain)
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
+Alcobendas | country | Spain

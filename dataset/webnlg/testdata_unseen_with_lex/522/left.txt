@@ -1,0 +1,3 @@
+AIDAstella | christeningDate | 2013-03-16
+AIDAstella | shipInService | 2013-03-17
+AIDAstella | length | 253260.0 (millimetres)

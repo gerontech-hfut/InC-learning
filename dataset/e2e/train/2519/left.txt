@@ -1,0 +1,1 @@
+name : Giraffe | Type : coffee shop | price : £ 20 - 25 | customer rating : 3 out of 5 | family friendly : yes | near : The Bakers

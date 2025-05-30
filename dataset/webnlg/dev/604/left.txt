@@ -1,0 +1,4 @@
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leaderName | Ranil_Wickremesinghe
+Sri_Lanka | currency | Sri_Lankan_rupee
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka

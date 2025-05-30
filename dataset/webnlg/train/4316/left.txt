@@ -1,0 +1,3 @@
+United_States | ethnicGroup | Asian_Americans
+United_States | leaderName | Barack_Obama
+Alcatraz_Versus_the_Evil_Librarians | country | United_States

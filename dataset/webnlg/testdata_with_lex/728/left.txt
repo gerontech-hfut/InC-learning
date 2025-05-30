@@ -1,0 +1,4 @@
+Buzz_Aldrin | was a crew member of | Apollo_11
+Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."
+Buzz_Aldrin | awards | 20
+Apollo_11 | operator | NASA

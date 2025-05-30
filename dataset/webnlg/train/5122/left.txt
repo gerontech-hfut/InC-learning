@@ -1,0 +1,4 @@
+Binignit | region | Visayas
+Binignit | mainIngredients | Sago
+Binignit | country | Philippines
+Binignit | ingredient | Coconut_milk

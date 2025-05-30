@@ -1,0 +1,2 @@
+Beef_kway_teow | mainIngredients | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+Beef_kway_teow | country | "Singapore and Indonesia"

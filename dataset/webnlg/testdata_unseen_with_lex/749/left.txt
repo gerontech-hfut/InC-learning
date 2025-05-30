@@ -1,0 +1,4 @@
+Airey_Neave | battles | Battle_of_France
+Airey_Neave | birthPlace | "Knightsbridge, London"
+Airey_Neave | activeYearsStartDate | 1953-06-30
+Airey_Neave | activeYearsEndDate | 1979-03-30

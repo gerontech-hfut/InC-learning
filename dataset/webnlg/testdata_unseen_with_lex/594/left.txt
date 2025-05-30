@@ -1,0 +1,3 @@
+Tennessee_Titans | city | Nashville,_Tennessee
+Akeem_Ayers | formerTeam | New_England_Patriots
+Akeem_Ayers | debutTeam | Tennessee_Titans

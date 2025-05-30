@@ -1,0 +1,1 @@
+Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0

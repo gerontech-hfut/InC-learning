@@ -1,0 +1,4 @@
+A.S._Roma | chairman | James_Pallotta
+Serie_A | champions | Juventus_F.C.
+James_Pallotta | birthPlace | Boston
+A.S._Roma | league | Serie_A

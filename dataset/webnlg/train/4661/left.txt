@@ -1,0 +1,4 @@
+200_Public_Square | floorCount | 45
+200_Public_Square | location | "Cleveland, Ohio 44114"
+200_Public_Square | floorArea | 111484 (square metres)
+200_Public_Square | completionDate | 1985

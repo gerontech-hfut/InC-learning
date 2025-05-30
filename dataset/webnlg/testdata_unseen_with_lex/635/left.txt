@@ -1,0 +1,4 @@
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | "A894 VA; A904 VD;"
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | periapsis | 288749000000.0

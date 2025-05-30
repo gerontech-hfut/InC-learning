@@ -1,0 +1,4 @@
+Andrews_County_Airport | location | Texas
+Andrews_County_Airport | runwayLength | 896.0
+Andrews_County_Airport | cityServed | Andrews,_Texas
+Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0

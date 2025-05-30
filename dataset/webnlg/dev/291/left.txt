@@ -1,0 +1,2 @@
+Arrabbiata_sauce | country | Italy
+Arrabbiata_sauce | ingredient | Olive_oil

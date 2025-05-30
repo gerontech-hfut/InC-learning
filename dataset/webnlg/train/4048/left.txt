@@ -1,0 +1,3 @@
+AWH_Engineering_College | established | 2001
+AWH_Engineering_College | academicStaffSize | 250
+AWH_Engineering_College | state | Kerala

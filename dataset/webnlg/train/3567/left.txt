@@ -1,0 +1,3 @@
+Arròs_negre | region | Valencian_Community
+Valencian_Community | leaderName | Ximo_Puig
+Arròs_negre | country | Spain

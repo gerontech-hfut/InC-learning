@@ -1,0 +1,5 @@
+Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas
+Texas | capital | Austin,_Texas
+Arlington,_Texas | isPartOf | Tarrant_County,_Texas
+Arlington,_Texas | isPartOf | Texas
+Texas | country | United_States

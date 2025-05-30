@@ -1,0 +1,5 @@
+AIDA_Cruises | location | Germany
+Costa_Crociere | parentCompany | Carnival_Corporation_&_plc
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | builder | Meyer_Werft
+AIDAstella | owner | Costa_Crociere

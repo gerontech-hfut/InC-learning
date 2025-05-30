@@ -1,0 +1,2 @@
+ACF_Fiorentina | manager | Paulo_Sousa
+Paulo_Sousa | club | Portugal_national_football_team

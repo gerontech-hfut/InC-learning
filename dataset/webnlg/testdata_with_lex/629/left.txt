@@ -1,0 +1,4 @@
+Amarillo,_Texas | isPartOf | Potter_County,_Texas
+Potter_County,_Texas | state | Texas
+Amarillo,_Texas | country | United_States
+Texas | capital | Austin,_Texas

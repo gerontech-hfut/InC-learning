@@ -1,0 +1,4 @@
+11_Diagonal_Street | location | South_Africa
+South_Africa | capital | Cape_Town
+South_Africa | leaderName | Cyril_Ramaphosa
+South_Africa | ethnicGroup | Asian_South_Africans

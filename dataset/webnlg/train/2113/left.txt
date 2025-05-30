@@ -1,0 +1,2 @@
+Addis_Ababa_City_Hall | buildingStartDate | 1961
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)

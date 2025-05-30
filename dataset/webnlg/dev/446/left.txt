@@ -1,0 +1,3 @@
+Arem-arem | country | Indonesia
+Indonesia | leaderName | Joko_Widodo
+Indonesia | leaderName | Jusuf_Kalla

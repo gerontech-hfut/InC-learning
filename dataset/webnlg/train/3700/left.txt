@@ -1,0 +1,3 @@
+Batagor | country | Indonesia
+Batagor | dishVariation | Shumai
+Batagor | dishVariation | Siomay

@@ -1,0 +1,1 @@
+name : Fitzbillies | Type : coffee shop | food : English | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes

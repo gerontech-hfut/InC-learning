@@ -1,0 +1,5 @@
+Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School
+St._Vincent–St._Mary_High_School | state | Ohio
+Akron,_Ohio | leader | Dan_Horrigan
+Akron,_Ohio | country | United_States
+St._Vincent–St._Mary_High_School | city | Akron,_Ohio

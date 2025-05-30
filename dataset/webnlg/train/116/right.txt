@@ -1,0 +1,3 @@
+The runway length of Amsterdam Airport is 3800.0 metres.
+The runway length at Amsterdam Airport Schipol is 3800.0.
+Amsterdam Airport Schiphol's runway length is 3800.0.

@@ -1,0 +1,6 @@
+A pub that is not children friendly is Cocum . The customer rating is 5 out of 5 and the price range is more than 30 . 
+Cocum is a pub that is not children friendly . The price range is more than 30 . The customer rating is 5 out of 5 . 
+A pub that is not children friendly with a price range of more than 30lb with a customer rating of 5 out of 5 is Cocum . 
+Cocum , a highly rated pub , has a price range of more than £ 30 and is not child friendly . 
+Cocum is a pub that is not children friendly with a price range of more than 30lb with a customer rating of 5 out of 5 . 
+A highly rated , highly priced pub , Cocum is not child friendly . 

@@ -1,0 +1,2 @@
+Bionico | country | Mexico
+Mexico | language | Spanish_language

@@ -1,0 +1,6 @@
+Romania | ethnicGroup | Germans_of_Romania
+Romania | leaderName | Klaus_Iohannis
+Romania | patronSaint | Andrew_the_Apostle
+Romania | capital | Bucharest
+1_Decembrie_1918_University | country | Romania
+Romania | anthem | Deșteaptă-te,_române!

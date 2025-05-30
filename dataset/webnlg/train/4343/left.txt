@@ -1,0 +1,3 @@
+Weymouth_Sands | followedBy | Maiden_Castle_(novel)
+A_Glastonbury_Romance | followedBy | Weymouth_Sands
+A_Glastonbury_Romance | author | John_Cowper_Powys

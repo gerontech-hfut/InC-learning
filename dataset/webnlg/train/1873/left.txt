@@ -1,0 +1,2 @@
+Allama_Iqbal_International_Airport | location | Pakistan
+Pakistan | leaderName | Mamnoon_Hussain

@@ -1,0 +1,1 @@
+name : The Rice Boat | food : French | customer rating : average | area : riverside | family friendly : no

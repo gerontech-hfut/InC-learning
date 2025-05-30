@@ -1,0 +1,1 @@
+name : Giraffe | Type : pub | food : Indian | area : riverside | family friendly : no

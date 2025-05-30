@@ -1,0 +1,5 @@
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | San_Francisco
+Julia_Morgan | significantBuilding | Riverside_Art_Museum
+Julia_Morgan | significantProject | Hearst_Castle
+Julia_Morgan | significantBuilding | Chinatown,_San_Francisco

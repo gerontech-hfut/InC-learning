@@ -1,0 +1,1 @@
+name : Cotto | food : Indian | customer rating : low | family friendly : yes | near : Ranch

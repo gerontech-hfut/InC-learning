@@ -1,0 +1,3 @@
+London is the capital of England.
+The capital of England is London.
+England's capital is London.

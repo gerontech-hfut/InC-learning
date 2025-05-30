@@ -1,0 +1,1 @@
+name : The Rice Boat | food : French | price : £ 20 - 25 | customer rating : 3 out of 5 | area : city centre | family friendly : no | near : Express by Holiday Inn

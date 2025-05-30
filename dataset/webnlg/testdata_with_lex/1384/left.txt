@@ -1,0 +1,3 @@
+Abdulsalami_Abubakar | successor | Olusegun_Obasanjo
+Abdulsalami_Abubakar | militaryBranch | Nigerian_Army
+Olusegun_Obasanjo | inOfficeWhileVicePresident | Atiku_Abubakar

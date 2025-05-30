@@ -1,0 +1,2 @@
+200_Public_Square | floorCount | 45
+200_Public_Square | completionDate | 1985

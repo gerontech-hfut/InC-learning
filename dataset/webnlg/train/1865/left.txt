@@ -1,0 +1,2 @@
+Alderney_Airport | cityServed | Alderney
+Alderney | capital | Saint_Anne,_Alderney

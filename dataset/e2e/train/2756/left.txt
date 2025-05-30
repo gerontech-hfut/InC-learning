@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Japanese | customer rating : average | family friendly : no

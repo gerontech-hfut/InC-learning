@@ -1,0 +1,5 @@
+Bacon_sandwich | dishVariation | BLT
+Bacon_sandwich | ingredient | Ketchup
+BLT | dishVariation | Club_sandwich
+Bacon_sandwich | country | United_Kingdom
+United_Kingdom | leaderName | Elizabeth_II

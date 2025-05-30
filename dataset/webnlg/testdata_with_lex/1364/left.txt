@@ -1,0 +1,2 @@
+Aston_Martin_V8 | manufacturer | Aston_Martin
+Aston_Martin_V8 | successor | Aston_Martin_Virage

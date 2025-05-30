@@ -1,0 +1,2 @@
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

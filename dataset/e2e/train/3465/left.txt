@@ -1,0 +1,1 @@
+name : The Punter | Type : coffee shop | food : Fast food | price : less than £ 20 | customer rating : low | family friendly : yes | near : Café Sicilia

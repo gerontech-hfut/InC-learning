@@ -1,0 +1,4 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Appleton_International_Airport | runwayLength | 1982.0
+Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280
+Appleton_International_Airport | runwayName | "12/30"

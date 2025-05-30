@@ -1,0 +1,5 @@
+1634:_The_Bavarian_Crisis | author | Eric_Flint
+Eric_Flint | influencedBy | Robert_A._Heinlein
+1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes
+Eric_Flint | birthPlace | Burbank,_California
+1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the The Grantville Gazettes"

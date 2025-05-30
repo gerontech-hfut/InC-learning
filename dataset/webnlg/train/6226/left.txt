@@ -1,0 +1,5 @@
+Batagor | country | Indonesia
+Siomay | ingredient | Peanut_sauce
+Indonesia | leaderName | Jusuf_Kalla
+Shumai | dishVariation | Siomay
+Siomay | dishVariation | Shumai

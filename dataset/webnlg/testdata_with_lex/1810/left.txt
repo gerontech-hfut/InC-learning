@@ -1,0 +1,5 @@
+Albert_B._White | spouse | Agnes_Ward_White
+Albert_B._White | successor | William_M._O._Dawson
+Albert_B._White | office (workedAt, workedAs) | "Governor of West Virginia"
+Albert_B._White | birthPlace | Cleveland
+Albert_B._White | activeYearsEndDate | 1905-03-04

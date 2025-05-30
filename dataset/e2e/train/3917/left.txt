@@ -1,0 +1,1 @@
+name : Cotto | Type : coffee shop | food : Japanese | price : £ 20 - 25 | customer rating : high | area : city centre | near : The Portland Arms

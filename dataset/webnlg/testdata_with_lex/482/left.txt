@@ -1,0 +1,3 @@
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)
+Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)

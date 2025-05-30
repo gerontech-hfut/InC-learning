@@ -1,0 +1,4 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+St._Louis | leaderName | Francis_G._Slay
+University_of_Texas_at_Austin | compete in | Big_12_Conference
+Elliot_See | deathPlace | St._Louis

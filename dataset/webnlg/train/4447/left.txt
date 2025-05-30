@@ -1,0 +1,4 @@
+Amsterdam_Airport_Schiphol | cityServed | Amsterdam
+Amsterdam_Airport_Schiphol | runwayName | "06/24 'Kaagbaan'"
+Amsterdam_Airport_Schiphol | runwayLength | 3800.0
+Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528

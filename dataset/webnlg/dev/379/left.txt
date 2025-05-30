@@ -1,0 +1,3 @@
+Adirondack_Regional_Airport | runwayLength | 1219.0
+Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York

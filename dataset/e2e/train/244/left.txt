@@ -1,0 +1,1 @@
+name : The Rice Boat | food : French | price : less than £ 20 | customer rating : low | area : riverside | family friendly : yes | near : Express by Holiday Inn

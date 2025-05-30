@@ -1,0 +1,5 @@
+Indonesia | capital | Jakarta
+Indonesia | language | Indonesian_language
+Indonesia | leaderName | Jusuf_Kalla
+Bakso | region | Indonesia
+Bakso | country | Indonesia

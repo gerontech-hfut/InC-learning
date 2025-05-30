@@ -1,0 +1,3 @@
+Barny_Cakes | country | France
+France | leaderName | Gérard_Larcher
+France | leaderName | Manuel_Valls

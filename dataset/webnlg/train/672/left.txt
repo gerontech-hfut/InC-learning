@@ -1,0 +1,1 @@
+Anaheim,_California | UTCOffset | "-8"

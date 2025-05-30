@@ -1,0 +1,3 @@
+The height of 3 arena is 28 metres.
+The height of 3Arena is 28.0 metres.
+3Arena is 28.0 metres high.

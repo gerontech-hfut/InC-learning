@@ -1,0 +1,1 @@
+Akron,_Ohio | areaCode | 234, 330

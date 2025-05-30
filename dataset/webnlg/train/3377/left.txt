@@ -1,0 +1,3 @@
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | completionDate | "1 June 2009"

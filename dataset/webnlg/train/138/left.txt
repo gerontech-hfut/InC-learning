@@ -1,0 +1,1 @@
+Angola_International_Airport | runwayLength | 4000.0

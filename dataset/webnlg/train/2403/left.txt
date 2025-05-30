@@ -1,0 +1,2 @@
+Baked_Alaska | country | United_States
+Baked_Alaska | ingredient | Christmas_pudding

@@ -1,0 +1,3 @@
+Bolt_(comicsCharacter) | creator | Paris_Cullins
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+Bolt_(comicsCharacter) | creator | Dan_Mishkin

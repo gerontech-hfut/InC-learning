@@ -1,0 +1,4 @@
+Juan_Perón | party | Labour_Party_(Argentina)
+Alberto_Teisaire | nationality | Argentina
+Argentina | language | Spanish_language
+Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón

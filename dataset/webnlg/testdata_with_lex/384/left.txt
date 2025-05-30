@@ -1,0 +1,2 @@
+Adare_Manor | location | Adare
+Adare_Manor | location | County_Limerick

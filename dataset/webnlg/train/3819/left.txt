@@ -1,0 +1,3 @@
+Spain | language | Spanish_language
+Arròs_negre | country | Spain
+Spain | ethnicGroup | Spaniards

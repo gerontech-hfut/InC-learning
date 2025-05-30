@@ -1,0 +1,2 @@
+101 Helena(mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).
+101 Helena; has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.

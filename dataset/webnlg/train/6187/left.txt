@@ -1,0 +1,5 @@
+Baked_Alaska | country | France
+France | leaderName | Manuel_Valls
+France | leaderName | Gérard_Larcher
+France | language | French_language
+Baked_Alaska | region | "Paris, New York or Hong Kong"

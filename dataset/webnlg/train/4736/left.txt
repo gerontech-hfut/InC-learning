@@ -1,0 +1,4 @@
+Akita_Museum_of_Art | country | Japan
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita,_Akita | isPartOf | Akita_Prefecture
+Japan | ethnicGroup | Chinese_people_in_Japan

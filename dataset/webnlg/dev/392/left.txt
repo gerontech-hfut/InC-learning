@@ -1,0 +1,3 @@
+Antwerp_International_Airport | operatingOrganisation | Flemish_Government
+Antwerp_International_Airport | owner | Flemish_Region
+Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0

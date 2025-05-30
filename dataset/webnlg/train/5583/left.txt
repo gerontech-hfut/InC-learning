@@ -1,0 +1,4 @@
+American_Journal_of_Mathematics | abbreviation | "Am. J. Math."
+American_Journal_of_Mathematics | academicDiscipline | Mathematics
+American_Journal_of_Mathematics | frequency | "Bimonthly"
+American_Journal_of_Mathematics | ISSN_number | "0002-9327"

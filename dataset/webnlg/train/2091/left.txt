@@ -1,0 +1,2 @@
+3Arena | location | "North Wall Quay"
+3Arena | architect | Populous_(company)

@@ -1,0 +1,3 @@
+(66063) 1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days. Its escape velocity is 0.0999 km/sec and it has an apoapsis of 254989570.60815 kilometres.
+(66063)1998 RO1 had its epoch date on 2013-11-04 and has an orbital period of 360.29 days.It has an escape velocity of 0.0999 km/s and its apoapsis is 254989570.60815 kilometres.
+The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.

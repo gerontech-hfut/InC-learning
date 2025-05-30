@@ -1,0 +1,2 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+Elliot_See | birthDate | "1927-07-23"

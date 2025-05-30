@@ -1,0 +1,4 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Blackpool | leader | Gordon_Marsden
+A.F.C._Blackpool | ground | Blackpool
+Stuart_Parker_(footballer) | club | Blackpool_F.C.

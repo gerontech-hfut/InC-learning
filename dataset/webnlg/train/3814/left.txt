@@ -1,0 +1,3 @@
+Singapore | leaderName | Tony_Tan
+Beef_kway_teow | country | Singapore
+Singapore | language | Standard_Chinese

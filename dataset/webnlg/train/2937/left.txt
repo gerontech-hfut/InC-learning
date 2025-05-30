@@ -1,0 +1,2 @@
+Administrative_Science_Quarterly | academicDiscipline | Management
+Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."

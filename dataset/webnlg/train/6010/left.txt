@@ -1,0 +1,5 @@
+Akita_Museum_of_Art | country | Japan
+Japan | leaderName | Akihito
+Akita,_Akita | isPartOf | Akita_Prefecture
+Japan | ethnicGroup | Vietnamese_people_in_Japan
+Akita_Museum_of_Art | location | Akita,_Akita

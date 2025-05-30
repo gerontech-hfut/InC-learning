@@ -1,0 +1,1 @@
+Al_Asad_Airbase | runwayLength | 3990.0

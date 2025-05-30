@@ -1,0 +1,5 @@
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Malay
+Malaysia | leaderName | Abu_Zahar_Ujang
+Malaysia | ethnicGroup | Malaysian_Indian
+Asam_pedas | region | Malay_Peninsula

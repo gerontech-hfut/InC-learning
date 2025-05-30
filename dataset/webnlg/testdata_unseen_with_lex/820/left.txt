@@ -1,0 +1,5 @@
+107_Camilla | discoverer | N._R._Pogson
+N._R._Pogson | deathPlace | Chennai
+107_Camilla | absoluteMagnitude | 7.08
+N._R._Pogson | birthPlace | Nottingham
+N._R._Pogson | nationality | England

@@ -1,0 +1,3 @@
+3Arena | owner | Live_Nation_Entertainment
+Dublin | isPartOf | Republic_of_Ireland
+3Arena | location | Dublin

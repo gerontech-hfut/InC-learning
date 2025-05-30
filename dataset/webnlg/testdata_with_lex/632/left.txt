@@ -1,0 +1,4 @@
+Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana
+Angola,_Indiana | country | United_States
+Angola,_Indiana | isPartOf | Indiana
+Angola,_Indiana | areaTotal | 16.55 (square kilometres)

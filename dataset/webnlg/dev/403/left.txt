@@ -1,0 +1,3 @@
+Alan_Shepard | deathDate | "1998-07-21"
+Alan_Shepard | deathPlace | California
+California | senators | Dianne_Feinstein

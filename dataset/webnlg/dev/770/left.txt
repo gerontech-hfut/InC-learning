@@ -1,0 +1,5 @@
+Amatriciana_sauce | region | Lazio
+Amatriciana_sauce | country | Italy
+Amatriciana_sauce | ingredient | Guanciale
+Amatriciana_sauce | course | Italian_meal_structure
+Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"

@@ -1,0 +1,3 @@
+3Arena | location | "North Wall Quay"
+3Arena | architect | "HOK SVE"
+3Arena | completionDate | "December 2008"

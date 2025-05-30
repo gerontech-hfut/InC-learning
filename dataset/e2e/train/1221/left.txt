@@ -1,0 +1,1 @@
+name : Giraffe | Type : pub | food : French | area : riverside | family friendly : yes

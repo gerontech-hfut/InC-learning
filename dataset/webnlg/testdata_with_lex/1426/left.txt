@@ -1,0 +1,3 @@
+(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)

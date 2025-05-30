@@ -1,0 +1,4 @@
+Batagor | country | Indonesia
+Batagor | dishVariation | Siomay
+Shumai | ingredient | Shiitake
+Batagor | dishVariation | Shumai

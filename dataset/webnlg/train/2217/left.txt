@@ -1,0 +1,2 @@
+Balder_(comicsCharacter) | alternativeName | "Balder Odinson"
+Balder_(comicsCharacter) | creator | Stan_Lee

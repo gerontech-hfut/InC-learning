@@ -1,0 +1,5 @@
+Bandeja_paisa | ingredient | Lemon
+Antioquia_Department | country | Colombia
+Lemon | order | Rosids
+Lemon | family | Rutaceae
+Bandeja_paisa | region | Antioquia_Department

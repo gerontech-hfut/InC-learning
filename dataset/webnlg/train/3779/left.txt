@@ -1,0 +1,3 @@
+Bionico | ingredient | Granola
+Bionico | dishVariation | Cottage_cheese
+Bionico | course | Dessert

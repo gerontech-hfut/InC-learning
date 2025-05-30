@@ -1,0 +1,1 @@
+Buzz_Aldrin | birthDate | "1930-01-20"

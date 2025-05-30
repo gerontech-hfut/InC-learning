@@ -1,0 +1,2 @@
+AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center
+AC_Hotel_Bella_Sky_Copenhagen | numberOfRooms | 814

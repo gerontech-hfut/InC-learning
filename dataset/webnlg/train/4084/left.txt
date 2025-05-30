@@ -1,0 +1,3 @@
+Romania | leaderName | Klaus_Iohannis
+Romania | capital | Bucharest
+1_Decembrie_1918_University | country | Romania

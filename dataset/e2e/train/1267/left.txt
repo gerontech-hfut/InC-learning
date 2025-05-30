@@ -1,0 +1,1 @@
+name : Cocum | Type : coffee shop | food : Fast food | price : cheap | customer rating : average | family friendly : no

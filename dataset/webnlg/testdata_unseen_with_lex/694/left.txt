@@ -1,0 +1,4 @@
+Ahmet_Ertegun | genre | Rhythm_and_blues
+Ahmet_Ertegun | origin | Washington,_D.C.
+Ahmet_Ertegun | background | "non_performing_personnel"
+Ahmet_Ertegun | origin | United_States

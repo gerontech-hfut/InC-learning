@@ -1,0 +1,5 @@
+Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
+Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 911.0
+Afonso_Pena_International_Airport | ICAO_Location_Identifier | "SBCT"
+Afonso_Pena_International_Airport | runwayName | "11/29"
+Afonso_Pena_International_Airport | runwayLength | 1800.0

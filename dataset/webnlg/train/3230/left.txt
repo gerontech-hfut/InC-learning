@@ -1,0 +1,3 @@
+Elliot_See | birthPlace | Dallas
+Elliot_See | status | "Deceased"
+Dallas | part | Collin_County,_Texas

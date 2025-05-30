@@ -1,0 +1,4 @@
+Turkey | leaderTitle | President_of_Turkey
+Atatürk_Monument_(İzmir) | designer | Pietro_Canonica
+Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"
+Atatürk_Monument_(İzmir) | location | Turkey

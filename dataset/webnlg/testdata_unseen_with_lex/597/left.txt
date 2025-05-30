@@ -1,0 +1,4 @@
+Abel_Hernández | club | Peñarol
+Abel_Hernández | youthclub | Central_Español
+Hull_City_A.F.C. | manager | Steve_Bruce
+Abel_Hernández | club | Hull_City_A.F.C.

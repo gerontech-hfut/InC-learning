@@ -1,0 +1,3 @@
+3Arena | owner | Live_Nation_Entertainment
+Dublin | leaderTitle | Dáil_Éireann
+3Arena | location | Dublin

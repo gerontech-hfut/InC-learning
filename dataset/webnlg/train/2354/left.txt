@@ -1,0 +1,2 @@
+Ayam_penyet | country | Java
+Ayam_penyet | ingredient | Fried_chicken

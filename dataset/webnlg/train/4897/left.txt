@@ -1,0 +1,4 @@
+Arem-arem | country | Indonesia
+Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"
+Indonesia | leaderName | Joko_Widodo
+Indonesia | language | Indonesian_language

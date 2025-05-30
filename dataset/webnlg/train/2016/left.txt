@@ -1,0 +1,2 @@
+Elliot_See | status | "Deceased"
+Elliot_See | birthPlace | Dallas

@@ -1,0 +1,4 @@
+Ace_Wilder | background | "solo_singer"
+Ace_Wilder | birthYear | 1982
+Ace_Wilder | occupation | Songwriter
+Ace_Wilder | birthPlace | Stockholm

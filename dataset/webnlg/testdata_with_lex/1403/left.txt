@@ -1,0 +1,3 @@
+Albert_Jennings_Fountain | birthPlace | Staten_Island
+Albert_Jennings_Fountain | deathPlace | United_States
+United_States | ethnicGroup | African_Americans

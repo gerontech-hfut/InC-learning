@@ -1,0 +1,1 @@
+name : The Cricketers | Type : restaurant | food : Chinese | price : more than £ 30 | customer rating : high | area : city centre | family friendly : yes | near : All Bar One

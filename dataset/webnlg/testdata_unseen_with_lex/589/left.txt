@@ -1,0 +1,3 @@
+Hull_City_A.F.C. | manager | Steve_Bruce
+Abel_Hernández | club | Hull_City_A.F.C.
+Abel_Hernández | club | Uruguay_Olympic_football_team

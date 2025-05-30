@@ -1,0 +1,4 @@
+Abel_Hernández | youthclub | Peñarol
+U.S._Città_di_Palermo | manager | Giuseppe_Iachini
+Abel_Hernández | club | U.S._Città_di_Palermo
+U.S._Città_di_Palermo | league | Serie_A

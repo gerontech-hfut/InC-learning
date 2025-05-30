@@ -1,0 +1,5 @@
+Java | ethnicGroup | Baduy
+Singapore | language | English_language
+Singapore | leaderName | Halimah_Yacob
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java

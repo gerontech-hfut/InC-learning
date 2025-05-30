@@ -1,0 +1,5 @@
+Agra_Airport | location | Uttar_Pradesh
+Uttar_Pradesh | isPartOf | Awadh
+Uttar_Pradesh | leaderName | Ram_Naik
+Agra_Airport | operatingOrganisation | Indian_Air_Force
+Uttar_Pradesh | isPartOf | Bundelkhand

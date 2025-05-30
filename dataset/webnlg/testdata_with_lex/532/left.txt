@@ -1,0 +1,3 @@
+Madrid | leaderParty | Ahora_Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
+Madrid | country | Spain

@@ -1,0 +1,4 @@
+AWH_Engineering_College | country | India
+AWH_Engineering_College | established | 2001
+AWH_Engineering_College | state | Kerala
+AWH_Engineering_College | city | "Kuttikkattoor"

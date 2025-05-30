@@ -1,0 +1,2 @@
+103_Colmore_Row | architect | John_Madin
+John_Madin | hometown | Birmingham

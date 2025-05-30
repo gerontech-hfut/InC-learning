@@ -1,0 +1,3 @@
+Azerbaijan | capital | Baku
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"

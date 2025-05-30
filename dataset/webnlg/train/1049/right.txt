@@ -1,0 +1,2 @@
+Celery is an ingredient of Bakso.
+Celery is an ingredient in Bakso.

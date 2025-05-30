@@ -1,0 +1,5 @@
+United_States | leaderTitle | President_of_the_United_States
+United_States | demonym | Americans
+Albany,_Georgia | country | United_States
+Albany,_Georgia | isPartOf | United_States
+United_States | ethnicGroup | African_Americans

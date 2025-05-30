@@ -1,0 +1,5 @@
+Alessio_Romagnoli | club | A.C._Milan
+A.C._Milan | league | Serie_A
+A.C._Milan | manager | Siniša_Mihajlović
+Alessio_Romagnoli | position | Defender_(football)
+Alessio_Romagnoli | club | U.C._Sampdoria

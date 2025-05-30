@@ -1,0 +1,3 @@
+Agra Airport IATA Location Identifier is AGR.
+AGR is the IATA I.D. of the Agra Airport.
+AGR is the ATA Location Identifier for Agra Airport.

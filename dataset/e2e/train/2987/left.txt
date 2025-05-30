@@ -1,0 +1,1 @@
+name : The Mill | Type : coffee shop | food : Japanese | price : £ 20 - 25 | area : riverside | near : The Sorrento

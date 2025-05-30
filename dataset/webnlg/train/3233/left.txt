@@ -1,0 +1,3 @@
+Elliot_See | occupation | Test_pilot
+Dallas | partsType | List_of_counties_in_Texas
+Elliot_See | birthPlace | Dallas

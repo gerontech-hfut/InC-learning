@@ -1,0 +1,3 @@
+Bandeja_paisa | ingredient | Avocado
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Antioquia_Department

@@ -1,0 +1,3 @@
+Bionico | country | Mexico
+Mexico | language | Spanish_language
+Mexico | leaderName | Silvano_Aureoles_Conejo

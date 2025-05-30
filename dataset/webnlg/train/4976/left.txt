@@ -1,0 +1,4 @@
+Bacon_sandwich | dishVariation | BLT
+BLT | dishVariation | Club_sandwich
+Bacon_sandwich | ingredient | Condiment
+Bacon_sandwich | country | United_Kingdom

@@ -1,0 +1,3 @@
+Aleksandra_Kovač | genre | Rhythm_and_blues
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač

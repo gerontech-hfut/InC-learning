@@ -1,0 +1,2 @@
+Al-Taqaddum_Air_Base | cityServed | Fallujah
+Fallujah | country | Iraq

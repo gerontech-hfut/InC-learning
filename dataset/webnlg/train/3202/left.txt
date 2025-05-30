@@ -1,0 +1,3 @@
+Alan_Shepard | timeInSpace | "13017.0"(minutes)
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | birthPlace | New_Hampshire

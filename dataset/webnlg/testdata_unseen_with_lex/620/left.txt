@@ -1,0 +1,4 @@
+Houston_Texans | city | Texas
+Akeem_Dent | debutTeam | Atlanta_Falcons
+Akeem_Dent | formerTeam | Houston_Texans
+Houston_Texans | city | Houston

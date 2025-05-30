@@ -1,0 +1,3 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | battles | Korean_War
+United_States_Air_Force | battles | Operation_Enduring_Freedom

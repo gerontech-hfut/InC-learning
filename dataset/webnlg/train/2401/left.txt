@@ -1,0 +1,2 @@
+Baked_Alaska | country | France
+France | language | French_language

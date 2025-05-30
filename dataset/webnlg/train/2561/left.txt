@@ -1,0 +1,2 @@
+11th_Mississippi_Infantry_Monument | state | "Pennsylvania"
+11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania

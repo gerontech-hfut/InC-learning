@@ -1,0 +1,4 @@
+AZ_Alkmaar | manager | John_van_den_Brom
+John_van_den_Brom | club | AFC_Ajax
+John_van_den_Brom | club | De_Graafschap
+AZ_Alkmaar | owner | Robert_Eenhoorn

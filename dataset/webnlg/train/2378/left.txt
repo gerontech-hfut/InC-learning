@@ -1,0 +1,2 @@
+Bacon_Explosion | ingredient | Bacon
+Bacon_Explosion | region | Kansas_City_metropolitan_area

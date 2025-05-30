@@ -1,0 +1,3 @@
+Akeem_Ayers | formerTeam | Los_Angeles_Rams
+Akeem_Ayers | draftRound | "2"
+Akeem_Ayers | draftPick | "39"

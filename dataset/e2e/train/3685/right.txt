@@ -1,0 +1,11 @@
+The customer rated 1 out of 5 , The Eagle , serves English food . 
+Offering English food , The Eagle has a customer rating of 1 out of 5 . 
+English food is offered at The Eagle , with a 1 out of 5 customer rating . 
+The Eagle serving English food has a customer rating of 1 out of 5 . 
+With a customer rating of 1 out of 5 The Eagle has American food . 
+With a customer rating of 1 out of 5 The Eagle serves English food . 
+The Eagle has English food with a 1 out of 5 customer rating . 
+The Eagle has a customer rating of 1 out of 5 and serves English food . 
+With a customer rating of 1 out of 5 The Eagle has American food . 
+The Eagle serves English food and has a 1 out of 5 customer rating . 
+The Eagle serves English food . They are customer rated 1 out of 5 . 

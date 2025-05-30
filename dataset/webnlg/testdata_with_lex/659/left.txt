@@ -1,0 +1,4 @@
+A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"
+A.F.C._Fylde | season | 2014
+A.F.C._Fylde | numberOfMembers | 3180
+A.F.C._Fylde | fullname | "Association Football Club Fylde"

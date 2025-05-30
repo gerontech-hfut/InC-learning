@@ -1,0 +1,3 @@
+A_Glastonbury_Romance | mediaType | Hardcover
+A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"
+A_Glastonbury_Romance | OCLC_number | 76798317

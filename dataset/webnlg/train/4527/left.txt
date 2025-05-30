@@ -1,0 +1,4 @@
+Harrietstown,_New_York | country | United_States
+Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York
+Harrietstown,_New_York | isPartOf | New_York
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York

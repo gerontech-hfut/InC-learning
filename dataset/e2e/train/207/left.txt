@@ -1,0 +1,1 @@
+name : The Golden Palace | Type : coffee shop | food : Indian | price : moderate | customer rating : 1 out of 5 | area : riverside

@@ -1,0 +1,1 @@
+name : The Plough | Type : restaurant | price : less than £ 20 | family friendly : no | near : The Bakers

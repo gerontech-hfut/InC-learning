@@ -1,0 +1,5 @@
+Bacon_Explosion | country | United_States
+United_States | ethnicGroup | White_Americans
+United_States | leaderName | Paul_Ryan
+United_States | capital | Washington,_D.C.
+United_States | language | English_language

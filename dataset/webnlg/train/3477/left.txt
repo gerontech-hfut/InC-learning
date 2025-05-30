@@ -1,0 +1,3 @@
+Bananaman | starring | Jill_Shilling
+Bananaman | firstAired | "1983-10-03"
+Bananaman | broadcastedBy | "STV"

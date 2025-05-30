@@ -1,0 +1,2 @@
+Aarhus_Airport | location | Tirstrup
+Tirstrup | isPartOf | Denmark

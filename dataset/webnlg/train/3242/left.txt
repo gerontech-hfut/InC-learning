@@ -1,0 +1,3 @@
+William_Anders | was a crew member of | Apollo_8
+William_Anders | almaMater | "AFIT, M.S. 1962"
+Apollo_8 | crewMembers | Frank_Borman

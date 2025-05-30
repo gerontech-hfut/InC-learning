@@ -1,0 +1,4 @@
+A.C._Lumezzane | ground | Italy
+Italy | capital | Rome
+Italy | leader | Pietro_Grasso
+Italy | demonym | Italians

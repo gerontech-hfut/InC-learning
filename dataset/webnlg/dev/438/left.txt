@@ -1,0 +1,3 @@
+Bananaman | starring | Bill_Oddie
+Bananaman | firstAired | "1983-10-03"
+Bananaman | broadcastedBy | "STV"

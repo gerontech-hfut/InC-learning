@@ -1,0 +1,4 @@
+British_Hong_Kong | representative | Chris_Patten
+William_Anders | was a crew member of | Apollo_8
+William_Anders | birthPlace | British_Hong_Kong
+Apollo_8 | crewMembers | Frank_Borman

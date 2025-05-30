@@ -1,0 +1,1 @@
+name : The Cambridge Blue | Type : restaurant | food : French | customer rating : 5 out of 5

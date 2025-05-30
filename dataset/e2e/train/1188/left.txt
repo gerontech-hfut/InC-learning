@@ -1,0 +1,1 @@
+name : Bibimbap House | food : Fast food | price : £ 20 - 25 | area : riverside | near : Clare Hall

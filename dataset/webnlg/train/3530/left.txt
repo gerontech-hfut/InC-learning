@@ -1,0 +1,3 @@
+Amatriciana_sauce | country | Italy
+Amatriciana_sauce | ingredient | Tomato
+Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"

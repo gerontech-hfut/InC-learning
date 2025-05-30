@@ -1,0 +1,3 @@
+Ice cream is a type of dessert. So too is Bionico, which requires granola as one of its ingredients.
+Granola is a key ingredient in Bionico, which like ice cream is a type of dessert.
+Bionico and ice cream are types of dessert. One of the ingredients of Bionico is granola.

@@ -1,0 +1,4 @@
+Georgia_(U.S._state) | country | United_States
+Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)
+Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia
+Fulton_County,_Georgia | countySeat | Atlanta

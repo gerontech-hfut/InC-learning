@@ -1,0 +1,1 @@
+name : Giraffe | Type : pub | food : Chinese | area : city centre | family friendly : yes

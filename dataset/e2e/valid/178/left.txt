@@ -1,0 +1,1 @@
+name : Fitzbillies | Type : coffee shop | food : Chinese | price : less than £ 20 | customer rating : low | area : city centre | family friendly : yes

@@ -1,0 +1,2 @@
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | completionDate | 1988

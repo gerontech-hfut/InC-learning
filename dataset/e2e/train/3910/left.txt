@@ -1,0 +1,1 @@
+name : Loch Fyne | Type : restaurant | food : Indian | price : moderate | family friendly : no

@@ -1,0 +1,3 @@
+Pork is an ingredient of Batchoy.
+Pork is an ingredient in Batchoy.
+one of the ingredients of Batchoy is Pork.

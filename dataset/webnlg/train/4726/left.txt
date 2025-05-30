@@ -1,0 +1,4 @@
+Adisham_Hall | architecturalStyle | "Tudor and Jacabian"
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | buildingStartDate | "1927"
+Adisham_Hall | location | Haputale

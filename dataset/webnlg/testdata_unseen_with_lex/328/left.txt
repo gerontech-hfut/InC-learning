@@ -1,0 +1,2 @@
+Alfredo_Zitarrosa | birthPlace | Uruguay
+Alfredo_Zitarrosa | deathPlace | Montevideo

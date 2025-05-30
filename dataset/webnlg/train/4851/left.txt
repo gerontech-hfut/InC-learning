@@ -1,0 +1,4 @@
+Bananaman | starring | Bill_Oddie
+Bananaman | broadcastedBy | BBC
+Bill_Oddie | birthPlace | Lancashire
+BBC | locationCity | Broadcasting_House

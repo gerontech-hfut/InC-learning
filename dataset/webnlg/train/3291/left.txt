@@ -1,0 +1,3 @@
+250_Delaware_Avenue | location | Buffalo,_New_York
+250_Delaware_Avenue | buildingStartDate | "January, 2014"
+250_Delaware_Avenue | floorCount | 12

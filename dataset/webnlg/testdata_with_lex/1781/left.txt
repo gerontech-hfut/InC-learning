@@ -1,0 +1,5 @@
+101_Helena | discoverer | James_Craig_Watson
+James_Craig_Watson | almaMater | University_of_Michigan
+101_Helena | discovered | 1868-08-15
+James_Craig_Watson | nationality | Canada
+James_Craig_Watson | deathPlace | Madison,_Wisconsin

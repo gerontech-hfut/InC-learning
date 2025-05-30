@@ -1,0 +1,2 @@
+109_Felicitas | epoch | 2006-12-31
+109_Felicitas | periapsis | 283326000000.0

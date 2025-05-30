@@ -1,0 +1,4 @@
+Acura_TLX | assembly | Marysville_Auto_Plant
+Acura_TLX | engine | V6_engine
+Acura_TLX | layout | Front-engine_design
+Acura_TLX | class | Luxury_vehicle

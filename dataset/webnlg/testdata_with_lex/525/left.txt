@@ -1,0 +1,3 @@
+Andrews_County_Airport | location | Texas
+Texas | demonym | Tejano
+Texas | country | United_States

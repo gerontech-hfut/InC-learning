@@ -1,0 +1,4 @@
+William_Anders | occupation | Fighter_pilot
+William_Anders | was a crew member of | Apollo_8
+Apollo_8 | operator | NASA
+William_Anders | was selected by NASA | 1963

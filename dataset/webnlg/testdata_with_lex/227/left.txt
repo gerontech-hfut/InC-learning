@@ -1,0 +1,2 @@
+Albany,_Oregon | isPartOf | Oregon
+Oregon | capital | Salem,_Oregon

@@ -1,0 +1,2 @@
+Bhajji | country | India
+India | leaderName | Narendra_Modi

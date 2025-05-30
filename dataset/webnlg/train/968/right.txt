@@ -1,0 +1,3 @@
+Amatriciana sauce has tomato as one of its ingredients.
+Tomato is an ingredient in Amatriciana sauce.
+Tomato is an ingredient of Amatriciana sauce.

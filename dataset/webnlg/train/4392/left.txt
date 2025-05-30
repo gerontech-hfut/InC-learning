@@ -1,0 +1,4 @@
+Agra_Airport | elevationAboveTheSeaLevel_(in_metres) | 167.94
+Agra_Airport | location | Uttar_Pradesh
+Uttar_Pradesh | isPartOf | Awadh
+Uttar_Pradesh | leaderName | Ram_Naik

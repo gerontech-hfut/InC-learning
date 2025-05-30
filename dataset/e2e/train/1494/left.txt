@@ -1,0 +1,1 @@
+name : The Rice Boat | food : Indian | customer rating : average | area : city centre | family friendly : no

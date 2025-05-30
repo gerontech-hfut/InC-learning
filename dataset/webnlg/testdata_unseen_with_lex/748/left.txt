@@ -1,0 +1,4 @@
+Agnes_Kant | nationality | Netherlands
+Socialist_Party_(Netherlands) | colour | Red
+Socialist_Party_(Netherlands) | leaderName | Emile_Roemer
+Agnes_Kant | party | Socialist_Party_(Netherlands)

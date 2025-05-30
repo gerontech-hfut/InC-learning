@@ -1,0 +1,1 @@
+name : The Rice Boat | price : high | customer rating : average | near : Rainbow Vegetarian Café

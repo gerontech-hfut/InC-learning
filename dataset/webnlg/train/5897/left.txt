@@ -1,0 +1,5 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+Elliot_See | status | "Deceased"
+Elliot_See | birthPlace | Dallas
+Elliot_See | occupation | Test_pilot
+Elliot_See | nationality | United_States

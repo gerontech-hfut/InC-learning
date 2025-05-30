@@ -1,0 +1,3 @@
+1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II
+1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"
+Grantville_Gazette_II | precededBy | The_Grantville_Gazette

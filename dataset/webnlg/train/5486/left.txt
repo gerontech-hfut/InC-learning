@@ -1,0 +1,4 @@
+1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II
+1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion
+Ring_of_Fire_II | language | English_language
+1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"

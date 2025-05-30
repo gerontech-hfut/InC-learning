@@ -1,0 +1,3 @@
+Atlantic_City,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey
+Atlantic_County,_New_Jersey | country | United_States
+United_States | largestCity | New_York_City

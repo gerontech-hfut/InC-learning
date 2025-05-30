@@ -1,0 +1,1 @@
+name : The Wrestlers | Type : pub | food : Japanese | price : more than £ 30 | customer rating : 5 out of 5 | area : city centre | family friendly : no | near : Raja Indian Cuisine

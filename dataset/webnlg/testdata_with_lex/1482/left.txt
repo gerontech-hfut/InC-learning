@@ -1,0 +1,3 @@
+Andra_(singer) | genre | Rhythm_and_blues
+Andra_(singer) | background | "solo_singer"
+Rhythm_and_blues | derivative | Disco

@@ -1,0 +1,4 @@
+Romania | leaderName | Klaus_Iohannis
+Romania | leaderTitle | Prime_Minister_of_Romania
+1_Decembrie_1918_University | country | Romania
+Romania | anthem | Deșteaptă-te,_române!

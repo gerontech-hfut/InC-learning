@@ -1,0 +1,2 @@
+Sheldon_Moldoff | nationality | Americans
+Black_Pirate | creator | Sheldon_Moldoff

@@ -1,0 +1,2 @@
+14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service
+14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"

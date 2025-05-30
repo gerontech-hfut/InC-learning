@@ -1,0 +1,2 @@
+William_Anders | nationality | United_States
+William_Anders | birthPlace | British_Hong_Kong

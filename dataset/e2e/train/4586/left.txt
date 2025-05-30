@@ -1,0 +1,1 @@
+name : Loch Fyne | Type : restaurant | food : Italian | price : cheap | family friendly : yes

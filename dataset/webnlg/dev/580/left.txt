@@ -1,0 +1,4 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | nationality | United_States
+United_States | leaderName | Joe_Biden
+Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey

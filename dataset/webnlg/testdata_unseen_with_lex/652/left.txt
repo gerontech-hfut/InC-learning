@@ -1,0 +1,4 @@
+AMC_Matador | alternativeName | "American Motors Matador"
+AMC_Matador | assembly | Mexico_City
+AMC_Matador | bodyStyle | Station_wagon
+AMC_Matador | engine | AMC_V8_engine

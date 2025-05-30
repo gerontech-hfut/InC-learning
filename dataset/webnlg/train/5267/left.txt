@@ -1,0 +1,4 @@
+A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi
+A.C._Chievo_Verona | fullname | "Associazione Calcio ChievoVerona S.r.l."
+A.C._Chievo_Verona | season | 2014–15_Serie_A
+A.C._Chievo_Verona | numberOfMembers | 39371

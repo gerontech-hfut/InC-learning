@@ -1,0 +1,6 @@
+A fast food restaurant , The Rice Boat is located in the city centre . 
+The Rice Boat in city centre has fast food . 
+The Rice Boat is located in the city centre . The rice boat is a Fast Food restaurant . 
+The Rice Boat is a Fast Food restaurant located in the City Centre . 
+The Rice Boat is a fast food restaurant located in the city centre . 
+The Rice Boat is fast food in city centre . 

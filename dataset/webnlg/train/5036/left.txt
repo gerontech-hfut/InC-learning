@@ -1,0 +1,4 @@
+Bandeja_paisa | ingredient | Lemon
+Antioquia_Department | country | Colombia
+Lemon | genus | Citrus
+Bandeja_paisa | region | Antioquia_Department

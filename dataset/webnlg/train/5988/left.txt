@@ -1,0 +1,5 @@
+Adare | isPartOf | Munster
+Adare_Manor | architect | Augustus_Pugin
+Augustus_Pugin | significantBuilding | Palace_of_Westminster
+Augustus_Pugin | birthPlace | Bloomsbury
+Adare_Manor | location | Adare

@@ -1,0 +1,3 @@
+1._FC_Köln | manager | Peter_Stöger
+1._FC_Köln | season | 2014
+1._FC_Köln | numberOfMembers | 50000

@@ -1,0 +1,4 @@
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn
+Andrew_Rayel | genre | Trance_music
+Andrew_Rayel | activeYearsStartYear | 2009

@@ -1,0 +1,2 @@
+Appleton_International_Airport | locationIdentifier | "ATW"
+Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280

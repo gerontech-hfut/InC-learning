@@ -1,0 +1,2 @@
+Atlanta | country | United_States
+Atlanta | isPartOf | "Georgia"

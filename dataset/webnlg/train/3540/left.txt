@@ -1,0 +1,3 @@
+Arem-arem | country | Indonesia
+Indonesia | leaderName | Joko_Widodo
+Indonesia | currency | Indonesian_rupiah

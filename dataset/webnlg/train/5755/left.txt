@@ -1,0 +1,5 @@
+Andrews_County_Airport | location | Texas
+Texas | largestCity | Houston
+Texas | capital | Austin,_Texas
+Texas | demonym | Tejano
+Texas | country | United_States

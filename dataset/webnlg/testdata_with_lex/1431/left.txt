@@ -1,0 +1,3 @@
+103_Hera | discoverer | James_Craig_Watson
+103_Hera | epoch | 2011-08-27
+James_Craig_Watson | deathPlace | Madison,_Wisconsin

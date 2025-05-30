@@ -1,0 +1,2 @@
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | country | Java

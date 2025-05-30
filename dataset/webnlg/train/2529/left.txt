@@ -1,0 +1,2 @@
+Java | ethnicGroup | Baduy
+Ayam_penyet | country | Java

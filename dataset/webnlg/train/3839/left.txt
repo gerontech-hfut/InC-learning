@@ -1,0 +1,3 @@
+14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland

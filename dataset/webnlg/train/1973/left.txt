@@ -1,0 +1,2 @@
+Maple_Ridge_Township,_Alpena_County,_Michigan | isPartOf | United_States
+Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan

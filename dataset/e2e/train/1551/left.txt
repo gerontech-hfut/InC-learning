@@ -1,0 +1,1 @@
+name : Loch Fyne | Type : restaurant | food : Japanese | family friendly : yes

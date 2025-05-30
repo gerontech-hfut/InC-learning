@@ -1,0 +1,3 @@
+103_Hera | escapeVelocity | 0.0482 (kilometrePerSeconds)
+103_Hera | temperature | 170.0 (kelvins)
+103_Hera | apoapsis | 437170000.0 (kilometres)

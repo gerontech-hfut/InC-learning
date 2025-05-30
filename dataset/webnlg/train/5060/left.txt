@@ -1,0 +1,4 @@
+Batagor | country | Indonesia
+Shumai | dishVariation | Siomay
+Batagor | ingredient | Peanut_sauce
+Batagor | dishVariation | Shumai

@@ -1,0 +1,4 @@
+Aleksandra_Kovač | genre | Rhythm_and_blues
+Aleksandra_Kovač | background | "solo_singer"
+Aleksandra_Kovač | birthYear | 1972
+Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia

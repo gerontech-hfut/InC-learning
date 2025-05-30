@@ -1,0 +1,3 @@
+John_Cowper_Powys | birthPlace | Shirley,_Derbyshire
+John_Cowper_Powys | notableWork | Owen_Glendower_(novel)
+A_Glastonbury_Romance | author | John_Cowper_Powys

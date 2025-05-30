@@ -1,0 +1,3 @@
+1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War
+1634:_The_Baltic_War | author | David_Weber
+1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes

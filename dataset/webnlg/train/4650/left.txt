@@ -1,0 +1,4 @@
+11_Diagonal_Street | completionDate | 1983
+11_Diagonal_Street | floorCount | 20
+11_Diagonal_Street | owner | Redefine_Properties_Limited
+11_Diagonal_Street | architect | Helmut_Jahn

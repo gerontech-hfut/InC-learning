@@ -1,0 +1,5 @@
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+Denmark | leaderName | Margrethe_II_of_Denmark
+Marriott_International | foundationPlace | Washington,_D.C.
+Denmark | capital | Copenhagen
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International

@@ -1,0 +1,4 @@
+Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."
+Buzz_Aldrin | awards | 20
+Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"
+Buzz_Aldrin | birthDate | "1930-01-20"

@@ -1,0 +1,5 @@
+Barny_Cakes | country | France
+France | language | French_language
+Mondelez_International | foundationPlace | Chicago
+Barny_Cakes | creator | Mondelez_International
+France | leaderName | François_Hollande

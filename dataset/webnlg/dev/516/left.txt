@@ -1,0 +1,3 @@
+Romania | patronSaint | Andrew_the_Apostle
+1_Decembrie_1918_University | latinName | "Universitas Apulensis"
+1_Decembrie_1918_University | country | Romania

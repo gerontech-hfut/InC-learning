@@ -1,0 +1,5 @@
+Ethiopia | leaderName | Hailemariam_Desalegn
+Ethiopia | leaderName | Mulatu_Teshome
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | country | Ethiopia
+Ethiopia | language | Amharic

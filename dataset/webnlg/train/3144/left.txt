@@ -1,0 +1,3 @@
+Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines
+Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport
+Turkmenistan_Airlines | headquarter | Ashgabat

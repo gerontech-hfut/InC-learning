@@ -1,0 +1,3 @@
+Adisham_Hall | architecturalStyle | "Tudor and Jacabian"
+Adisham_Hall | location | Sri_Lanka
+Adisham_Hall | completionDate | 1931

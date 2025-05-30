@@ -1,0 +1,5 @@
+AMC_Matador | alternativeName | "American Motors Matador"
+AMC_Matador | assembly | Thames,_New_Zealand
+AMC_Matador | bodyStyle | Station_wagon
+AMC_Matador | class | Mid-size_car
+AMC_Matador | engine | AMC_V8_engine

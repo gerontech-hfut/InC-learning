@@ -1,0 +1,1 @@
+Alpena_County_Regional_Airport | locationIdentifier | "APN"

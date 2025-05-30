@@ -1,0 +1,4 @@
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | alternativeName | "Ajo blanco"
+Ajoblanco | ingredient | Water

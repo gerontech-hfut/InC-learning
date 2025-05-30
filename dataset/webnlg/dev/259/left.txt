@@ -1,0 +1,2 @@
+300_North_LaSalle | location | Illinois
+300_North_LaSalle | floorCount | 60

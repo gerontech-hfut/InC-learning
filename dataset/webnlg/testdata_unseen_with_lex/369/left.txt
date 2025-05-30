@@ -1,0 +1,2 @@
+110_Lydia | epoch | 2006-12-31
+110_Lydia | orbitalPeriod | 142603000.0

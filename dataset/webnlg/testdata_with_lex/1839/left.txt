@@ -1,0 +1,5 @@
+Alison_O'Donnell | genre | Jazz
+Jazz | derivative | Funk
+Alison_O'Donnell | recordLabel | Deram_Records
+Deram_Records | location | London
+Alison_O'Donnell | recordLabel | Stanyan_Records

@@ -1,0 +1,3 @@
+Apollo_8 | commander | Frank_Borman
+William_Anders | was a crew member of | Apollo_8
+Apollo_8 | backup pilot | Buzz_Aldrin

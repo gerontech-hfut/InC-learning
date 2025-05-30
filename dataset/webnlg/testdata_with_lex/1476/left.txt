@@ -1,0 +1,3 @@
+Allen_Forrest | genre | Rhythm_and_blues
+Allen_Forrest | birthPlace | Dothan,_Alabama
+Allen_Forrest | background | "solo_singer"

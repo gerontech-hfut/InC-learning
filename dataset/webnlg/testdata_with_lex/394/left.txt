@@ -1,0 +1,2 @@
+County_Limerick | isPartOf | Munster
+Adare_Manor | location | County_Limerick

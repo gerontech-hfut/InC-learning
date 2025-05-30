@@ -1,0 +1,4 @@
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+American_Locomotive_Company | locationCountry | United_States
+American_Locomotive_Company | foundationPlace | Schenectady,_New_York

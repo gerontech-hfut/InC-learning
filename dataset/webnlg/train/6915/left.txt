@@ -1,0 +1,7 @@
+Denmark | leaderName | Lars_Løkke_Rasmussen
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+Aarhus | has to its northeast | Mols
+Denmark | leaderTitle | Monarchy_of_Denmark
+Denmark | religion | Church_of_Denmark
+Aarhus | governmentType | Magistrate

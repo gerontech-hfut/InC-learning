@@ -1,0 +1,3 @@
+Caterpillar_Inc. | location | Illinois
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.

@@ -1,0 +1,4 @@
+Ayam_penyet | region | Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Java | ethnicGroup | Baduy
+Ayam_penyet | country | Java

@@ -1,0 +1,2 @@
+103_Hera | discoverer | James_Craig_Watson
+James_Craig_Watson | nationality | Canada

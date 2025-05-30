@@ -1,0 +1,1 @@
+name : Alimentum | food : Japanese | price : more than £ 30 | area : city centre | family friendly : no

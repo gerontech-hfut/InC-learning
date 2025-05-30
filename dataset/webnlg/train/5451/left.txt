@@ -1,0 +1,4 @@
+Romania | leaderTitle | Prime_Minister_of_Romania
+Romania | ethnicGroup | Germans_of_Romania
+Romania | leaderName | Klaus_Iohannis
+1_Decembrie_1918_University | country | Romania

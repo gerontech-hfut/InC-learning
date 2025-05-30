@@ -1,0 +1,2 @@
+MTU_Friedrichshafen | owner | Rolls-Royce_Holdings
+A-Rosa_Luna | powerType | MTU_Friedrichshafen

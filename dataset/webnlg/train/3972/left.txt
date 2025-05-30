@@ -1,0 +1,3 @@
+AFC_Ajax | numberOfMembers | 53502
+AFC_Ajax | season | 2014–15_Eredivisie
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"

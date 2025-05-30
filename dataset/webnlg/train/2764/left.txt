@@ -1,0 +1,2 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | leaderName | Johann_Schneider-Ammann

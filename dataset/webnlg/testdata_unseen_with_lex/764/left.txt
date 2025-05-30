@@ -1,0 +1,4 @@
+Allan_Shivers | party | Democratic_Party_(United_States)
+Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.
+Allan_Shivers | birthPlace | Lufkin,_Texas
+Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"

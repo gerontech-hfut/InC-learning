@@ -1,0 +1,4 @@
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leaderName | Ranil_Wickremesinghe
+Ampara_Hospital | region | Ampara_District
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte

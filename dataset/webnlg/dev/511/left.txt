@@ -1,0 +1,3 @@
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | motto | "Nurturing Excellence"
+Acharya_Institute_of_Technology | country | "India"

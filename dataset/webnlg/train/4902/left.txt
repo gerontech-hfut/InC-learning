@@ -1,0 +1,4 @@
+Arem-arem | country | Indonesia
+Indonesia | leaderName | Jusuf_Kalla
+Arem-arem | region | Javanese_cuisine
+Indonesia | language | Indonesian_language

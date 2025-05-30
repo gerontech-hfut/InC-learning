@@ -1,0 +1,2 @@
+Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York

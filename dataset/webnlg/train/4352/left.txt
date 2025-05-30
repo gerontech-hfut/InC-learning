@@ -1,0 +1,4 @@
+Aarhus_Airport | location | Tirstrup
+Tirstrup | country | Denmark
+Tirstrup | isPartOf | Central_Denmark_Region
+Denmark | language | Faroese_language

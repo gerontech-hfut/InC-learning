@@ -1,0 +1,4 @@
+Turkey | leader | Ahmet_Davutoğlu
+Turkey | capital | Ankara
+Turkey | currency | Turkish_lira
+Atatürk_Monument_(İzmir) | location | Turkey

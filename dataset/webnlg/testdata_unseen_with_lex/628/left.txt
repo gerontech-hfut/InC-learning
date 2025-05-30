@@ -1,0 +1,4 @@
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | doctoralStudent | Halton_Arp
+Walter_Baade | birthPlace | Preußisch_Oldendorf
+Walter_Baade | almaMater | University_of_Göttingen

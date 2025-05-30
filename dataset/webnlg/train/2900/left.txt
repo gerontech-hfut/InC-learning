@@ -1,0 +1,2 @@
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | mediaType | "Print"

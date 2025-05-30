@@ -1,0 +1,5 @@
+Audi_A1 | manufacturer | Audi
+Audi | foundedBy | August_Horch
+Audi | subsidiary | Ducati
+Audi | division | Audi_e-tron
+Audi | subsidiary | Lamborghini

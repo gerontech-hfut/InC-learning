@@ -1,0 +1,2 @@
+1101 Clematis has an epoch date of December 31st 2006. It has an escape velocity of 0.02 kilometres per second, a periapsis of 445895000000, and an orbital period of 183309000.0.
+1101 Clematis's escape velocity is 0.02 km/s, prbital period of 183309000, periapsis of 445895000000, and an epoch on the 31st of December.

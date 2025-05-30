@@ -1,0 +1,2 @@
+Ajoblanco | country | Spain
+Ajoblanco | ingredient | Olive_oil

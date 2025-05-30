@@ -1,0 +1,2 @@
+A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi
+A.C._Chievo_Verona | league | Serie_A

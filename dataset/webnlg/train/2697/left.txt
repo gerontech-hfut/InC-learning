@@ -1,0 +1,2 @@
+AFC_Ajax | numberOfMembers | 53502
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"

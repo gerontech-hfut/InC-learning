@@ -1,0 +1,4 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | occupation | Fighter_pilot
+Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"
+Buzz_Aldrin | status | "Retired"

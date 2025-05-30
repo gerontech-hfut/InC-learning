@@ -1,0 +1,1 @@
+name : The Eagle | Type : coffee shop | food : Fast food | price : high | customer rating : average | area : riverside | family friendly : no | near : Burger King

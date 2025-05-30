@@ -1,0 +1,2 @@
+United_States | ethnicGroup | Asian_Americans
+A_Severed_Wasp | country | United_States

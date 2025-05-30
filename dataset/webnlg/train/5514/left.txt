@@ -1,0 +1,4 @@
+AIP_Advances | editor | A.T._Charlie_Johnson
+AIP_Advances | ISSN_number | "2158-3226"
+A.T._Charlie_Johnson | residence | United_States
+A.T._Charlie_Johnson | almaMater | Stanford_University

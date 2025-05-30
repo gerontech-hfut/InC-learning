@@ -1,0 +1,4 @@
+United_States | language | English_language
+United_States | leaderName | Barack_Obama
+English_language | spokenIn | Great_Britain
+A_Fortress_of_Grey_Ice | country | United_States

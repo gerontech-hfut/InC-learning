@@ -1,0 +1,3 @@
+Bacon_sandwich | country | United_Kingdom
+Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+Bacon_sandwich | ingredient | Bread

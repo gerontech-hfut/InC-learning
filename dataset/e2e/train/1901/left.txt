@@ -1,0 +1,1 @@
+name : Fitzbillies | food : Fast food | price : £ 20 - 25 | near : The Six Bells

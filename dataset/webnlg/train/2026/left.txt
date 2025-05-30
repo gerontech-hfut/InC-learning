@@ -1,0 +1,2 @@
+William_Anders | was selected by NASA | 1963
+William_Anders | birthDate | "1933-10-17"

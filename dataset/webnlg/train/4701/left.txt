@@ -1,0 +1,4 @@
+3Arena | owner | Live_Nation_Entertainment
+Dublin | leaderName | Críona_Ní_Dhálaigh
+3Arena | location | Dublin
+Dublin | isPartOf | Leinster

@@ -1,0 +1,2 @@
+Binignit | ingredient | Sweet_potato
+Sweet_potato | division | Flowering_plant

@@ -1,0 +1,6 @@
+Apollo_12 | backup pilot | Alfred_Worden
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Alan_Bean | occupation | Test_pilot
+Apollo_12 | commander | David_Scott
+Alan_Bean | birthPlace | Wheeler,_Texas

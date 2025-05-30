@@ -1,0 +1,4 @@
+10_Hygiea | epoch | 2015-06-27
+10_Hygiea | formerName | "A900 GA"
+10_Hygiea | orbitalPeriod | 5.57 (days)
+10_Hygiea | periapsis | 416136000000.0

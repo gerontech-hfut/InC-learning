@@ -1,0 +1,3 @@
+1634:_The_Ram_Rebellion | mediaType | E-book
+1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."
+1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"

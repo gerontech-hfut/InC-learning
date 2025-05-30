@@ -1,0 +1,1 @@
+Al-Taqaddum_Air_Base | elevationAboveTheSeaLevel_(in_metres) | 84.0

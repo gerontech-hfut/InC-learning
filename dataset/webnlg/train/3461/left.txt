@@ -1,0 +1,3 @@
+Auron_(comicsCharacter) | creator | Marv_Wolfman
+Auron_(comicsCharacter) | creator | Walt_Simonson
+Auron_(comicsCharacter) | fullName | "Lambien"

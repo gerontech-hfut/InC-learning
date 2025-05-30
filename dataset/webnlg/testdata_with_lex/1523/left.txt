@@ -1,0 +1,3 @@
+Costa_Crociere | location | Genoa
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | owner | Costa_Crociere

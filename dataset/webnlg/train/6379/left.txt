@@ -1,0 +1,5 @@
+A.C._Lumezzane | manager | Michele_Marcolini
+Michele_Marcolini | club | A.C._Chievo_Verona
+A.C._Lumezzane | ground | Italy
+Italy | leader | Pietro_Grasso
+Michele_Marcolini | club | Vicenza_Calcio

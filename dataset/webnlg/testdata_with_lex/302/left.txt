@@ -1,0 +1,2 @@
+Ashgabat_International_Airport | 1st_runway_LengthFeet | 12467
+Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211

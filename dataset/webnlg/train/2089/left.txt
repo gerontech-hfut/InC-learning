@@ -1,0 +1,2 @@
+3Arena | location | "East Link Bridge"
+3Arena | architect | Populous_(company)

@@ -1,0 +1,4 @@
+Baked_Alaska | country | France
+France | leaderName | Manuel_Valls
+France | leaderName | Gérard_Larcher
+Baked_Alaska | region | Hong_Kong

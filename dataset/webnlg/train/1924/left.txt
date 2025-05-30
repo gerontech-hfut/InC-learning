@@ -1,0 +1,2 @@
+Antwerp_International_Airport | runwayLength | 1510.0
+Antwerp_International_Airport | operatingOrganisation | "Flemish department of Mobility and Public Works"

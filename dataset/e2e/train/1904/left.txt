@@ -1,0 +1,1 @@
+name : The Punter | Type : coffee shop | food : English | price : more than £ 30 | customer rating : high | family friendly : yes | near : Café Sicilia

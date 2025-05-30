@@ -1,0 +1,4 @@
+Balder_(comicsCharacter) | creator | Jack_Kirby
+Jack_Kirby | nationality | Americans
+Balder_(comicsCharacter) | creator | Stan_Lee
+Balder_(comicsCharacter) | alternativeName | "Balder Odinson"

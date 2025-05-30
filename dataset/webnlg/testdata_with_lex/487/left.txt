@@ -1,0 +1,3 @@
+Anaheim,_California | isPartOf | California
+Anaheim,_California | leaderTitle | California_State_Senate
+California_State_Senate | location | California_State_Capitol

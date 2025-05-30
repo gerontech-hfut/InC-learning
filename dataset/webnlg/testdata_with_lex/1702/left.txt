@@ -1,0 +1,4 @@
+Abdul_Taib_Mahmud | residence | Sarawak
+Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu
+Abdul_Taib_Mahmud | region | Asajaya
+Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak

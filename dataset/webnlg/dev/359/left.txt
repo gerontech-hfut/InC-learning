@@ -1,0 +1,2 @@
+A_Glastonbury_Romance | mediaType | Hardcover
+A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"

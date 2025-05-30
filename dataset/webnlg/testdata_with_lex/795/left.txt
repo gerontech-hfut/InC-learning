@@ -1,0 +1,5 @@
+Alpharetta,_Georgia | country | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+Fulton_County,_Georgia | largestCity | Atlanta
+Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)
+Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia

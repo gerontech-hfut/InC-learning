@@ -1,0 +1,2 @@
+Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
+Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000

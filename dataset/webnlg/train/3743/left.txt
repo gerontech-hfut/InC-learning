@@ -1,0 +1,3 @@
+Binignit | ingredient | Sweet_potato
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)

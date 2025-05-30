@@ -1,0 +1,5 @@
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | deathPlace | Göttingen
+Walter_Baade | birthPlace | German_Empire
+Walter_Baade | almaMater | University_of_Göttingen
+Walter_Baade | doctoralStudent | Allan_Sandage

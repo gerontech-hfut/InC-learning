@@ -1,0 +1,3 @@
+Arrabbiata_sauce | country | Italy
+Italy | language | Italian_language
+Italy | leaderName | Sergio_Mattarella

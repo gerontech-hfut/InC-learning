@@ -1,0 +1,1 @@
+name : Giraffe | Type : coffee shop | price : high | customer rating : average | family friendly : yes | near : The Bakers

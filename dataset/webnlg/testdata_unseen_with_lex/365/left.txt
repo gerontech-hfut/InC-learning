@@ -1,0 +1,2 @@
+109_Felicitas | rotationPeriod | 47487.6
+109_Felicitas | epoch | 2006-12-31

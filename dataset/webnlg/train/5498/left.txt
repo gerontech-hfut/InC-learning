@@ -1,0 +1,4 @@
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | LCCN_number | "90640840"
+AIDS_(journal) | academicDiscipline | HIV/AIDS
+AIDS_(journal) | ISSN_number | "1473-5571"

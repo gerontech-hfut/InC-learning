@@ -1,0 +1,3 @@
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"
+Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"

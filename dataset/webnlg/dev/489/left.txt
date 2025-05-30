@@ -1,0 +1,3 @@
+A.C._Cesena | manager | Massimo_Drago
+Massimo_Drago | club | S.S.D._Potenza_Calcio
+Massimo_Drago | club | Calcio_Catania

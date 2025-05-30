@@ -1,0 +1,2 @@
+Alan_Shepard | deathPlace | California
+Alan_Shepard | birthPlace | New_Hampshire

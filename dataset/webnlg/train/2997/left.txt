@@ -1,0 +1,3 @@
+Aarhus_Airport | location | Tirstrup
+Tirstrup | country | Denmark
+Denmark | language | Faroese_language

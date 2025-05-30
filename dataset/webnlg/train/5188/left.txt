@@ -1,0 +1,4 @@
+Singapore | language | English_language
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"
+Singapore | leaderName | Tony_Tan

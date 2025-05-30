@@ -1,0 +1,3 @@
+Audi_A1 | manufacturer | Audi
+Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza
+Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo

@@ -1,0 +1,4 @@
+AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst
+Sportpark_De_Toekomst | operator | AFC_Ajax
+Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.
+Sportpark_De_Toekomst | tenant | Jong_Ajax

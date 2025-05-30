@@ -1,0 +1,5 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+Al_Asad_Airbase | location | Iraq
+Al_Asad_Airbase | runwayLength | 3990.0
+Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"
+Al_Asad_Airbase | runwayName | "08/26"

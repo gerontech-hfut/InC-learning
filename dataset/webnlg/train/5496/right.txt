@@ -1,0 +1,3 @@
+ACM Transactions on Information Systems (abbreviation ACM Trans. Inf. Syst) is part of the academic Discipline of Computer Science. This publication has the LCCN number 89646863 and the ISSN number 1046-8188.
+ACM Transactions on Information Systems (abbrv. ACM Trans. Inf. Syst) is part of the academic Discipline of Computer Science. It's LCCN and ISSN codes are 89646863 and 1046-8188 respectively.
+ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the ISSN number 1046-8188 and the LCCN number 89646863. It is part of the academic discipline of Computer Science.

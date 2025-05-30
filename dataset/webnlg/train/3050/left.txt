@@ -1,0 +1,3 @@
+Al-Taqaddum_Air_Base | runwayLength | 4019.0
+Al-Taqaddum_Air_Base | cityServed | Fallujah
+Al-Taqaddum_Air_Base | elevationAboveTheSeaLevel_(in_metres) | 84.0

@@ -1,0 +1,3 @@
+Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School
+Akron,_Ohio | isPartOf | Summit_County,_Ohio
+St._Vincent–St._Mary_High_School | city | Akron,_Ohio

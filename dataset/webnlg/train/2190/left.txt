@@ -1,0 +1,2 @@
+Marriott_International | foundationPlace | Washington,_D.C.
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International

@@ -1,0 +1,4 @@
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | buildDate | "May 1950 - August 1956"
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | powerType | Diesel-electric_transmission

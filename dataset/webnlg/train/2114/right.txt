@@ -1,0 +1,3 @@
+Addis Adaba City Hall was completed in 1964 and has a floor area of 140000.0 square metres.
+Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.
+Addis Ababa City Hall, with a floor area of 140000,0 square metres, was completed in 1964.

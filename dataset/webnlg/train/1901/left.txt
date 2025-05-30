@@ -1,0 +1,2 @@
+Andrews_County_Airport | 4th_runway_LengthFeet | 25
+Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0

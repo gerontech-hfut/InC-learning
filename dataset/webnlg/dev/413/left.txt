@@ -1,0 +1,3 @@
+200_Public_Square | location | Cleveland
+Cleveland | leaderName | Frank_G._Jackson
+Cleveland | country | United_States

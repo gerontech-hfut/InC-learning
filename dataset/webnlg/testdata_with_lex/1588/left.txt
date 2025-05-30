@@ -1,0 +1,4 @@
+Canada | anthem | O_Canada
+Canada | leaderName | Elizabeth_II
+Canada | language | Slavey_language
+Aaron_Boogaard | birthPlace | Canada

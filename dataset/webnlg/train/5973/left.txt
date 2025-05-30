@@ -1,0 +1,5 @@
+3Arena | owner | Live_Nation_Entertainment
+Dublin | leaderName | Críona_Ní_Dhálaigh
+Dublin | country | Republic_of_Ireland
+3Arena | location | Dublin
+Dublin | leaderTitle | European_Parliament

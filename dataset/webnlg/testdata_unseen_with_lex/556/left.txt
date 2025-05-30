@@ -1,0 +1,3 @@
+Neptun_Werft | locationCity | Rostock
+A-Rosa_Luna | builder | Neptun_Werft
+Neptun_Werft | locationCountry | Germany

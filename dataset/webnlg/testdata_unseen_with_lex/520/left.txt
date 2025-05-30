@@ -1,0 +1,3 @@
+A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)
+A-Rosa_Luna | topSpeed | 24.0
+A-Rosa_Luna | length | 125800.0 (millimetres)

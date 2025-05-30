@@ -1,0 +1,4 @@
+A.S._Roma | numberOfMembers | 70634
+A.S._Roma | fullname | "Associazione Sportiva Roma S.p.A."
+A.S._Roma | ground | Rome
+A.S._Roma | season | 2014–15_Serie_A

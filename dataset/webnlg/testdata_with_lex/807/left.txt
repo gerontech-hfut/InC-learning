@@ -1,0 +1,5 @@
+Austin,_Texas | isPartOf | Texas
+Texas | largestCity | Houston
+Texas | language | Spanish_language
+Hays_County,_Texas | countySeat | San_Marcos,_Texas
+Austin,_Texas | isPartOf | Hays_County,_Texas

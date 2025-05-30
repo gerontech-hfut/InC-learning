@@ -1,0 +1,3 @@
+Marriott_International | location | Bethesda,_Maryland
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+Marriott_International | keyPerson | Bill_Marriott

@@ -1,0 +1,5 @@
+London | leaderTitle | Parliament_of_the_United_Kingdom
+Alfred_Garth_Jones | deathPlace | Sidcup
+Alfred_Garth_Jones | deathPlace | London
+Alfred_Garth_Jones | birthPlace | Manchester
+Manchester | leaderName | Labour_Party_(UK)

@@ -1,0 +1,5 @@
+Bacon_sandwich | dishVariation | BLT
+Bacon_sandwich | mainIngredients | "Bread and bacon, with a condiment, often ketchup or brown sauce"
+Bacon_sandwich | country | United_Kingdom
+Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+Bacon_sandwich | ingredient | Bread

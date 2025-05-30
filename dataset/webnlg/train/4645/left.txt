@@ -1,0 +1,4 @@
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | floorArea | 39500.0 (square metres)
+108_St_Georges_Terrace | completionDate | 1988

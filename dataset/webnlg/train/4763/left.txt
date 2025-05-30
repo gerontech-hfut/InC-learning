@@ -1,0 +1,4 @@
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+India | leaderName | Narendra_Modi

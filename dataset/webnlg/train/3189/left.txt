@@ -1,0 +1,3 @@
+Alan_Bean | nationality | United_States
+Alan_Bean | was a crew member of | Apollo_12
+Alan_Bean | was selected by NASA | 1963

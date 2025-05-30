@@ -1,0 +1,2 @@
+Amsterdam_Airport_Schiphol | cityServed | Amsterdam
+Amsterdam_Airport_Schiphol | runwayLength | 3500.0

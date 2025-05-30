@@ -1,0 +1,2 @@
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | powerType | Diesel-electric_transmission

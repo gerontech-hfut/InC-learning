@@ -1,0 +1,5 @@
+Binignit | region | Visayas
+Binignit | mainIngredients | Banana
+Binignit | course | Dessert
+Binignit | country | Philippines
+Binignit | ingredient | Taro

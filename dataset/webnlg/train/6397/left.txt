@@ -1,0 +1,5 @@
+A.S._Gubbio_1910 | league | Serie_D
+Italy | leader | Pietro_Grasso
+Italy | capital | Rome
+A.S._Gubbio_1910 | ground | Italy
+Serie_D | champions | S.S._Robur_Siena

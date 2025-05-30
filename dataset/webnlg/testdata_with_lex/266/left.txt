@@ -1,0 +1,2 @@
+Bakso | ingredient | Celery
+Celery | family | Apiaceae

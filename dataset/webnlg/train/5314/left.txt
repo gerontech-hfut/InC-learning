@@ -1,0 +1,4 @@
+A.S._Livorno_Calcio | ground | "Livorno, Italy"
+A.S._Livorno_Calcio | season | 2014–15_Serie_B
+A.S._Livorno_Calcio | numberOfMembers | 19238
+A.S._Livorno_Calcio | fullname | "Associazione Sportiva"

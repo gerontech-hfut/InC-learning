@@ -1,0 +1,2 @@
+Elliot_See | deathPlace | St._Louis
+Elliot_See | deathDate | "1966-02-28"

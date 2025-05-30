@@ -1,0 +1,4 @@
+Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines
+Turkmenistan_Airlines | headquarter | Turkmenistan
+Ashgabat_International_Airport | runwayLength | 3800.0
+Turkmenistan_Airlines | headquarter | Ashgabat

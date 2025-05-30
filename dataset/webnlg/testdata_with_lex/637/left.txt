@@ -1,0 +1,4 @@
+Auburn,_Washington | isPartOf | Pierce_County,_Washington
+United_States | capital | Washington,_D.C.
+Pierce_County,_Washington | country | United_States
+Auburn,_Washington | isPartOf | King_County,_Washington

@@ -1,0 +1,2 @@
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | White_rice

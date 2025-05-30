@@ -1,0 +1,5 @@
+103_Hera | discoverer | James_Craig_Watson
+James_Craig_Watson | almaMater | University_of_Michigan
+103_Hera | periapsis | 371240000.0 (kilometres)
+James_Craig_Watson | nationality | Canada
+James_Craig_Watson | deathPlace | Madison,_Wisconsin

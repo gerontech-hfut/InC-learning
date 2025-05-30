@@ -1,0 +1,2 @@
+Spain | currency | Euro
+Arròs_negre | country | Spain

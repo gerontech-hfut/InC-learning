@@ -1,0 +1,2 @@
+Arrabbiata_sauce | region | Rome
+Arrabbiata_sauce | ingredient | Olive_oil

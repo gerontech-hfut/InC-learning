@@ -1,0 +1,3 @@
+Luciano_Spalletti | club | Udinese_Calcio
+A.S._Roma | manager | Luciano_Spalletti
+Luciano_Spalletti | club | Virtus_Entella

@@ -1,0 +1,5 @@
+Caterpillar_Inc. | foundationPlace | California
+Caterpillar_Inc. | foundationPlace | United_States
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.

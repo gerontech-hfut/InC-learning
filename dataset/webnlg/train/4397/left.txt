@@ -1,0 +1,4 @@
+Agra_Airport | location | Uttar_Pradesh
+Agra_Airport | operatingOrganisation | Airports_Authority_of_India
+Uttar_Pradesh | isPartOf | Awadh
+Uttar_Pradesh | isPartOf | Bundelkhand

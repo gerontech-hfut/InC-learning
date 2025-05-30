@@ -1,0 +1,5 @@
+300_North_LaSalle | location | Chicago
+Chicago | country | United_States
+Illinois | capital | Springfield,_Illinois
+Chicago | isPartOf | Illinois
+Chicago | leaderName | Susana_Mendoza

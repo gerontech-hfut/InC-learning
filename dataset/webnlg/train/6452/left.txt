@@ -1,0 +1,5 @@
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | established | 2000
+Acharya_Institute_of_Technology | country | "India"
+Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

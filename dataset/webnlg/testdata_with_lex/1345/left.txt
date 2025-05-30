@@ -1,0 +1,2 @@
+AIDAluna | topSpeed | 40.744
+AIDAluna | length | 252000.0 (millimetres)

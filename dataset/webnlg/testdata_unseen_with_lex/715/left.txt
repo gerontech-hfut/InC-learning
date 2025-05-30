@@ -1,0 +1,4 @@
+Andra_(singer) | genre | Rhythm_and_blues
+Rhythm_and_blues | derivative | Funk
+Rhythm_and_blues | stylisticOrigin | Blues
+Rhythm_and_blues | derivative | Disco

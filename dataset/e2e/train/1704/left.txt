@@ -1,0 +1,1 @@
+name : Wildwood | Type : coffee shop | food : Italian | price : high | customer rating : average | near : Ranch

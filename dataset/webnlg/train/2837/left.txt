@@ -1,0 +1,2 @@
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | firstPublicationYear | 1987

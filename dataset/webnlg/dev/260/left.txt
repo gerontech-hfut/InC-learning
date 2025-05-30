@@ -1,0 +1,2 @@
+3Arena | location | North_Wall,_Dublin
+3Arena | architect | "HOK SVE"

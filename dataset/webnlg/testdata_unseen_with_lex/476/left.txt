@@ -1,0 +1,3 @@
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | origin | Indiana
+Aaron_Deer | origin | United_States

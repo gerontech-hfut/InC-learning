@@ -1,0 +1,5 @@
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+Auburn,_Alabama | isPartOf | Lee_County,_Alabama
+Lee_County,_Alabama | countySeat | Opelika,_Alabama
+Lee_County,_Alabama | country | United_States
+Auburn,_Alabama | isPartOf | Alabama

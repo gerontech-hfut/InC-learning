@@ -1,0 +1,3 @@
+Batchoy includes chicken which is a class of bird.
+Batchoy includes poultry (bird); chicken.
+Chicken (a bird), is an ingredient found in Batchoy.

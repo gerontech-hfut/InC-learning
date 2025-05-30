@@ -1,0 +1,5 @@
+Alfred_Garth_Jones | deathPlace | London
+Alfred_Garth_Jones | birthPlace | England
+Alfred_Garth_Jones | nationality | United_Kingdom
+Alfred_Garth_Jones | birthPlace | Manchester
+Alfred_Garth_Jones | birthYear | 1872

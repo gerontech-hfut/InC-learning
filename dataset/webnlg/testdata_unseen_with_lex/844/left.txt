@@ -1,0 +1,5 @@
+Alfons_Gorbach | deathPlace | Styria
+Alfons_Gorbach | party | Austrian_People's_Party
+Alfons_Gorbach | deathPlace | Graz
+Alfons_Gorbach | birthPlace | Tyrol_(state)
+Alfons_Gorbach | birthPlace | Imst

@@ -1,0 +1,2 @@
+Abilene_Regional_Airport | 1st_runway_SurfaceType | Asphalt
+Abilene_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 546

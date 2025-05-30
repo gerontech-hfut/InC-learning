@@ -1,0 +1,2 @@
+Adisham_Hall | location | Sri_Lanka
+Adisham_Hall | architecturalStyle | Tudor_Revival_architecture

@@ -1,0 +1,2 @@
+Asam_pedas | region | Sumatra
+Asam_pedas | country | "Indonesia and Malaysia"

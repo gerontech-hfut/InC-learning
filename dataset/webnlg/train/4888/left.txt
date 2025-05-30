@@ -1,0 +1,4 @@
+Ajoblanco | ingredient | Almond
+Spain | leaderName | Felipe_VI_of_Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | country | Spain

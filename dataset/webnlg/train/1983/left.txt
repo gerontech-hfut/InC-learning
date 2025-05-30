@@ -1,0 +1,2 @@
+Alan_Bean | nationality | United_States
+Alan_Bean | birthPlace | Wheeler,_Texas

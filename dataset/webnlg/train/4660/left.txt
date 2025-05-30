@@ -1,0 +1,4 @@
+11_Diagonal_Street | location | South_Africa
+South_Africa | leaderName | Cyril_Ramaphosa
+South_Africa | leaderName | Jacob_Zuma
+South_Africa | ethnicGroup | White_South_African

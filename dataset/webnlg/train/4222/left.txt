@@ -1,0 +1,3 @@
+Above_the_Veil | followedBy | Into_Battle_(novel)
+Above_the_Veil | precededBy | Aenir
+Aenir | precededBy | Castle_(novel)

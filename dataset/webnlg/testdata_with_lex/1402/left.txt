@@ -1,0 +1,3 @@
+Albert_B._White | spouse | Agnes_Ward_White
+Agnes_Ward_White | birthPlace | Marietta,_Ohio
+Albert_B._White | successor | William_M._O._Dawson

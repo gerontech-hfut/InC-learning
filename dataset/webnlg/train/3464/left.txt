@@ -1,0 +1,3 @@
+BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead
+Bananaman | broadcastedBy | BBC
+BBC | locationCity | Broadcasting_House

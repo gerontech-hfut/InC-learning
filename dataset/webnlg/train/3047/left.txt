@@ -1,0 +1,3 @@
+Agra_Airport | operatingOrganisation | Indian_Air_Force
+Agra_Airport | ICAO_Location_Identifier | "VIAG"
+Agra_Airport | location | Agra

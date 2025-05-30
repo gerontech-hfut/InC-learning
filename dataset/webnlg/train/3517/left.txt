@@ -1,0 +1,3 @@
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Bread

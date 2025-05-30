@@ -1,0 +1,2 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Greenville,_Wisconsin | country | United_States

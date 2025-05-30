@@ -1,0 +1,4 @@
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Cookie
+United_States | ethnicGroup | African_Americans
+Baked_Alaska | country | United_States

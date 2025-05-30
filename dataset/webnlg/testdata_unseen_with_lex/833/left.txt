@@ -1,0 +1,5 @@
+Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras
+Antonis_Samaras | inOfficeWhilePrimeMinister | Konstantinos_Mitsotakis
+Adonis_Georgiadis | birthPlace | Greece
+Adonis_Georgiadis | birthPlace | Athens
+Adonis_Georgiadis | successor | Makis_Voridis

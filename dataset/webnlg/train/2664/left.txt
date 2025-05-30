@@ -1,0 +1,2 @@
+A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti
+A.S._Gubbio_1910 | numberOfMembers | 5300

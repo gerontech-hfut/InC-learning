@@ -1,0 +1,4 @@
+1000_Piazzia | epoch | 2015-06-27
+1000_Piazzia | orbitalPeriod | 488160.0
+1000_Piazzia | periapsis | 352497000000.0
+1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)

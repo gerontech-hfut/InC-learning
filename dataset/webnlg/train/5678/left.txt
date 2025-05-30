@@ -1,0 +1,5 @@
+Afonso_Pena_International_Airport | cityServed | Curitiba
+Infraero | location | Brasília
+Curitiba | isPartOf | Paraná_(state)
+Afonso_Pena_International_Airport | operatingOrganisation | Infraero
+Curitiba | isPartOf | South_Region,_Brazil

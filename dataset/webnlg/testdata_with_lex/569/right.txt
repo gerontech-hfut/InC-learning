@@ -1,0 +1,3 @@
+Taro is an ingredient in Binignit which is a dessert. Similarly, a cookie is a dessert.
+Taro is an ingredient in Binignit which should be served as the dessert course. A cookie is a dessert.
+Cookie is a type of dessert, sames as Binignit, that is an ingredient found in taro.

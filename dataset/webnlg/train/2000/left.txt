@@ -1,0 +1,2 @@
+Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."
+Buzz_Aldrin | birthDate | "1930-01-20"

@@ -1,0 +1,3 @@
+Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan
+Alpena_County_Regional_Airport | runwayLength | 2744.0
+Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States

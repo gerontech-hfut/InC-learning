@@ -1,0 +1,1 @@
+name : Clowns | Type : coffee shop | food : Fast food | customer rating : low | area : city centre | near : Clare Hall

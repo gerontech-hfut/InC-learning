@@ -1,0 +1,2 @@
+11_Diagonal_Street | completionDate | 1983
+11_Diagonal_Street | architect | Helmut_Jahn

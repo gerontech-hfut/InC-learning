@@ -1,0 +1,3 @@
+The runway length of Al Asad Airbase is 3,990.
+The runway length of Al Asad Airbase is 3990.0.
+The Al Asad Airbase has a runway length of 3990.0.

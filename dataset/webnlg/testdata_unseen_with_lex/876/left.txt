@@ -1,0 +1,5 @@
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina
+Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"
+Andrew_Rayel | genre | Trance_music
+Trance_music | stylisticOrigin | Pop_music

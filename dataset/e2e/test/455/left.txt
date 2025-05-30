@@ -1,0 +1,1 @@
+name : The Vaults | Type : pub | food : Italian | price : moderate | customer rating : 3 out of 5 | area : riverside | family friendly : no | near : Rainbow Vegetarian Café

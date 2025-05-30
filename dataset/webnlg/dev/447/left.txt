@@ -1,0 +1,3 @@
+Arem-arem | country | Indonesia
+Indonesia | leaderName | Jusuf_Kalla
+Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"

@@ -1,0 +1,4 @@
+Administrative_Science_Quarterly | publisher | Cornell_University
+Cornell_University | affiliation | Association_of_American_Universities
+Cornell_University | president | Elizabeth_Garrett
+Cornell_University | city | Ithaca,_New_York

@@ -1,0 +1,5 @@
+Bhajji | country | India
+India | demonym | Indian_people
+India | leaderName | Narendra_Modi
+India | leaderName | Sumitra_Mahajan
+Bhajji | region | Karnataka

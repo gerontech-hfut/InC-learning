@@ -1,0 +1,2 @@
+Adirondack_Regional_Airport | locationIdentifier | "SLK"
+Adirondack_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 507

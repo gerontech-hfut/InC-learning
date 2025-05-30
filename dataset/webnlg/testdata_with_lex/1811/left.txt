@@ -1,0 +1,5 @@
+Albert_B._White | successor | William_M._O._Dawson
+Albert_B._White | party | Republican_Party_(United_States)
+Albert_B._White | birthPlace | Cleveland
+Albert_B._White | activeYearsEndDate | 1905-03-04
+Albert_B._White | activeYearsStartDate | 1901-03-04

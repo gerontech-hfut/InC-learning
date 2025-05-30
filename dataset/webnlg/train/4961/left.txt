@@ -1,0 +1,4 @@
+Bacon_Explosion | country | United_States
+United_States | leaderName | Barack_Obama
+United_States | ethnicGroup | African_Americans
+United_States | capital | Washington,_D.C.

@@ -1,0 +1,3 @@
+Bionico | country | Mexico
+Mexico | currency | Mexican_peso
+Mexico | leaderName | Enrique_Peña_Nieto

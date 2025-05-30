@@ -1,0 +1,3 @@
+A.S._Livorno_Calcio | manager | Christian_Panucci
+A.S._Livorno_Calcio | league | Serie_B
+Serie_B | champions | Carpi_F.C._1909

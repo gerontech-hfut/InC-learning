@@ -1,0 +1,5 @@
+Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority
+Pakistan | leaderName | Mamnoon_Hussain
+Pakistan_Civil_Aviation_Authority | location | Jinnah_International_Airport
+Allama_Iqbal_International_Airport | cityServed | Lahore
+Lahore | country | Pakistan

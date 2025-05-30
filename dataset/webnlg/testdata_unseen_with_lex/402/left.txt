@@ -1,0 +1,2 @@
+Delta_II | launchSite | Vandenberg_Air_Force_Base
+Antares_(rocket) | comparable | Delta_II

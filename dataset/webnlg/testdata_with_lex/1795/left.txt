@@ -1,0 +1,5 @@
+Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu
+Abdul_Taib_Mahmud | region | Asajaya
+Abdul_Taib_Mahmud | residence | Kuching
+Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia
+Abdul_Taib_Mahmud | birthDate | 1936-05-21

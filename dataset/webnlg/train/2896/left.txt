@@ -1,0 +1,2 @@
+A_Severed_Wasp | country | United_States
+United_States | ethnicGroup | African_Americans

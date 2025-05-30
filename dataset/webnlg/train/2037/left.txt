@@ -1,0 +1,2 @@
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia

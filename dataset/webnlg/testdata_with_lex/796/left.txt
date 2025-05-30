@@ -1,0 +1,5 @@
+Amarillo,_Texas | isPartOf | Potter_County,_Texas
+Potter_County,_Texas | state | Texas
+Texas | country | United_States
+United_States | capital | Washington,_D.C.
+United_States | language | English_language

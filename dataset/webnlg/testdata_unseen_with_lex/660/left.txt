@@ -1,0 +1,4 @@
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | engine | V6_engine

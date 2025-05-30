@@ -1,0 +1,3 @@
+Alex_Plante | birthPlace | Brandon,_Manitoba
+Alex_Plante | height | 1.9304
+Alex_Plante | club | Anyang_Halla

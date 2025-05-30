@@ -1,0 +1,3 @@
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | creator | "Rutland Arms, Bakewell, in 1820"
+Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"

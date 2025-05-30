@@ -1,0 +1,2 @@
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin
+Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin

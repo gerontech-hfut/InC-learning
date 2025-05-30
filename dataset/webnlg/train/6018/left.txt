@@ -1,0 +1,5 @@
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | architect | B._V._Doshi
+Amdavad_ni_Gufa | completionDate | 1995

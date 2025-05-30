@@ -1,0 +1,3 @@
+United_States | language | English_language
+Albany,_Georgia | country | United_States
+United_States | ethnicGroup | African_Americans

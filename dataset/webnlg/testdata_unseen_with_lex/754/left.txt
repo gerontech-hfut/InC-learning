@@ -1,0 +1,4 @@
+Albert_Jennings_Fountain | birthPlace | New_York
+New_York | language | French_language
+American_Civil_War | commander | Abraham_Lincoln
+Albert_Jennings_Fountain | battles | American_Civil_War

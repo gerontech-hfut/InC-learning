@@ -1,0 +1,3 @@
+Alison_O'Donnell | genre | Jazz
+Jazz | derivative | Funk
+Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"

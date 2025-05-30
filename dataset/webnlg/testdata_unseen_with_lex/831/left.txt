@@ -1,0 +1,5 @@
+Adam_Holloway | birthPlace | Kent
+Adam_Holloway | office (workedAt, workedAs) | Member_of_Parliament_for_Gravesham
+Adam_Holloway | activeYearsStartDate | 2005-05-05
+Adam_Holloway | militaryBranch | Grenadier_Guards
+Adam_Holloway | almaMater | Magdalene_College,_Cambridge

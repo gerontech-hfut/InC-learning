@@ -1,0 +1,3 @@
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | leaderName | Elizabeth_II
+United_Kingdom | currency | Pound_sterling

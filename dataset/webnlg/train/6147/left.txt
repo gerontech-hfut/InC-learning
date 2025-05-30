@@ -1,0 +1,5 @@
+BLT | dishVariation | Club_sandwich
+Bacon_sandwich | ingredient | Bread
+Bacon_sandwich | dishVariation | BLT
+Bacon_sandwich | country | United_Kingdom
+United_Kingdom | leaderName | Elizabeth_II

@@ -1,0 +1,3 @@
+Elliot_See | birthPlace | Dallas
+Elliot_See | occupation | Test_pilot
+Elliot_See | was selected by NASA | 1962

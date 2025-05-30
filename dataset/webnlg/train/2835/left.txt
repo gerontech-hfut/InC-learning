@@ -1,0 +1,2 @@
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | ISSN_number | "1473-5571"

@@ -1,0 +1,3 @@
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | established | 1996

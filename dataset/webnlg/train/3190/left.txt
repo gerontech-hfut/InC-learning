@@ -1,0 +1,3 @@
+Alan_Bean | occupation | Test_pilot
+Alan_Bean | birthPlace | Wheeler,_Texas
+Alan_Bean | timeInSpace | "100305.0"(minutes)

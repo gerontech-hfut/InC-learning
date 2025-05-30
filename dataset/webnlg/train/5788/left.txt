@@ -1,0 +1,5 @@
+Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines
+Ashgabat_International_Airport | location | Ashgabat
+Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211
+Ashgabat_International_Airport | runwayName | "12R/30L"
+Ashgabat_International_Airport | runwayLength | 900.0

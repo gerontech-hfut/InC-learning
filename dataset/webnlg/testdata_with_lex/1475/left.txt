@@ -1,0 +1,3 @@
+Allen_Forrest | birthPlace | Dothan,_Alabama
+Allen_Forrest | genre | Pop_music
+Allen_Forrest | background | "solo_singer"

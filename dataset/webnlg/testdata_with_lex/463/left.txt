@@ -1,0 +1,3 @@
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23

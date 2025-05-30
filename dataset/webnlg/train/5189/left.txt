@@ -1,0 +1,4 @@
+Singapore | language | English_language
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | region | Indonesia
+Singapore | leaderName | Halimah_Yacob

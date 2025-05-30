@@ -1,0 +1,2 @@
+Buzz_Aldrin | awards | 20
+Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"

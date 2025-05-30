@@ -1,0 +1,2 @@
+Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000
+Acharya_Institute_of_Technology | country | "India"

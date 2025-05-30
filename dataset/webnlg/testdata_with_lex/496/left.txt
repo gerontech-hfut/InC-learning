@@ -1,0 +1,3 @@
+Auburn,_Alabama | isPartOf | Lee_County,_Alabama
+Alabama | country | United_States
+Auburn,_Alabama | isPartOf | Alabama

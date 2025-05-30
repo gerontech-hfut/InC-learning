@@ -1,0 +1,4 @@
+Olympic_Stadium_(Athens) | location | Athens
+AEK_Athens_F.C. | league | Superleague_Greece
+Superleague_Greece | champions | Olympiacos_F.C.
+AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)

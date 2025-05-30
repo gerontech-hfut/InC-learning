@@ -1,0 +1,4 @@
+Alison_O'Donnell | genre | Jazz
+Alison_O'Donnell | recordLabel | Deram_Records
+Deram_Records | location | London
+Alison_O'Donnell | recordLabel | Fruits_de_Mer_Records

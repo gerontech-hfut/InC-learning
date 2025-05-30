@@ -1,0 +1,3 @@
+101_Helena | mass | 3.0 (kilograms)
+101_Helena | escapeVelocity | 0.0348 (kilometrePerSeconds)
+101_Helena | apoapsis | 441092000.0 (kilometres)

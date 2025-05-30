@@ -1,0 +1,4 @@
+Alfredo_Zitarrosa | recordLabel | RCA_Records
+Alfredo_Zitarrosa | birthPlace | Uruguay
+Alfredo_Zitarrosa | genre | Candombe
+Alfredo_Zitarrosa | background | "solo_singer"

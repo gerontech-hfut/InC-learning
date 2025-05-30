@@ -1,0 +1,2 @@
+Asam_pedas | country | Indonesia
+Indonesia | leaderName | Joko_Widodo

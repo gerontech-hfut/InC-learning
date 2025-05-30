@@ -1,0 +1,5 @@
+200_Public_Square | location | Cleveland
+200_Public_Square | floorArea | 111484 (square metres)
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | isPartOf | Ohio
+Cleveland | country | United_States

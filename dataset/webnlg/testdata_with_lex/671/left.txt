@@ -1,0 +1,4 @@
+Peter_Stöger | club | SK_Vorwärts_Steyr
+Peter_Stöger | club | FC_Admira_Wacker_Mödling
+1._FC_Köln | manager | Peter_Stöger
+Peter_Stöger | club | FK_Austria_Wien

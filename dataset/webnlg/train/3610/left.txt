@@ -1,0 +1,3 @@
+Bacon_Explosion | country | United_States
+Bacon_Explosion | ingredient | Sausage
+Bacon_Explosion | region | Kansas_City_metropolitan_area

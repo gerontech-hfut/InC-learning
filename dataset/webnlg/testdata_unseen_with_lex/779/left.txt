@@ -1,0 +1,5 @@
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV

@@ -1,0 +1,3 @@
+Bakso | region | Indonesia
+Bakso | ingredient | Noodle
+Bakso | country | Chinese_cuisine

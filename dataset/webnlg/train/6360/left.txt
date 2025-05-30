@@ -1,0 +1,5 @@
+Dead_Man's_Plack | location | England
+England | capital | London
+England | languages | Cornish_language
+England | religion | Church_of_England
+Dead_Man's_Plack | material | Rock_(geology)

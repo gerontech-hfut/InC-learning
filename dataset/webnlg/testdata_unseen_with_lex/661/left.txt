@@ -1,0 +1,4 @@
+Alhambra | shipBeam | 8.3 m
+Alhambra | length | 63800.0 (millimetres)
+Alhambra | shipLaunch | 1855-05-31
+Alhambra | status | "Wrecked"

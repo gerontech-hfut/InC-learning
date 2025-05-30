@@ -1,0 +1,3 @@
+Bhajji | country | India
+Bhajji | mainIngredients | "Gram flour, vegetables"
+Bhajji | ingredient | Vegetable

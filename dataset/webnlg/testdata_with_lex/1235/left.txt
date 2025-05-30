@@ -1,0 +1,2 @@
+Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"
+Alfred_Moore_Scales | successor | James_W._Reid_(politician)

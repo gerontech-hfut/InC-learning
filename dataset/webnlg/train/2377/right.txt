@@ -1,0 +1,3 @@
+Sausage is a main ingredient in the dish 'Bacon Explosion', which also contains bacon.
+Bacon and sausage are ingredients in a Bacon Explosion.
+Sausage is a main ingredient of Bacon Explosion but it also uses bacon.

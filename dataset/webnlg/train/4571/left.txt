@@ -1,0 +1,4 @@
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal
+Alan_Shepard | dateOfRetirement | "1974-08-01"
+Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)

@@ -1,0 +1,3 @@
+Azerbaijan | leader | Artur_Rasizade
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | legislature | National_Assembly_(Azerbaijan)

@@ -1,0 +1,4 @@
+AIDA_Cruises | location | Rostock
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | builder | Meyer_Werft
+AIDAstella | owner | Costa_Crociere

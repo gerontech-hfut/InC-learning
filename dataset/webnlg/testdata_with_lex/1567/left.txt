@@ -1,0 +1,4 @@
+Aaron_Hunt | club | SV_Werder_Bremen
+SV_Werder_Bremen_II | manager | Alexander_Nouri
+Aaron_Hunt | club | SV_Werder_Bremen_II
+SV_Werder_Bremen_II | league | 3._Liga

@@ -1,0 +1,4 @@
+United_States | capital | Washington,_D.C.
+Albany,_Oregon | isPartOf | Benton_County,_Oregon
+Albany,_Oregon | country | United_States
+United_States | ethnicGroup | African_Americans

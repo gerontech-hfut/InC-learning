@@ -1,0 +1,2 @@
+Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan
+Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210

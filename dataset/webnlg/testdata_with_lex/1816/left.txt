@@ -1,0 +1,5 @@
+Alvah_Sabin | activeYearsEndDate | 1857-03-03
+Alvah_Sabin | region | Vermont's_3rd_congressional_district
+Vermont | largestCity | Burlington,_Vermont
+Alvah_Sabin | state | Vermont
+Alvah_Sabin | deathPlace | Sycamore,_Illinois

@@ -1,0 +1,2 @@
+Buzz_Aldrin | occupation | Fighter_pilot
+Buzz_Aldrin | status | "Retired"

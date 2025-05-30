@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Fast food | customer rating : high | family friendly : yes

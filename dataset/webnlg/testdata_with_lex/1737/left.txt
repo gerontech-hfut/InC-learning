@@ -1,0 +1,4 @@
+Alvah_Sabin | party | Whig_Party_(United_States)
+Whig_Party_(United_States) | leaderName | Daniel_Webster
+Alvah_Sabin | region | Vermont
+Vermont | largestCity | Burlington,_Vermont

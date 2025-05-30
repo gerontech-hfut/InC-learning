@@ -1,0 +1,2 @@
+Asser_Levy_Public_Baths | location | Manhattan
+Manhattan | isPartOf | New_York

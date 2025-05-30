@@ -1,0 +1,5 @@
+Abdulsalami_Abubakar | successor | Olusegun_Obasanjo
+Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe
+Abdulsalami_Abubakar | activeYearsEndDate | 1999-05-29
+Abdulsalami_Abubakar | militaryBranch | Nigerian_Army
+Mike_Akhigbe | predecessor | Oladipo_Diya

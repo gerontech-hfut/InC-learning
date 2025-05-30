@@ -1,0 +1,4 @@
+107_Camilla | discoverer | N._R._Pogson
+N._R._Pogson | deathPlace | Chennai
+N._R._Pogson | birthPlace | Nottingham
+107_Camilla | discovered | 2001-03-01

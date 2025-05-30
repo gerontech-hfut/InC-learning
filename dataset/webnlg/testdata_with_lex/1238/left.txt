@@ -1,0 +1,2 @@
+Alfred_N._Phillips | militaryBranch | United_States_Army
+United_States_Army | battles | American_Civil_War

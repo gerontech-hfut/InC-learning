@@ -1,0 +1,2 @@
+Aleksandra_Kovač | genre | Soul_music
+Aleksandra_Kovač | activeYearsStartYear | 1990

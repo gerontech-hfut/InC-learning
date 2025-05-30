@@ -1,0 +1,4 @@
+Azerbaijan | leader | Artur_Rasizade
+Azerbaijan | capital | Baku
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan

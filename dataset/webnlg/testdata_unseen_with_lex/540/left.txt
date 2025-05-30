@@ -1,0 +1,3 @@
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States

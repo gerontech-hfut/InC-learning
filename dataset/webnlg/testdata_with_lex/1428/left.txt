@@ -1,0 +1,3 @@
+1001_Gaussia | epoch | 2015-06-27
+1001_Gaussia | formerName | "1923 OAA907 XC"
+1001_Gaussia | periapsis | 419113394.55312 (kilometres)

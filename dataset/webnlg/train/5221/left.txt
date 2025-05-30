@@ -1,0 +1,4 @@
+Azerbaijan | capital | Baku
+Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | legislature | National_Assembly_(Azerbaijan)

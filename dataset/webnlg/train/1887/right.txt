@@ -1,0 +1,3 @@
+The location identifier of Alpena County Regional airport is APN and is 210m a.s.l.
+Ipena County Regional Airport (IPN) is 210 metres above sea level.
+The Alpena County Regional Airport's location id is "APN", and it is elevated 210 metres above sea level.

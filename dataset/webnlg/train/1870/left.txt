@@ -1,0 +1,2 @@
+Allama_Iqbal_International_Airport | location | Pakistan
+Allama_Iqbal_International_Airport | runwayLength | 2900.0

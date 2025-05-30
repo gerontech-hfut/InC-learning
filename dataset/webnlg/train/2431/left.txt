@@ -1,0 +1,2 @@
+Bandeja_paisa | ingredient | Avocado
+Avocado | genus | Persea

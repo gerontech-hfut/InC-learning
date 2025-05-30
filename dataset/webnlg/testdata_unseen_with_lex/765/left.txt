@@ -1,0 +1,4 @@
+Alvah_Sabin | office (workedAt, workedAs) | Secretary_of_State_of_Vermont
+Alvah_Sabin | region | Vermont's_3rd_congressional_district
+Vermont | largestCity | Burlington,_Vermont
+Alvah_Sabin | state | Vermont

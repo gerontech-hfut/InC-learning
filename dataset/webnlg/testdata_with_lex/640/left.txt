@@ -1,0 +1,4 @@
+California | language | Chinese_language
+Anaheim,_California | leaderTitle | California_State_Assembly
+Anaheim,_California | isPartOf | California
+California_State_Assembly | location | California_State_Capitol

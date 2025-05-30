@@ -1,0 +1,1 @@
+name : The Wrestlers | Type : restaurant | food : Japanese | price : less than £ 20 | area : riverside | family friendly : no | near : Raja Indian Cuisine

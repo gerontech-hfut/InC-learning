@@ -1,0 +1,3 @@
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | "Ajo blanco"
+Ajoblanco | ingredient | Olive_oil

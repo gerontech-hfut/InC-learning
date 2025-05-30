@@ -1,0 +1,2 @@
+Bozo_the_Iron_Man | creator | George_Brenner
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"

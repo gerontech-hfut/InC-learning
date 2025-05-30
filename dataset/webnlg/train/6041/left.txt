@@ -1,0 +1,5 @@
+Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)
+Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture
+Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | "80002709"
+Asser_Levy_Public_Baths | yearOfConstruction | 1904
+Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"

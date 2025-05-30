@@ -1,0 +1,3 @@
+Georgia_(U.S._state) | capital | Atlanta
+Albany,_Georgia | isPartOf | Georgia_(U.S._state)
+Albany,_Georgia | isPartOf | Dougherty_County,_Georgia

@@ -1,0 +1,4 @@
+Belgium | leaderName | Charles_Michel
+Antwerp_International_Airport | cityServed | Antwerp
+Belgium | language | French_language
+Antwerp | country | Belgium

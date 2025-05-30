@@ -1,0 +1,3 @@
+Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"
+Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"
+Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"

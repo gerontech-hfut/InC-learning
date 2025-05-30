@@ -1,0 +1,5 @@
+Apollo_12 | backup pilot | Alfred_Worden
+Alan_Bean | was a crew member of | Apollo_12
+Apollo_12 | operator | NASA
+Alan_Bean | status | "Retired"
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"

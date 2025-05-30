@@ -1,0 +1,4 @@
+City Centre , Chinese restaurant , The Rice Boat . 
+Chinese restaurant , The Rice Boat , in the City Centre . 
+The Rice Boat provides Chinese food It is located in the city centre . 
+The Rice Boat provides Chinese food It is located in the city centre . 

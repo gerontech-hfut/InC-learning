@@ -1,0 +1,2 @@
+Ardmore_Airport_(New_Zealand) | location | Auckland
+Ardmore_Airport_(New_Zealand) | operatingOrganisation | Civil_Aviation_Authority_of_New_Zealand

@@ -1,0 +1,4 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18L/36R"
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE

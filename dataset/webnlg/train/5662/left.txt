@@ -1,0 +1,5 @@
+Abilene_Regional_Airport | cityServed | Abilene,_Texas
+Abilene_Regional_Airport | runwayLength | 2195.0
+Abilene_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 546
+Abilene_Regional_Airport | ICAO_Location_Identifier | "KABI"
+Abilene_Regional_Airport | runwayName | "17L/35R"

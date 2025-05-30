@@ -1,0 +1,4 @@
+Olympic_Stadium_(Athens) | location | Athens
+AEK_Athens_F.C. | manager | Gus_Poyet
+Gus_Poyet | club | Real_Zaragoza
+AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)

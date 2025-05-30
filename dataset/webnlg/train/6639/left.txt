@@ -1,0 +1,6 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+Elliot_See | status | "Deceased"
+Elliot_See | deathPlace | St._Louis
+Elliot_See | birthDate | "1927-07-23"
+Elliot_See | birthPlace | Dallas
+Elliot_See | was selected by NASA | 1962

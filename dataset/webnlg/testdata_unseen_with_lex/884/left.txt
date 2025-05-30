@@ -1,0 +1,5 @@
+Paraguay | ethnicGroup | Mestizo
+Agustín_Barboza | birthPlace | Asunción
+Paraguay | leaderName | Juan_Afara
+Agustín_Barboza | deathPlace | Paraguay
+Paraguay | language | Spanish_language

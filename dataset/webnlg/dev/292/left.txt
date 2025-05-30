@@ -1,0 +1,2 @@
+Arrabbiata_sauce | country | Italy
+Italy | capital | Rome

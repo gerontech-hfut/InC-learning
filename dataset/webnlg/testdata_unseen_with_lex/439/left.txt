@@ -1,0 +1,3 @@
+Alfred_N._Phillips | successor | Albert_E._Austin
+Alfred_N._Phillips | birthPlace | Darien,_Connecticut
+Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"

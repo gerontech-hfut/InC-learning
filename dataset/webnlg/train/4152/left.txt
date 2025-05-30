@@ -1,0 +1,3 @@
+AIP_Advances | editor | A.T._Charlie_Johnson
+A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham
+A.T._Charlie_Johnson | almaMater | Stanford_University

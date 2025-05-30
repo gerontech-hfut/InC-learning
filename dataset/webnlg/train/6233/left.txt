@@ -1,0 +1,5 @@
+Bhajji | country | India
+India | currency | Indian_rupee
+India | leaderName | Sumitra_Mahajan
+Bhajji | region | Karnataka
+Karnataka | leaderName | Vajubhai_Vala

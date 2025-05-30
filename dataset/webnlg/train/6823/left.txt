@@ -1,0 +1,7 @@
+California | gemstone | Benitoite
+Alan_Shepard | was a crew member of | Apollo_14
+Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal
+Alan_Shepard | deathPlace | California
+California | senators | Dianne_Feinstein
+Apollo_14 | operator | NASA
+Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)

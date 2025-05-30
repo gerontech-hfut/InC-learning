@@ -1,0 +1,2 @@
+1089_Tama | temperature | 179.0 (kelvins)
+1089_Tama | apoapsis | 373513000.0 (kilometres)

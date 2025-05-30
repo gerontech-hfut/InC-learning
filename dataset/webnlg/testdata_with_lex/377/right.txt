@@ -1,0 +1,3 @@
+20 Fenchurch Street has an area of 62145.3 square metres and 34 floors.
+20 Fenchurch Street has 34 floors and has a floor area of 62145.3 square metres.
+20 Fenchurch Street has 34 floors and 62145.3 square metres.

@@ -1,0 +1,3 @@
+Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83
+Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911

@@ -1,0 +1,1 @@
+name : The Punter | Type : restaurant | food : Indian | price : moderate | customer rating : 3 out of 5 | area : riverside | family friendly : yes | near : Express by Holiday Inn

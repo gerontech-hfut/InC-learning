@@ -1,0 +1,2 @@
+Alfred_N._Phillips | birthPlace | Connecticut
+Alfred_N._Phillips | office (workedAt, workedAs) | United_States_House_of_Representatives

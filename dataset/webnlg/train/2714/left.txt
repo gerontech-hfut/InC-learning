@@ -1,0 +1,2 @@
+AZ_Alkmaar | ground | AFAS_Stadion
+AZ_Alkmaar | numberOfMembers | 17023

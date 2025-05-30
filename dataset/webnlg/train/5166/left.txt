@@ -1,0 +1,4 @@
+Java | ethnicGroup | Banyumasan_people
+Singapore | language | English_language
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java

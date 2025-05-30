@@ -1,0 +1,1 @@
+name : Browns Cambridge | Type : coffee shop | food : Japanese | customer rating : 5 out of 5 | area : city centre | family friendly : no | near : Crowne Plaza Hotel

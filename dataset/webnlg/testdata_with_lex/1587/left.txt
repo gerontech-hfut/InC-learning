@@ -1,0 +1,4 @@
+Canada | anthem | O_Canada
+Canada | leaderName | Elizabeth_II
+Canada | ethnicGroup | Asian_Canadians
+Aaron_Boogaard | birthPlace | Canada

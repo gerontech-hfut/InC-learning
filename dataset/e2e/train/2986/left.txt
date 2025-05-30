@@ -1,0 +1,1 @@
+name : Cotto | food : Japanese | customer rating : average | family friendly : yes | near : Ranch

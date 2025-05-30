@@ -1,0 +1,1 @@
+name : Cotto | food : Fast food | customer rating : 5 out of 5 | family friendly : yes | near : Ranch

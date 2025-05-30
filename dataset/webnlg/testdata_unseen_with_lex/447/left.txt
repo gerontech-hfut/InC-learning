@@ -1,0 +1,3 @@
+Austria | leaderName | Doris_Bures
+Alfons_Gorbach | birthPlace | Tyrol_(state)
+Alfons_Gorbach | deathPlace | Austria

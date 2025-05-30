@@ -1,0 +1,2 @@
+10_Hygiea | apoapsis | 523951582.33968 (kilometres)
+10_Hygiea | temperature | 164.0 (kelvins)

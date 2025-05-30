@@ -1,0 +1,2 @@
+Baked_Alaska | country | China
+China | language | Standard_Chinese

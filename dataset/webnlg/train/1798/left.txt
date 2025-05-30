@@ -1,0 +1,2 @@
+Aarhus_Airport | runwayLength | 2777.0
+Aarhus_Airport | operatingOrganisation | Aktieselskab

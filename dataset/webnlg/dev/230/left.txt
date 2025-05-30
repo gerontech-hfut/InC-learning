@@ -1,0 +1,2 @@
+Al_Asad_Airbase | elevationAboveTheSeaLevel_(in_feet) | 618
+Al_Asad_Airbase | location | "Al Anbar Province, Iraq"

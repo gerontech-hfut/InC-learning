@@ -1,0 +1,4 @@
+A.S._Livorno_Calcio | ground | Stadio_Armando_Picchi
+A.S._Livorno_Calcio | season | 2014
+A.S._Livorno_Calcio | numberOfMembers | 19238
+A.S._Livorno_Calcio | fullname | "Livorno Calcio S.p.A."

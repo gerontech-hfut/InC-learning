@@ -1,0 +1,3 @@
+Beef_kway_teow | ingredient | Oyster_sauce
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | "Singapore and Indonesia"

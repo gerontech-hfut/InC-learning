@@ -1,0 +1,1 @@
+name : The Eagle | Type : coffee shop | food : French | price : less than £ 20 | customer rating : low | area : city centre | family friendly : yes | near : Burger King

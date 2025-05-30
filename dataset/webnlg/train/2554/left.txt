@@ -1,0 +1,2 @@
+11th_Mississippi_Infantry_Monument | country | "United States"
+11th_Mississippi_Infantry_Monument | category | Contributing_property

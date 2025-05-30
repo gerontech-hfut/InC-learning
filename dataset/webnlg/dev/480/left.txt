@@ -1,0 +1,3 @@
+Java | ethnicGroup | Baduy
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java

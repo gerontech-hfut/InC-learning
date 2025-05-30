@@ -1,0 +1,1 @@
+Buzz_Aldrin | dateOfRetirement | "1971-07-01"

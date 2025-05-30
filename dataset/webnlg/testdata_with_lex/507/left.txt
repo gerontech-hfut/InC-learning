@@ -1,0 +1,3 @@
+United_States | ethnicGroup | Asian_Americans
+Albany,_Oregon | isPartOf | Benton_County,_Oregon
+Albany,_Oregon | country | United_States

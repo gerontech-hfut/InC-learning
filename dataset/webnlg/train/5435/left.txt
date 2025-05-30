@@ -1,0 +1,4 @@
+Acharya_Institute_of_Technology | president | "B.M. Reddy"
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | established | 2000
+Acharya_Institute_of_Technology | country | "India"

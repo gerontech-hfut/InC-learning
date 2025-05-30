@@ -1,0 +1,4 @@
+Juan_Perón | party | Labour_Party_(Argentina)
+Alberto_Teisaire | successor | Isaac_Rojas
+Alberto_Teisaire | birthPlace | Mendoza,_Argentina
+Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón

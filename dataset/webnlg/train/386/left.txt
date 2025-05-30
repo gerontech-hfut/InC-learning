@@ -1,0 +1,1 @@
+11_Diagonal_Street | buildingStartDate | "1978"

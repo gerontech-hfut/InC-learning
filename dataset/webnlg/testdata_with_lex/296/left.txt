@@ -1,0 +1,2 @@
+Amsterdam_Airport_Schiphol | 1st_runway_SurfaceType | Asphalt
+Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528

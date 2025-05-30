@@ -1,0 +1,5 @@
+Bandeja_paisa | ingredient | Avocado
+Avocado | genus | Persea
+Bandeja_paisa | country | Colombian_cuisine
+Avocado | family | Lauraceae
+Bandeja_paisa | region | Paisa_Region

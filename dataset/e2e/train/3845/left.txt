@@ -1,0 +1,1 @@
+name : Loch Fyne | food : Indian | customer rating : average | area : riverside | near : The Rice Boat

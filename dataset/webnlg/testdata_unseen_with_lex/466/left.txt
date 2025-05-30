@@ -1,0 +1,3 @@
+1089_Tama | epoch | 2005-11-26
+1089_Tama | periapsis | 288749000000.0
+1089_Tama | apoapsis | 373513000.0 (kilometres)

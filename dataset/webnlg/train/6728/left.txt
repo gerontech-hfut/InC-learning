@@ -1,0 +1,6 @@
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University
+Acharya_Institute_of_Technology | was given the 'Technical Campus' status by | All_India_Council_for_Technical_Education
+All_India_Council_for_Technical_Education | location | Mumbai
+Karnataka | has to its northeast | Telangana
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | state | Karnataka

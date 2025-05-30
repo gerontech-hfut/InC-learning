@@ -1,0 +1,4 @@
+Alan_Shepard | status | "Deceased"
+Alan_Shepard | deathPlace | California
+Alan_Shepard | occupation | Test_pilot
+Alan_Shepard | birthPlace | New_Hampshire

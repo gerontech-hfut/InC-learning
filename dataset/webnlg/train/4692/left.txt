@@ -1,0 +1,4 @@
+300_North_LaSalle | location | Chicago
+Chicago | leaderName | Rahm_Emanuel
+Chicago | isPartOf | DuPage_County,_Illinois
+Chicago | country | United_States

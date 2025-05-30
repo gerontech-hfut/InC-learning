@@ -1,0 +1,3 @@
+Italy | capital | Rome
+A.S._Gubbio_1910 | ground | Italy
+Italy | language | Italian_language

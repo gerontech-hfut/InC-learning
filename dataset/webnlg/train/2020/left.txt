@@ -1,0 +1,2 @@
+William_Anders | dateOfRetirement | "1969-09-01"
+William_Anders | was a crew member of | Apollo_8

@@ -1,0 +1,2 @@
+Adare | isPartOf | Munster
+Adare_Manor | location | Adare

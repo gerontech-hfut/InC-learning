@@ -1,0 +1,1 @@
+name : The Cambridge Blue | Type : restaurant | food : Fast food | customer rating : high

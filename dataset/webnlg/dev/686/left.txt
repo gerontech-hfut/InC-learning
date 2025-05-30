@@ -1,0 +1,4 @@
+Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"
+Acharya_Institute_of_Technology | established | 2000
+Acharya_Institute_of_Technology | country | "India"
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University

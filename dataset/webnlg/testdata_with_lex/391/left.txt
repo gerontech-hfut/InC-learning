@@ -1,0 +1,2 @@
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando

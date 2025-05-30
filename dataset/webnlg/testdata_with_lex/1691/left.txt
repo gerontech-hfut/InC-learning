@@ -1,0 +1,4 @@
+Asunción | isPartOf | Gran_Asunción
+Agustín_Barboza | deathPlace | Asunción
+Paraguay | leaderName | Juan_Afara
+Agustín_Barboza | deathPlace | Paraguay

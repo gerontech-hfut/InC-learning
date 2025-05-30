@@ -1,0 +1,3 @@
+1634:_The_Bavarian_Crisis | mediaType | Hardcover
+1634:_The_Bavarian_Crisis | numberOfPages | "448"
+1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"

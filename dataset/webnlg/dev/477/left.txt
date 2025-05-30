@@ -1,0 +1,3 @@
+Celery | genus | Apium
+Bakso | ingredient | Celery
+Celery | family | Apiaceae

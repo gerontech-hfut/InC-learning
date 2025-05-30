@@ -1,0 +1,4 @@
+Amdavad_ni_Gufa | location | Gujarat
+Gujarat | leaderName | Anandiben_Patel
+Amdavad_ni_Gufa | location | Ahmedabad
+Gujarat | leaderTitle | Gujarat_Legislative_Assembly

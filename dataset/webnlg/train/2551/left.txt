@@ -1,0 +1,2 @@
+United_States | ethnicGroup | African_Americans
+Baked_Alaska | country | United_States

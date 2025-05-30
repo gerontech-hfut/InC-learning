@@ -1,0 +1,5 @@
+Ampara_Hospital | country | Sri_Lanka
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council
+Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte

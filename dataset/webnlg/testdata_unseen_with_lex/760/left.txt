@@ -1,0 +1,4 @@
+Alfred_N._Phillips | militaryBranch | United_States_Army
+United_States_Army | battles | Whiskey_Rebellion
+Alfred_N._Phillips | birthPlace | Connecticut
+Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"

@@ -1,0 +1,1 @@
+name : Cotto | Type : coffee shop | food : Fast food | price : cheap | customer rating : 5 out of 5 | area : city centre | near : The Portland Arms

@@ -1,0 +1,5 @@
+Andrews_County_Airport | location | Texas
+Texas | language | Spanish_language
+Texas | largestCity | Houston
+Texas | capital | Austin,_Texas
+Texas | country | United_States

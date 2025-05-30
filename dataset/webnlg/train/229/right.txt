@@ -1,0 +1,3 @@
+Harrietstown, New York is part of New York.
+Harrietstown, New York, is part of New York.
+Harrietstown is part of New York.

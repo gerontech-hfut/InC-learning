@@ -1,0 +1,3 @@
+1634:_The_Bavarian_Crisis | author | Eric_Flint
+1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion
+1634:_The_Ram_Rebellion | language | English_language

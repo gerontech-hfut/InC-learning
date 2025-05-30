@@ -1,0 +1,5 @@
+Mexico | leaderName | Silvano_Aureoles_Conejo
+Dessert | dishVariation | Cake
+Guadalajara | country | Mexico
+Bionico | course | Dessert
+Bionico | region | Guadalajara

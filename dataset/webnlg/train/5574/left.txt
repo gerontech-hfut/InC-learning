@@ -1,0 +1,4 @@
+Aenir | OCLC_number | 45644811
+Aenir | author | Garth_Nix
+Aenir | mediaType | "Print"
+Aenir | ISBN_number | "0-439-17684-0"

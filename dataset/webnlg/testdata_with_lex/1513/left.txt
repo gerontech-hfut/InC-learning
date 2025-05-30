@@ -1,0 +1,3 @@
+Ariane_5 | manufacturer | Arianespace
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3

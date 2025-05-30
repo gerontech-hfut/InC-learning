@@ -1,0 +1,2 @@
+Buzz_Aldrin | was selected by NASA | 1963
+Buzz_Aldrin | status | "Retired"

@@ -1,0 +1,5 @@
+Germany | capital | Berlin
+Neptun_Werft | locationCity | Rostock
+Germany | leaderName | Joachim_Gauck
+Rostock | country | Germany
+A-Rosa_Luna | builder | Neptun_Werft

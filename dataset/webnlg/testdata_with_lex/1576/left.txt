@@ -1,0 +1,4 @@
+Al_Kharaitiyat_SC | ground | Al_Khor
+Alaa_Abdul-Zahra | club | Al-Zawra'a_SC
+Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC
+Al_Kharaitiyat_SC | manager | Amar_Osim

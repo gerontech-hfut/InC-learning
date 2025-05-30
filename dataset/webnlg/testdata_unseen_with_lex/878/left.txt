@@ -1,0 +1,5 @@
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina
+Andrew_Rayel | genre | Trance_music
+Andrew_Rayel | birthPlace | "Chișinău, Moldova"
+Andrew_Rayel | activeYearsStartYear | 2009

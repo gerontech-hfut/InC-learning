@@ -1,0 +1,4 @@
+Antioch,_California | UTCOffset | "-7"
+Antioch,_California | populationTotal | 102372
+Antioch,_California | areaCode | 925
+Antioch,_California | areaTotal | 75.324 (square kilometres)

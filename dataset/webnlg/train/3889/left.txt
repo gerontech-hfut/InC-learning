@@ -1,0 +1,3 @@
+A.C._Cesena | league | Serie_B
+A.C._Cesena | numberOfMembers | 23900
+A.C._Cesena | ground | Stadio_Dino_Manuzzi

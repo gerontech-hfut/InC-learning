@@ -1,0 +1,2 @@
+ALV_X-1 | diameter | 1.524 (metres)
+ALV_X-1 | rocketStages | 2

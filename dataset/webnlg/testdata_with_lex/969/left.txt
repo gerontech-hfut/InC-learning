@@ -1,0 +1,7 @@
+William_Anders | dateOfRetirement | "1969-09-01"
+William_Anders | was a crew member of | Apollo_8
+William_Anders | nationality | United_States
+William_Anders | birthPlace | British_Hong_Kong
+Apollo_8 | backup pilot | Buzz_Aldrin
+Apollo_8 | crewMembers | Frank_Borman
+Apollo_8 | operator | NASA

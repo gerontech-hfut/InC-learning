@@ -1,0 +1,3 @@
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."
+Acta_Mathematica_Hungarica | academicDiscipline | Mathematics
+Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"

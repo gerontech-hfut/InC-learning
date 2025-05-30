@@ -1,0 +1,5 @@
+200_Public_Square | location | Cleveland
+200_Public_Square | architect | HOK_(firm)
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | isPartOf | Ohio
+Cleveland | country | United_States

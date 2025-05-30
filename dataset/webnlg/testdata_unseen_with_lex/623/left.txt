@@ -1,0 +1,4 @@
+(66063)_1998_RO1 | epoch | 2013-11-04
+(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)
+(66063)_1998_RO1 | escapeVelocity | 0.0999 (kilometrePerSeconds)
+(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)

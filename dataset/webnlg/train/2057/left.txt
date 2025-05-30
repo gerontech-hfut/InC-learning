@@ -1,0 +1,2 @@
+20_Fenchurch_Street | completionDate | "April 2014"
+20_Fenchurch_Street | floorCount | 34

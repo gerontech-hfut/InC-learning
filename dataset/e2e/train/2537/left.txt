@@ -1,0 +1,1 @@
+name : The Rice Boat | food : Fast food | price : cheap | customer rating : average | area : riverside | family friendly : yes | near : Express by Holiday Inn

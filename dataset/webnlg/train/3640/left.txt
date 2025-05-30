@@ -1,0 +1,3 @@
+Baked_Alaska | country | France
+France | leaderName | Gérard_Larcher
+France | currency | Euro

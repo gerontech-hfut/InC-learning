@@ -1,0 +1,3 @@
+Alvah_Sabin | activeYearsEndDate | 1857-03-03
+Alvah_Sabin | region | Vermont
+Vermont | largestCity | Burlington,_Vermont

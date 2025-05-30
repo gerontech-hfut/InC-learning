@@ -1,0 +1,3 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle
+United_States_Air_Force | battles | Operation_Enduring_Freedom

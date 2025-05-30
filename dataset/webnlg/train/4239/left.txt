@@ -1,0 +1,3 @@
+Addiction_(journal) | abbreviation | "Addiction"
+Addiction_(journal) | ISSN_number | "0965-2140"
+Addiction_(journal) | LCCN_number | 93645978

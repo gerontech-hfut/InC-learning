@@ -1,0 +1,5 @@
+Alison_O'Donnell | genre | Jazz
+Jazz | derivative | Funk
+Jazz | musicFusionGenre | Afrobeat
+Alison_O'Donnell | instrument | Autoharp
+Jazz | stylisticOrigin | Folk_music

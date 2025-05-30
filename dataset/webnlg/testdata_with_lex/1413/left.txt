@@ -1,0 +1,3 @@
+Alvah_Sabin | party | Whig_Party_(United_States)
+Alvah_Sabin | birthDate | 1793-10-23
+Whig_Party_(United_States) | leaderName | Henry_Clay

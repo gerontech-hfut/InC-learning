@@ -1,0 +1,4 @@
+Albennie_Jones | activeYearsEndYear | 1950
+Albennie_Jones | genre | Rhythm_and_blues
+Rhythm_and_blues | stylisticOrigin | Blues
+Rhythm_and_blues | derivative | Disco

@@ -1,0 +1,7 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+Elliot_See | status | "Deceased"
+Elliot_See | deathPlace | St._Louis
+Elliot_See | birthDate | "1927-07-23"
+Elliot_See | birthPlace | Dallas
+Elliot_See | deathDate | "1966-02-28"
+Elliot_See | nationality | United_States

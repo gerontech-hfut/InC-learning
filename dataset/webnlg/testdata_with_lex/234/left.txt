@@ -1,0 +1,2 @@
+Arlington,_Texas | elevationAboveTheSeaLevel | 184.0
+Arlington,_Texas | areaTotal | 258.2 (square kilometres)

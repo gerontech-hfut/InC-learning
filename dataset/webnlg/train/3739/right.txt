@@ -1,0 +1,3 @@
+Binignit is a dessert that contains coconut milk. A cookie is also a dessert.
+Coconut milk is an ingredient in Binignit, which should be served as the dessert course, and a cookie is another dessert.
+A Cookie is a dessert along with Binignit which contains the ingredient of coconut milk.

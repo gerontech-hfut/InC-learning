@@ -1,0 +1,4 @@
+A.F.C._Fylde | numberOfMembers | 3180
+A.F.C._Fylde | season | 2014–15_Football_Conference
+A.F.C._Fylde | fullname | "Association Football Club Fylde"
+A.F.C._Fylde | ground | "Bryning Lane"

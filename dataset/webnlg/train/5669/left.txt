@@ -1,0 +1,5 @@
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
+Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
+Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14R/32L"

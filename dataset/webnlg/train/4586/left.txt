@@ -1,0 +1,4 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | nationality | United_States
+Buzz_Aldrin | occupation | Fighter_pilot
+Buzz_Aldrin | status | "Retired"

@@ -1,0 +1,5 @@
+Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)
+Abradab | associatedBand/associatedMusicalArtist | Kaliber_44
+Abradab | birthPlace | Katowice
+Abradab | birthPlace | Poland
+Abradab | birthDate | 1978-11-12

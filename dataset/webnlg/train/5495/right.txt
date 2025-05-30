@@ -1,0 +1,3 @@
+ACM Transactions on Information Systems (abbreviation: ACM Trans. Inf. Syst.) has the LCCN number 89646863 and the ISSN number 1558-2868. The CODEN code for ACM Transactions on Information Systems is "ATISET".
+The ACM Transactions on Information Systems (ACM Trans. Inf. Syst.) has the ISSN number 1558-2868, LCCN number 89646863 and CODEN code ATISET.
+ACM Transactions of Information Systems, abbreviated ACM Trans. Inf. Syst., has an ISSN number of 1558-2868, an LCCN number of 89646863 and a CODEN coden of ATISET.

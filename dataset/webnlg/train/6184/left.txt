@@ -1,0 +1,5 @@
+Baked_Alaska | country | France
+France | leaderName | Manuel_Valls
+Baked_Alaska | region | New_York
+France | leaderName | Gérard_Larcher
+New_York | language | Arabic

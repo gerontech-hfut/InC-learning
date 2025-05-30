@@ -1,0 +1,2 @@
+A_Long_Long_Way | numberOfPages | "292"
+A_Long_Long_Way | ISBN_number | "0-670-03380-4"

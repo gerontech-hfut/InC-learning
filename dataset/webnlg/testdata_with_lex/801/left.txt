@@ -1,0 +1,5 @@
+Atlanta | areaOfLand | 344.9 (square kilometres)
+Atlanta | populationDensity | 1299.0 (inhabitants per square kilometre)
+Atlanta | areaCode | 404
+Atlanta | isPartOf | DeKalb_County,_Georgia
+Atlanta | areaTotal | 347.1 (square kilometres)

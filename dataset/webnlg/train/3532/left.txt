@@ -1,0 +1,3 @@
+Amatriciana_sauce | region | Lazio
+Amatriciana_sauce | country | Italy
+Amatriciana_sauce | ingredient | Olive_oil

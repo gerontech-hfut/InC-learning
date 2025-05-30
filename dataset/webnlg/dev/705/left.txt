@@ -1,0 +1,4 @@
+English_language | spokenIn | Great_Britain
+United_States | ethnicGroup | Asian_Americans
+United_States | language | English_language
+A_Severed_Wasp | country | United_States

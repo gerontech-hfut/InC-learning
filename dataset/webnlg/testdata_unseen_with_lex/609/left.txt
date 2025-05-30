@@ -1,0 +1,4 @@
+Alan_Martin_(footballer) | club | Scotland_national_under-21_football_team
+Alan_Martin_(footballer) | birthDate | 1989-01-01
+Alan_Martin_(footballer) | height | 185.42 (centimetres)
+Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.

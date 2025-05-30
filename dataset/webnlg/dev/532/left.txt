@@ -1,0 +1,3 @@
+A_Severed_Wasp | OCLC_number | 8805735
+A_Severed_Wasp | LibraryofCongressClassification | "PS3523.E55 S4 1982"
+A_Severed_Wasp | mediaType | "Print"

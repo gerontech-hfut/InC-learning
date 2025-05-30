@@ -1,0 +1,5 @@
+Indonesia | capital | Jakarta
+Indonesia | leaderName | Jusuf_Kalla
+Bakso | region | Indonesia
+Bakso | country | Chinese_cuisine
+Indonesia | leaderName | Joko_Widodo

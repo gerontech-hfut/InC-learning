@@ -1,0 +1,6 @@
+The Twenty Two is a Chinese restaurant . Not family friendly . 
+The Twenty Two provides Chinese food . It is not family friendly . 
+Not family friendly The Twenty Two is a Chinese restaurant . 
+The Twenty Two provides Chinese food 
+The Twenty Two is a Chinese food restaurant that is not family friendly . 
+The Twenty Two provides Chinese food 

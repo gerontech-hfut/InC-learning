@@ -1,0 +1,5 @@
+United_Kingdom | language | English_language
+United_Kingdom | leaderName | David_Cameron
+AIDS_(journal) | country | United_Kingdom
+United_Kingdom | capital | London
+United_Kingdom | leaderName | Elizabeth_II

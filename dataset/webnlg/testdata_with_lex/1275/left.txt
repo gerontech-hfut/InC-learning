@@ -1,0 +1,2 @@
+FC_Dinamo_Batumi | manager | Levan_Khomeriki
+Aleksandre_Guruli | club | FC_Dinamo_Batumi

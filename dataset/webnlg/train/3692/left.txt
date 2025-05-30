@@ -1,0 +1,3 @@
+Barny_Cakes | country | France
+France | language | French_language
+France | leaderName | François_Hollande

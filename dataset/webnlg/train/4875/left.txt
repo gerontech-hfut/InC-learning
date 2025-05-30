@@ -1,0 +1,4 @@
+Sheldon_Moldoff | nationality | Americans
+Black_Pirate | creator | Sheldon_Moldoff
+Sheldon_Moldoff | award | Inkpot_Award
+Black_Pirate | alternativeName | "Jon Valor"

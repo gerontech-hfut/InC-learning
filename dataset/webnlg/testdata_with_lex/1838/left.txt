@@ -1,0 +1,5 @@
+Alison_O'Donnell | associatedBand/associatedMusicalArtist | Flibbertigibbet
+Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle
+Alison_O'Donnell | genre | Folk_music_of_Ireland
+Alison_O'Donnell | recordLabel | Floating_World_Records
+Alison_O'Donnell | activeYearsStartYear | 1963

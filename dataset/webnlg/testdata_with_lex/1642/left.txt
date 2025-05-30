@@ -1,0 +1,4 @@
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_Virage | manufacturer | Aston_Martin

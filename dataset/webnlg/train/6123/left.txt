@@ -1,0 +1,5 @@
+Arròs_negre | region | Valencian_Community
+Valencian_Community | leaderName | Ximo_Puig
+Spain | language | Spanish_language
+Arròs_negre | country | Spain
+Spain | leaderName | Felipe_VI_of_Spain

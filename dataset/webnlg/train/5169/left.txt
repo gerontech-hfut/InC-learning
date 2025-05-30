@@ -1,0 +1,4 @@
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java

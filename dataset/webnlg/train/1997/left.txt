@@ -1,0 +1,2 @@
+Alan_Shepard | title | Chief_of_the_Astronaut_Office
+Alan_Shepard | birthPlace | New_Hampshire

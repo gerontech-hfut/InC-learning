@@ -1,0 +1,1 @@
+name : Fitzbillies | Type : coffee shop | food : Japanese | price : cheap | customer rating : 5 out of 5 | area : riverside | family friendly : no

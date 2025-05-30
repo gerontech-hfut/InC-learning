@@ -1,0 +1,3 @@
+Aarhus Airport is 25 metres above sea level.
+Aarhus airport is at an elevation of 25 metres above seal level.
+Aarhus Airport is 25.0 metres above the sea level.

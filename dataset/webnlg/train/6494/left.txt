@@ -1,0 +1,5 @@
+A_Long_Long_Way | country | Ireland
+Ireland | ethnicGroup | White_people
+The_Secret_Scripture | publisher | Faber_and_Faber
+Ireland | largestCity | Dublin
+A_Long_Long_Way | followedBy | The_Secret_Scripture

@@ -1,0 +1,3 @@
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Igorot_people

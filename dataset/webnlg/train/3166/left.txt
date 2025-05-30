@@ -1,0 +1,3 @@
+Lahore | country | Pakistan
+Allama_Iqbal_International_Airport | cityServed | Lahore
+Pakistan | leaderName | Nawaz_Sharif

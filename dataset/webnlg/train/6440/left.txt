@@ -1,0 +1,5 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | anthem | Swiss_Psalm
+Switzerland | leaderName | Johann_Schneider-Ammann
+Switzerland | legislature | Federal_Assembly_(Switzerland)
+Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland

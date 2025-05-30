@@ -1,0 +1,3 @@
+Aleksandr_Prudnikov | birthDate | 1989-02-24
+Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar
+Aleksandr_Prudnikov | club | FC_Alania_Vladikavkaz

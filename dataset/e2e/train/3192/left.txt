@@ -1,0 +1,1 @@
+name : Cotto | Type : coffee shop | food : Fast food | price : moderate | customer rating : 3 out of 5 | area : riverside | near : The Portland Arms

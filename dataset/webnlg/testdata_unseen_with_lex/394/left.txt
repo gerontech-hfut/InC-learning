@@ -1,0 +1,2 @@
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | successor | Aston_Martin_Virage

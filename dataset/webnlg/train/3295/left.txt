@@ -1,0 +1,3 @@
+300_North_LaSalle | architect | Pickard_Chilton
+300_North_LaSalle | completionDate | 2009
+300_North_LaSalle | floorCount | 60

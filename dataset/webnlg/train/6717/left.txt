@@ -1,0 +1,6 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Switzerland | anthem | Swiss_Psalm
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland
+Switzerland | leaderName | Johann_Schneider-Ammann

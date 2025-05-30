@@ -1,0 +1,3 @@
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine
+Christian_Burns | genre | House_music
+Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns

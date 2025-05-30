@@ -1,0 +1,5 @@
+300_North_LaSalle | location | Chicago
+300_North_LaSalle | floorCount | 60
+Chicago | country | United_States
+Chicago | isPartOf | Illinois
+Chicago | leaderName | Susana_Mendoza

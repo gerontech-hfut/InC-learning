@@ -1,0 +1,5 @@
+A_Long_Long_Way | precededBy | Annie_Dunne
+A_Long_Long_Way | country | Ireland
+Ireland | ethnicGroup | White_people
+A_Long_Long_Way | publisher | Viking_Press
+A_Long_Long_Way | followedBy | The_Secret_Scripture

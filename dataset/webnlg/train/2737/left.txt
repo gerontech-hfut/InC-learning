@@ -1,0 +1,2 @@
+Akron_Summit_Assault | manager | Denzil_Antonio
+Akron_Summit_Assault | numberOfMembers | 3000

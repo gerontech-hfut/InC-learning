@@ -1,0 +1,3 @@
+Karl_Kesel | nationality | Americans
+Auron_(comicsCharacter) | fullName | "Lambien"
+Auron_(comicsCharacter) | creator | Karl_Kesel

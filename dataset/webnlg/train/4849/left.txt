@@ -1,0 +1,4 @@
+Bananaman | broadcastedBy | BBC
+Bananaman | starring | Jill_Shilling
+Bananaman | creator | John_Geering
+Bananaman | firstAired | "1983-10-03"

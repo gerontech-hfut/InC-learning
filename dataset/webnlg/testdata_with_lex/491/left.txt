@@ -1,0 +1,3 @@
+Arlington,_Texas | isPartOf | Tarrant_County,_Texas
+Tarrant_County,_Texas | countySeat | Fort_Worth,_Texas
+Tarrant_County,_Texas | country | United_States

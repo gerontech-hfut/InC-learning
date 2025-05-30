@@ -1,0 +1,4 @@
+Indonesia | capital | Jakarta
+Indonesia | leaderName | Jusuf_Kalla
+Bakso | region | "Nationwide in Indonesia, also popular in neighboring Southeast Asian countries"
+Bakso | country | Indonesia

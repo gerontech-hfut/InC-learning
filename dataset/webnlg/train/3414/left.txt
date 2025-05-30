@@ -1,0 +1,3 @@
+Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)
+Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | "80002709"
+Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"

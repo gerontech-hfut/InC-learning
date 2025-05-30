@@ -1,0 +1,3 @@
+Athens_International_Airport | cityServed | Athens
+Athens | country | Greece
+Greece | leaderName | Nikos_Voutsis

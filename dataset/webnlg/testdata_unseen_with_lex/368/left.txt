@@ -1,0 +1,2 @@
+110_Lydia | epoch | 2006-12-31
+110_Lydia | mass | 6.7 (kilograms)

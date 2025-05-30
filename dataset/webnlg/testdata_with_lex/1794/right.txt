@@ -1,0 +1,3 @@
+11264 Claudiomaccone has an epoch date of November 26th 2005, an orbital period of 1513.722 days. a periapsis of 296521000.0 km, an apoapsis of 475426000.0 km, and a temperature of 173.0 kelvins.
+11264 Claudiomaccone has the epoch date of 26 November 2005,its temperature is 173.0 kelvins and has an orbital period of 1513.722 days.It has a periapsis of 296521000.0 kilometres and its apoapsis is 475426000 kms.
+11264 Claudiomaccone has an epoch date of November 26th 2005, an orbital period of 1513.722 days, a periapsis at 296521000.0 km, an apoapsis of 475426000.0 km, and a temperature of 173.0 kelvins.

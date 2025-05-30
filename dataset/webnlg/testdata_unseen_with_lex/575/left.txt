@@ -1,0 +1,3 @@
+Aleksandr_Prudnikov | birthDate | 1989-02-24
+Aleksandr_Prudnikov | club | Russia_national_football_B_team
+Aleksandr_Prudnikov | club | FC_Tom_Tomsk

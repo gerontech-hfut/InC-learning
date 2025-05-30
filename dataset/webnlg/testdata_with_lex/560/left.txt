@@ -1,0 +1,3 @@
+Barny_Cakes | country | France
+France | leaderName | Claude_Bartolone
+France | leaderName | Manuel_Valls

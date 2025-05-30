@@ -1,0 +1,4 @@
+Amatriciana_sauce | region | Lazio
+Amatriciana_sauce | country | Italy
+Amatriciana_sauce | ingredient | Pecorino_Romano
+Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"

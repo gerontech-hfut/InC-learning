@@ -1,0 +1,6 @@
+Dead_Man's_Plack | location | England
+England | ethnicGroups | British_Arabs
+England | capital | London
+Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia
+England | languages | Cornish_language
+Dead_Man's_Plack | material | Rock_(geology)

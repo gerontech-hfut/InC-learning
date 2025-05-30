@@ -1,0 +1,3 @@
+The location identifier for Abilene Regional airport is ABI.
+The Abilene Regional Airport's location id is "ABI".
+The location Identifier of Abilene Regional Airport is ABI.

@@ -1,0 +1,3 @@
+The location identifier for Appleton International Airport is ATW.
+The Appleton International Airport's location id is "ATW".
+The location identifier of Appleton International Airport is ATW.

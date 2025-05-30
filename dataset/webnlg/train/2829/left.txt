@@ -1,0 +1,2 @@
+ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery
+Association_for_Computing_Machinery | headquarter | New_York_City

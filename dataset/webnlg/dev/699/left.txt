@@ -1,0 +1,4 @@
+Addiction_(journal) | academicDiscipline | Addiction
+Addiction_(journal) | LCCN_number | 93645978
+Addiction_(journal) | abbreviation | "Addiction"
+Addiction_(journal) | ISSN_number | "1360-0443"

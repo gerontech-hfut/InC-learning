@@ -1,0 +1,5 @@
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | completionDate | 1988
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"
+108_St_Georges_Terrace | floorCount | 50

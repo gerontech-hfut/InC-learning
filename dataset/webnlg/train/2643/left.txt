@@ -1,0 +1,2 @@
+A.F.C._Blackpool | ground | "The Mechanics,"
+A.F.C._Blackpool | numberOfMembers | 1500

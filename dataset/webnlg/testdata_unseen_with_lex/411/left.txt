@@ -1,0 +1,3 @@
+Abdulsalami_Abubakar | birthPlace | Niger_State
+Abdulsalami_Abubakar | almaMater | Technical_Institute,_Kaduna
+Abdulsalami_Abubakar | office (workedAt, workedAs) | Chief_of_the_Defence_Staff_(Nigeria)

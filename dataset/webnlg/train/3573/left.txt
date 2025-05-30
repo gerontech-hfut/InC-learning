@@ -1,0 +1,3 @@
+Asam_pedas | country | Malaysia
+Malaysia | capital | Kuala_Lumpur
+Malaysia | leaderName | Najib_Razak

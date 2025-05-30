@@ -1,0 +1,2 @@
+Abilene_Regional_Airport | locationIdentifier | "ABI"
+Abilene_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 546

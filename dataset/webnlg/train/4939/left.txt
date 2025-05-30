@@ -1,0 +1,4 @@
+Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | country | Indonesia

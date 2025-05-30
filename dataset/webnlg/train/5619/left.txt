@@ -1,0 +1,4 @@
+United_States | language | English_language
+English_language | spokenIn | Great_Britain
+United_States | capital | Washington,_D.C.
+A_Fortress_of_Grey_Ice | country | United_States

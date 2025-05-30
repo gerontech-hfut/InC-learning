@@ -1,0 +1,4 @@
+Alex_Plante | birthYear | 1989
+Alex_Plante | club | Anyang_Halla
+Alex_Plante | birthPlace | Canada
+Alex_Plante | birthDate | 1989-05-09

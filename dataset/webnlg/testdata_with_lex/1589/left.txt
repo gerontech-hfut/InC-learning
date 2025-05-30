@@ -1,0 +1,4 @@
+FC_Terek_Grozny | ground | Grozny
+Aleksandr_Prudnikov | club | FC_Terek_Grozny
+FC_Terek_Grozny | manager | Rashid_Rakhimov
+Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar

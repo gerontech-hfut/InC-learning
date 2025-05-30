@@ -1,0 +1,5 @@
+A.E_Dimitra_Efxeinoupolis | location | Greece
+Greece | currency | Euro
+Greece | leader | Alexis_Tsipras
+Greece | capital | Athens
+Greece | leader | Prokopis_Pavlopoulos

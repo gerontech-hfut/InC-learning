@@ -1,0 +1,2 @@
+United_States | language | English_language
+Akron,_Ohio | country | United_States

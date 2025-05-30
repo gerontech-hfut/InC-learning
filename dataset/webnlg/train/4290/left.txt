@@ -1,0 +1,3 @@
+John_Cowper_Powys | birthPlace | Shirley,_Derbyshire
+A_Glastonbury_Romance | precededBy | Wolf_Solent
+A_Glastonbury_Romance | author | John_Cowper_Powys

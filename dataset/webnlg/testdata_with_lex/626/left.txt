@@ -1,0 +1,4 @@
+Albuquerque,_New_Mexico | areaCode | 505, 575
+Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)

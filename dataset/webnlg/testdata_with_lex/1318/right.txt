@@ -1,0 +1,3 @@
+(19255) 1994 VK8 has an escape velocity of 0.0925 km/s and an apoapsis of 6603633000.0 km.
+(19255) 1994 VK8 has an apoapsis of 6603633000.0 km and an escape velocity of 0.0925 km per sec.
+(19255) 1994 VK8 has an escape velocity of 0.0925 kilometres per second, and an apoapsis of 6603633000.0 km.

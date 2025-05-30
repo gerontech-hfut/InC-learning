@@ -1,0 +1,1 @@
+name : The Eagle | Type : coffee shop | food : Indian | price : £ 20 - 25 | customer rating : high | area : riverside | family friendly : yes | near : Burger King

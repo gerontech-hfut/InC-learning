@@ -1,0 +1,3 @@
+103_Colmore_Row | architect | John_Madin
+John_Madin | hometown | Birmingham
+Birmingham | leaderName | Khalid_Mahmood_(British_politician)

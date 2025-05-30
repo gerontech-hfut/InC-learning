@@ -1,0 +1,4 @@
+Auburn,_Washington | isPartOf | Washington_(state)
+United_States | capital | Washington,_D.C.
+Auburn,_Washington | country | United_States
+Auburn,_Washington | isPartOf | King_County,_Washington

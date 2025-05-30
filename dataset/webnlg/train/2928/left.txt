@@ -1,0 +1,2 @@
+Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology
+Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."

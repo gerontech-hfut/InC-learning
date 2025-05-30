@@ -1,0 +1,5 @@
+Afonso_Pena_International_Airport | cityServed | Curitiba
+Curitiba | isPartOf | Paraná_(state)
+Afonso_Pena_International_Airport | operatingOrganisation | Infraero
+Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
+São_José_dos_Pinhais | isPartOf | South_Region,_Brazil

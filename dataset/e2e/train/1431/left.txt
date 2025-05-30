@@ -1,0 +1,1 @@
+name : Alimentum | food : Fast food | price : cheap | customer rating : average | area : city centre | near : Yippee Noodle Bar

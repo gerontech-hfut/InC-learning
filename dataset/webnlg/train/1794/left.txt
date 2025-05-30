@@ -1,0 +1,2 @@
+Aarhus_Airport | operatingOrganisation | Aktieselskab
+Aarhus_Airport | runwayName | "10L/28R"

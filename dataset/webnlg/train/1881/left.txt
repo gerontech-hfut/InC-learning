@@ -1,0 +1,2 @@
+Alpena_County_Regional_Airport | 1st_runway_LengthFeet | 9001
+Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210

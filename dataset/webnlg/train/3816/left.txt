@@ -1,0 +1,3 @@
+Siomay | ingredient | Peanut_sauce
+Shumai | dishVariation | Siomay
+Batagor | dishVariation | Shumai

@@ -1,0 +1,5 @@
+Agra_Airport | location | India
+Agra_Airport | runwayLength | 1818.0
+Agra_Airport | operatingOrganisation | Indian_Air_Force
+Agra_Airport | elevationAboveTheSeaLevel_(in_metres) | 167.94
+Agra_Airport | ICAO_Location_Identifier | "VIAG"

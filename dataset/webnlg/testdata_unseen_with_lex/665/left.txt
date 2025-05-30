@@ -1,0 +1,4 @@
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | shipLaunch | 1969-01-25
+American_submarine_NR-1 | topSpeed | 8.334
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat

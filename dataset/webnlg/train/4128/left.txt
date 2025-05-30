@@ -1,0 +1,3 @@
+1634:_The_Ram_Rebellion | author | Eric_Flint
+Eric_Flint | birthPlace | Burbank,_California
+1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair

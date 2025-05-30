@@ -1,0 +1,2 @@
+United_States | ethnicGroup | African_Americans
+Albuquerque,_New_Mexico | country | United_States

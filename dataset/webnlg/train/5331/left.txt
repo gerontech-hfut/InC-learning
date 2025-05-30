@@ -1,0 +1,4 @@
+AFC_Ajax | manager | Frank_de_Boer
+Frank_de_Boer | club | Al-Shamal_Sports_Club
+Frank_de_Boer | club | FC_Barcelona
+Frank_de_Boer | club | Netherlands_national_football_team

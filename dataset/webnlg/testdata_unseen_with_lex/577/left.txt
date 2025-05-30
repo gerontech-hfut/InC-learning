@@ -1,0 +1,3 @@
+Aleksandre_Guruli | club | Olympique_Lyonnais
+Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais
+Aleksandre_Guruli | club | US_Lesquin

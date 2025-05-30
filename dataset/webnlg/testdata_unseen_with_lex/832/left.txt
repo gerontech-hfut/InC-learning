@@ -1,0 +1,5 @@
+Adam_Holloway | party | Conservative_Party_(UK)
+Adam_Holloway | birthPlace | "Faversham, Kent, England"
+Adam_Holloway | activeYearsStartDate | 2005-05-05
+Adam_Holloway | militaryBranch | Grenadier_Guards
+Adam_Holloway | almaMater | Magdalene_College,_Cambridge

@@ -1,0 +1,3 @@
+Bhajji | region | Karnataka
+Bhajji | mainIngredients | "Gram flour, vegetables"
+Bhajji | ingredient | Gram_flour

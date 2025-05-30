@@ -1,0 +1,4 @@
+Acura_TLX | assembly | Marysville,_Ohio
+Acura_TLX | class | Mid-size_car
+Acura_TLX | layout | "front-wheel drive / all-wheel drive"
+Acura_TLX | engine | Honda_K_engine

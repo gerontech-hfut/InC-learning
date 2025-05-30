@@ -1,0 +1,3 @@
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong
+A_Loyal_Character_Dancer | mediaType | "Print"
+A_Loyal_Character_Dancer | numberOfPages | "360"

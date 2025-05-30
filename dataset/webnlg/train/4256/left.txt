@@ -1,0 +1,3 @@
+Administrative_Science_Quarterly | publisher | Cornell_University
+Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities
+Cornell_University | president | Elizabeth_Garrett

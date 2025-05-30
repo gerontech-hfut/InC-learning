@@ -1,0 +1,3 @@
+1634:_The_Bavarian_Crisis | author | Eric_Flint
+1634:_The_Bavarian_Crisis | numberOfPages | "448"
+1634:_The_Bavarian_Crisis | mediaType | "Print"

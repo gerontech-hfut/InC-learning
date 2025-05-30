@@ -1,0 +1,2 @@
+Aston_Martin_V8 | assembly | United_Kingdom
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1

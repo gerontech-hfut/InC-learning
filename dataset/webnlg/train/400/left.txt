@@ -1,0 +1,1 @@
+20_Fenchurch_Street | floorArea | 62145.3 (square metres)

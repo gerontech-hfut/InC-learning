@@ -1,0 +1,5 @@
+Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe
+Abdulsalami_Abubakar | activeYearsEndDate | 1999-05-29
+Mike_Akhigbe | predecessor | Oladipo_Diya
+Mike_Akhigbe | militaryBranch | Nigerian_Navy
+Mike_Akhigbe | successor | Atiku_Abubakar

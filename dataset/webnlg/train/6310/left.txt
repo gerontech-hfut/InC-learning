@@ -1,0 +1,5 @@
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Arabic
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Moro_people

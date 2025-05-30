@@ -1,0 +1,4 @@
+107_Camilla | discoverer | N._R._Pogson
+N._R._Pogson | deathPlace | Chennai
+107_Camilla | periapsis | 479343000.0 (kilometres)
+N._R._Pogson | birthPlace | Nottingham

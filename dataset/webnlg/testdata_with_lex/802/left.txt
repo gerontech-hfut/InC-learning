@@ -1,0 +1,5 @@
+Attica,_Indiana | isPartOf | United_States
+Attica,_Indiana | areaTotal | 4.14 (square kilometres)
+Attica,_Indiana | elevationAboveTheSeaLevel | 166.0
+Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana
+Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)

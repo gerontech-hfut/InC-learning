@@ -1,0 +1,3 @@
+Dead_Man's_Plack | location | England
+England | religion | Church_of_England
+Dead_Man's_Plack | material | Rock_(geology)

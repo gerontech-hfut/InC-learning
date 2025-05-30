@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Indian | customer rating : 5 out of 5 | area : city centre | family friendly : no | near : Café Rouge

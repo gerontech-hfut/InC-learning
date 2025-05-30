@@ -1,0 +1,5 @@
+Bandeja_paisa | ingredient | Lemon
+Lemon | order | Rosids
+Lemon | family | Rutaceae
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Paisa_Region

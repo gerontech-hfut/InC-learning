@@ -1,0 +1,4 @@
+Alfred_N._Phillips | party | Democratic_Party_(United_States)
+Alfred_N._Phillips | successor | Albert_E._Austin
+Alfred_N._Phillips | birthPlace | Darien,_Connecticut
+Alfred_N._Phillips | office (workedAt, workedAs) | Mayor_of_Stamford,_Connecticut

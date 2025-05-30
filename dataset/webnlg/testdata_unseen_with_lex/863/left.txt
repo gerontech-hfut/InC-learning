@@ -1,0 +1,5 @@
+Aleksandra_Kovač | genre | Rhythm_and_blues
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač
+Aleksandra_Kovač | background | "solo_singer"
+Aleksandra_Kovač | activeYearsStartYear | 1990

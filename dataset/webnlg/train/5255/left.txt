@@ -1,0 +1,4 @@
+1._FC_Magdeburg | manager | Jens_Härtel
+Jens_Härtel | club | Berliner_AK_07
+Jens_Härtel | club | SV_Babelsberg_03
+Jens_Härtel | club | FSV_Zwickau

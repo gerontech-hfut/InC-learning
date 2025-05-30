@@ -1,0 +1,5 @@
+Birmingham | postalCode | B_postcode_area
+103_Colmore_Row | architect | John_Madin
+John_Madin | hometown | Birmingham
+Birmingham | governingBody | Birmingham_City_Council
+Birmingham | leaderName | Labour_Party_(UK)

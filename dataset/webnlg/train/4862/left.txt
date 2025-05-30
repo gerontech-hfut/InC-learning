@@ -1,0 +1,4 @@
+Bolt_(comicsCharacter) | creator | Paris_Cullins
+Ernie_Colón | nationality | Puerto_Ricans
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"

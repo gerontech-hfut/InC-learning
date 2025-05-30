@@ -1,0 +1,4 @@
+Aleksandr_Prudnikov | birthDate | 1989-02-24
+Aleksandr_Prudnikov | height | 185.0 (centimetres)
+Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar
+Aleksandr_Prudnikov | club | FC_Dynamo_Moscow

@@ -1,0 +1,2 @@
+Alan_Shepard | status | "Deceased"
+Alan_Shepard | occupation | Test_pilot

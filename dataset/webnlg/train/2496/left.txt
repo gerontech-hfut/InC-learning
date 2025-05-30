@@ -1,0 +1,2 @@
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredients | Coconut_milk

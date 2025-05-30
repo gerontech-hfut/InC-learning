@@ -1,0 +1,3 @@
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | height | "42 m"

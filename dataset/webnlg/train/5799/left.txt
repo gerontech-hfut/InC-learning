@@ -1,0 +1,5 @@
+Atlantic_City_International_Airport | cityServed | Atlantic_City,_New_Jersey
+Atlantic_City,_New_Jersey | country | United_States
+Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey
+Atlantic_City,_New_Jersey | leaderName | Don_Guardian

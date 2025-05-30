@@ -1,0 +1,1 @@
+name : The Rice Boat | food : Fast food | price : high | customer rating : average | area : city centre | family friendly : no | near : Express by Holiday Inn

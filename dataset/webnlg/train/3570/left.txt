@@ -1,0 +1,3 @@
+Asam_pedas | country | Indonesia
+Asam_pedas | region | Sumatra
+Asam_pedas | mainIngredients | "Fish cooked in sour and hot sauce"

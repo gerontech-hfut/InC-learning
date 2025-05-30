@@ -1,0 +1,7 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+University_of_Texas_at_Austin | affiliations | University_of_Texas_System
+Elliot_See | occupation | Test_pilot
+Elliot_See | birthDate | "1927-07-23"
+Elliot_See | birthPlace | Dallas
+University_of_Texas_at_Austin | compete in | Big_12_Conference
+Elliot_See | deathPlace | St._Louis

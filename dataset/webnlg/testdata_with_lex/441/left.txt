@@ -1,0 +1,3 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Stuart_Parker_(footballer) | club | Chesterfield_F.C.
+Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton

@@ -1,0 +1,5 @@
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | buildDate | "May 1950 - August 1956"
+ALCO_RS-3 | engine | Four-stroke_engine

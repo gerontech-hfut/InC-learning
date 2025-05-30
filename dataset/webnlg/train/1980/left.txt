@@ -1,0 +1,2 @@
+Saranac_Lake,_New_York | isPartOf | United_States
+Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York

@@ -1,0 +1,2 @@
+Afonso_Pena_International_Airport | operatingOrganisation | Infraero
+Infraero | location | Brazil

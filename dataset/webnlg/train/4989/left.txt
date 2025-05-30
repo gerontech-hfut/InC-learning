@@ -1,0 +1,4 @@
+Baked_Alaska | course | Dessert
+Baked_Alaska | country | France
+Dessert | dishVariation | Sandesh_(confectionery)
+France | leaderName | Gérard_Larcher

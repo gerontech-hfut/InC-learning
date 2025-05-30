@@ -1,0 +1,4 @@
+300_North_LaSalle | location | Chicago
+300_North_LaSalle | architect | Pickard_Chilton
+300_North_LaSalle | floorCount | 60
+300_North_LaSalle | completionDate | 2009

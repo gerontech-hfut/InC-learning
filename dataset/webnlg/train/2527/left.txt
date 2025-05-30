@@ -1,0 +1,2 @@
+Italy | capital | Rome
+Amatriciana_sauce | country | Italy

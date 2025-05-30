@@ -1,0 +1,4 @@
+Alcobendas | isPartOf | Community_of_Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
+Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
+Alcobendas | country | Spain

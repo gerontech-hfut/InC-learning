@@ -1,0 +1,2 @@
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal

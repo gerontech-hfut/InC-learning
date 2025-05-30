@@ -1,0 +1,2 @@
+Bakso | ingredient | Tapioca
+Bakso | country | Chinese_cuisine

@@ -1,0 +1,5 @@
+Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom
+Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)
+Aaron_Turner | genre | Black_metal
+Aaron_Turner | origin | United_States
+Aaron_Turner | activeYearsStartYear | 1995

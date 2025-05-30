@@ -1,0 +1,4 @@
+A.E_Dimitra_Efxeinoupolis | location | Greece
+Greece | capital | Athens
+Greece | leader | Prokopis_Pavlopoulos
+Greece | language | Greek_language

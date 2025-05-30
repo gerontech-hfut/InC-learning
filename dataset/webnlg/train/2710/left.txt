@@ -1,0 +1,2 @@
+AZAL_PFK | league | Azerbaijan_Premier_League
+AZAL_PFK | ground | AZAL_Arena

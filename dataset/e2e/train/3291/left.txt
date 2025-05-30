@@ -1,0 +1,1 @@
+name : The Rice Boat | food : French | customer rating : low | area : city centre | family friendly : yes

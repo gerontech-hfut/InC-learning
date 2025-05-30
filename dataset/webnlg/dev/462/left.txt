@@ -1,0 +1,3 @@
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Cookie
+Baked_Alaska | ingredient | Christmas_pudding

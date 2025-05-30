@@ -1,0 +1,3 @@
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Antares_(rocket) | function | "Medium expendable launch system"

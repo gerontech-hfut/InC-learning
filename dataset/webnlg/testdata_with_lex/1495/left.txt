@@ -1,0 +1,3 @@
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)

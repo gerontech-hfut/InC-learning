@@ -1,0 +1,1 @@
+name : Zizzi | Type : pub | food : Japanese | customer rating : 5 out of 5 | family friendly : yes

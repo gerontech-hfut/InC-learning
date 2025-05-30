@@ -1,0 +1,3 @@
+The runway length at Ashgabat International Airport is 2989.0 meters.
+The runway length at Ashgabat International airport is 2989.0.
+The average runway length at Ashgabat International Airport is 2989.0 m.

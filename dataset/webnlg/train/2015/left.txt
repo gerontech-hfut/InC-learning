@@ -1,0 +1,2 @@
+Elliot_See | deathPlace | St._Louis
+St._Louis | isPartOf | Kingdom_of_France

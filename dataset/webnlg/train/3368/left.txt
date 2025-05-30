@@ -1,0 +1,3 @@
+Alan_B._Miller_Hall | cost | "75.0 million (dollars)"
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business

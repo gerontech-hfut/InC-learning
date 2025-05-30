@@ -1,0 +1,4 @@
+Akita_Museum_of_Art | country | Japan
+Akita_Museum_of_Art | floorCount | 3
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita_Museum_of_Art | location | Akita_Prefecture

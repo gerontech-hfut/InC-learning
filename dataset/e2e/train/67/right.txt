@@ -1,0 +1,11 @@
+Browns Cambridge serves fast food for a moderate price , customers have given it a poor rating 
+Browns Cambridge serves moderately priced fast food with a one star customer rating . 
+Browns Cambridge is an expensive , one star fast food takeaway 
+Browns Cambridge is near the city centre and is a mid - priced 1 star restaurant . 
+For moderate priced Fast food Browns Cambridge has customer ratings of 1 out of 5 
+For moderately priced fast food there is Browns Cambridge although it has only scored 1 out of 5 stars . 
+Moderately priced Browns Cambridge fast food has a 1 out of 5 rating 
+Browns Cambridge has moderately priced fast food , 1 out of 5 stars 
+Browns Cambridge is a fast food takeaway airing on the side of expensive for one star 
+Given a poor rating , Browns Cambridge is a fast food restaurant 
+Located near the city centre is a 1 star mid - priced restaurant called Browns Cambridge . 

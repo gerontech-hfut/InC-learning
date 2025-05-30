@@ -1,0 +1,1 @@
+Akita,_Akita | isPartOf | Akita_Prefecture

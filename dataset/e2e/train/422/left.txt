@@ -1,0 +1,1 @@
+name : The Twenty Two | food : Fast food | area : city centre | family friendly : yes

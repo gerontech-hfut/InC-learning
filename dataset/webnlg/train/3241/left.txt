@@ -1,0 +1,3 @@
+William_Anders | was a crew member of | Apollo_8
+Apollo_8 | crewMembers | Frank_Borman
+Apollo_8 | operator | NASA

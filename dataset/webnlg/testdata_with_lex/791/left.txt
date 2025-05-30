@@ -1,0 +1,5 @@
+United_States | leaderName | Barack_Obama
+United_States | capital | Washington,_D.C.
+1634:_The_Ram_Rebellion | country | United_States
+United_States | ethnicGroup | Asian_Americans
+1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair

@@ -1,0 +1,5 @@
+Bhajji | country | India
+India | demonym | Indian_people
+India | leaderName | T._S._Thakur
+Bhajji | region | Karnataka
+Karnataka | leaderName | Vajubhai_Vala

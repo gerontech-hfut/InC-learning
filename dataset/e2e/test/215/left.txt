@@ -1,0 +1,1 @@
+name : The Mill | Type : pub | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : city centre | family friendly : yes | near : Café Sicilia

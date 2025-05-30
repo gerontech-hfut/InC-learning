@@ -1,0 +1,2 @@
+William_Anders | birthDate | "1933-10-17"
+William_Anders | almaMater | "AFIT, M.S. 1962"

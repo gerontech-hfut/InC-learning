@@ -1,0 +1,2 @@
+Albennie_Jones | genre | Jazz
+Jazz | stylisticOrigin | Blues

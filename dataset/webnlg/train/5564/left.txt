@@ -1,0 +1,4 @@
+Administrative_Science_Quarterly | LCCN_number | 57059226
+Administrative_Science_Quarterly | academicDiscipline | Management
+Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."
+Administrative_Science_Quarterly | ISSN_number | "0001-8392"

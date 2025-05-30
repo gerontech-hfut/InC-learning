@@ -1,0 +1,4 @@
+Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)
+Atlantic_City,_New_Jersey | areaCode | 609
+Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey
+Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)

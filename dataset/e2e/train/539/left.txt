@@ -1,0 +1,1 @@
+name : The Rice Boat | food : Japanese | customer rating : low | area : riverside | family friendly : no

@@ -1,0 +1,4 @@
+AEK_Athens_F.C. | season | 2014–15_Football_League_(Greece)
+AEK_Athens_F.C. | numberOfMembers | 69618
+AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)
+AEK_Athens_F.C. | league | Superleague_Greece

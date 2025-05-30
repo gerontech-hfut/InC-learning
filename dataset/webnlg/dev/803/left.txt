@@ -1,0 +1,5 @@
+A.F.C._Blackpool | manager | Stuart_Parker_(footballer)
+Stuart_Parker_(footballer) | club | KV_Mechelen
+Stuart_Parker_(footballer) | club | Chesterfield_F.C.
+Blackpool | leader | Gordon_Marsden
+A.F.C._Blackpool | ground | Blackpool

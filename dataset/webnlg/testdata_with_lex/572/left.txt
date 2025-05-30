@@ -1,0 +1,3 @@
+Bionico | country | Mexico
+Bionico | region | Guadalajara
+Bionico | ingredient | Raisin

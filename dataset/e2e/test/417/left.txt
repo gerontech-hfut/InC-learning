@@ -1,0 +1,1 @@
+name : The Punter | Type : restaurant | food : Italian | price : cheap | customer rating : average | area : city centre | family friendly : yes | near : Rainbow Vegetarian Café

@@ -1,0 +1,1 @@
+name : The Cambridge Blue | Type : coffee shop | customer rating : low | area : city centre | family friendly : yes | near : Burger King

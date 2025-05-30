@@ -1,0 +1,2 @@
+Wizards_at_War | publisher | Harcourt_(publisher)
+A_Wizard_of_Mars | precededBy | Wizards_at_War

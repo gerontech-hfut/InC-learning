@@ -1,0 +1,5 @@
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Arabic
+Philippines | officialLanguage | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Igorot_people

@@ -1,0 +1,5 @@
+United_States | language | English_language
+Angola,_Indiana | isPartOf | Steuben_County,_Indiana
+United_States | demonym | Americans
+Angola,_Indiana | country | United_States
+United_States | ethnicGroup | Asian_Americans

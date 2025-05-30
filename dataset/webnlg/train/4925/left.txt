@@ -1,0 +1,4 @@
+Asam_pedas | country | Indonesia
+Sumatra | ethnicGroup | Batak
+Sumatra | ethnicGroup | Acehnese_people
+Asam_pedas | region | Sumatra

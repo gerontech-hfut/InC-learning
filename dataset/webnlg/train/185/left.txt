@@ -1,0 +1,1 @@
+Athens_International_Airport | runwayLength | 3800.0

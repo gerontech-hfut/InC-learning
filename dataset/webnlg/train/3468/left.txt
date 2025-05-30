@@ -1,0 +1,3 @@
+Ballistic_(comicsCharacter) | creator | Doug_Moench
+Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"
+Ballistic_(comicsCharacter) | creator | "Michael Manley"

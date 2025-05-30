@@ -1,0 +1,4 @@
+Apollo_8 | commander | Frank_Borman
+William_Anders | was a crew member of | Apollo_8
+William_Anders | birthPlace | British_Hong_Kong
+Apollo_8 | operator | NASA

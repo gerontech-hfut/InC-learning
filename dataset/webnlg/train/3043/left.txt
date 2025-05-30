@@ -1,0 +1,3 @@
+Agra_Airport | location | Uttar_Pradesh
+Agra_Airport | operatingOrganisation | Airports_Authority_of_India
+Agra_Airport | ICAO_Location_Identifier | "VIAG"

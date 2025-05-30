@@ -1,0 +1,3 @@
+Auburn,_Washington | isPartOf | Washington_(state)
+Washington_(state) | capital | Olympia,_Washington
+Washington_(state) | country | United_States

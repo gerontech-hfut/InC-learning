@@ -1,0 +1,4 @@
+Indonesia | leaderName | Jusuf_Kalla
+Bakso | region | Indonesia
+Bakso | ingredient | Tapioca
+Bakso | country | Indonesia

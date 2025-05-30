@@ -1,0 +1,2 @@
+Gene_Colan | nationality | Americans
+Ben_Urich | creator | Gene_Colan

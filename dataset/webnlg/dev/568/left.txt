@@ -1,0 +1,4 @@
+Appleton_International_Airport | location | Greenville,_Wisconsin
+Greenville,_Wisconsin | isPartOf | Menasha_(town),_Wisconsin
+Greenville,_Wisconsin | isPartOf | Dale,_Wisconsin
+Appleton_International_Airport | cityServed | Appleton,_Wisconsin

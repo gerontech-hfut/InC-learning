@@ -1,0 +1,4 @@
+Akron_Summit_Assault | ground | Akron,_Ohio
+Akron,_Ohio | country | United_States
+Akron_Summit_Assault | league | Premier_Development_League
+Premier_Development_League | champions | K-W_United_FC

@@ -1,0 +1,3 @@
+Addiction_(journal) | publisher | Wiley-Blackwell
+Wiley-Blackwell | parentCompany | John_Wiley_&_Sons
+Addiction_(journal) | academicDiscipline | Addiction

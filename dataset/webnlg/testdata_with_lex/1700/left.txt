@@ -1,0 +1,4 @@
+Ab_Klink | almaMater | Erasmus_University_Rotterdam
+Erasmus_University_Rotterdam | affiliation | Association_of_MBAs
+Ab_Klink | office (workedAt, workedAs) | Ministry_of_Health,_Welfare_and_Sport_(Netherlands)
+Ab_Klink | birthPlace | Netherlands

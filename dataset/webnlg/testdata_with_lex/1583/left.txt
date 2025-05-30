@@ -1,0 +1,4 @@
+Aleksandre_Guruli | club | FC_Karpaty_Lviv
+Aleksandre_Guruli | birthPlace | Batumi
+Aleksandre_Guruli | height | 178.0 (centimetres)
+Aleksandre_Guruli | club | FC_Zestafoni

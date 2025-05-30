@@ -1,0 +1,2 @@
+Antwerp_International_Airport | operatingOrganisation | Flemish_Government
+Flemish_Government | jurisdiction | Flanders

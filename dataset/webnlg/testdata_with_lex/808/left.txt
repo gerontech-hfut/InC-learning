@@ -1,0 +1,5 @@
+Indiana | capital | Indianapolis
+Alexandria,_Indiana | isPartOf | Indiana
+Indiana | country | United_States
+Indiana | language | English_Americans
+Alexandria,_Indiana | isPartOf | Madison_County,_Indiana

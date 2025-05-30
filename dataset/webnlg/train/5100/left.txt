@@ -1,0 +1,4 @@
+Bhajji | country | India
+India | leaderName | T._S._Thakur
+India | leaderName | Narendra_Modi
+Bhajji | region | Karnataka

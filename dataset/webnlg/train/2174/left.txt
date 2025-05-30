@@ -1,0 +1,2 @@
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Pacific_Grove,_California | isPartOf | California

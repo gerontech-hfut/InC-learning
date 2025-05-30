@@ -1,0 +1,2 @@
+Bandeja_paisa | ingredient | Black_pudding
+Bandeja_paisa | country | Colombian_cuisine

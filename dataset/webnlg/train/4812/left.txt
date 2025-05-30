@@ -1,0 +1,4 @@
+Ethiopia | leaderName | Hailemariam_Desalegn
+Addis_Ababa | isPartOf | Addis_Ababa_Stadium
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | country | Ethiopia

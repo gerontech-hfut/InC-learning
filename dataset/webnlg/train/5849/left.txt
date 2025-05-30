@@ -1,0 +1,5 @@
+Alan_Bean | occupation | Test_pilot
+Alan_Bean | almaMater | "UT Austin, B.S. 1955"
+Alan_Bean | birthPlace | Wheeler,_Texas
+Alan_Bean | was selected by NASA | 1963
+Alan_Bean | status | "Retired"

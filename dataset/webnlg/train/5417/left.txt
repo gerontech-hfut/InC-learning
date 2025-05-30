@@ -1,0 +1,4 @@
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Mendrisio | neighboringMunicipality | Meride
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Switzerland | leaderName | Johann_Schneider-Ammann

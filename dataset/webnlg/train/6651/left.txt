@@ -1,0 +1,6 @@
+Elliot_See | almaMater | University_of_Texas_at_Austin
+University_of_Texas_at_Austin | affiliations | University_of_Texas_System
+St._Louis | leaderName | Francis_G._Slay
+University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)
+University_of_Texas_at_Austin | compete in | Big_12_Conference
+Elliot_See | deathPlace | St._Louis

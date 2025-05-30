@@ -1,0 +1,4 @@
+Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan
+Wilson_Township,_Alpena_County,_Michigan | country | United_States
+Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210
+Alpena_County_Regional_Airport | runwayLength | 2744.0

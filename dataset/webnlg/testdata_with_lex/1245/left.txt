@@ -1,0 +1,2 @@
+Parkersburg,_West_Virginia | country | United_States
+Albert_B._White | deathPlace | Parkersburg,_West_Virginia

@@ -1,0 +1,2 @@
+AFC_Ajax_(amateurs) | league | Hoofdklasse
+AFC_Ajax_(amateurs) | numberOfMembers | 5000

@@ -1,0 +1,3 @@
+The location identifier of Alpena County Regional airport is APN.
+The Alpena County Regional Airport's location id is "APN".
+The loaction identifier of Alpena County Regional Airport is APN.

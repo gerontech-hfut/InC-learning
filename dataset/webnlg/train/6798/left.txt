@@ -1,0 +1,7 @@
+Alan_Shepard | status | "Deceased"
+Alan_Shepard | almaMater | "NWC, M.A. 1957"
+Alan_Shepard | was a crew member of | Apollo_14
+Alan_Shepard | deathPlace | California
+Alan_Shepard | birthPlace | New_Hampshire
+Alan_Shepard | nationality | United_States
+Alan_Shepard | birthDate | "1923-11-18"

@@ -1,0 +1,4 @@
+AWH_Engineering_College | established | 2001
+Kerala | leaderName | Kochi
+AWH_Engineering_College | state | Kerala
+AWH_Engineering_College | city | "Kuttikkattoor"

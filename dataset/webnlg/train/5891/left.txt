@@ -1,0 +1,5 @@
+California | gemstone | Benitoite
+Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal
+Alan_Shepard | deathPlace | California
+California | senators | Dianne_Feinstein
+Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)

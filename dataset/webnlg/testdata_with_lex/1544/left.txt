@@ -1,0 +1,3 @@
+Aleksandr_Chumakov | deathPlace | Russia
+Russia | leaderName | Vladimir_Putin
+Aleksandr_Chumakov | birthPlace | Soviet_Union

@@ -1,0 +1,1 @@
+Buzz_Aldrin | timeInSpace | "52.0"(minutes)

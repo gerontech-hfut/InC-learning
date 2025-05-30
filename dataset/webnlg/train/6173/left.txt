@@ -1,0 +1,5 @@
+Bacon_sandwich | dishVariation | BLT
+BLT | dishVariation | Club_sandwich
+BLT | ingredient | Tomato
+Bacon_sandwich | country | United_Kingdom
+United_Kingdom | leaderName | Elizabeth_II

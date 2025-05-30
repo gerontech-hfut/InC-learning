@@ -1,0 +1,1 @@
+name : Strada | Type : pub | food : Chinese | customer rating : low | near : Yippee Noodle Bar

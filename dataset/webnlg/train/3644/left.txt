@@ -1,0 +1,3 @@
+Baked_Alaska | country | United_States
+Baked_Alaska | region | New_York
+Baked_Alaska | ingredient | Meringue

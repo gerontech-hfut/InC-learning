@@ -1,0 +1,3 @@
+Blockbuster_(comicsCharacter) | creator | Gardner_Fox
+Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"
+Blockbuster_(comicsCharacter) | creator | Carmine_Infantino

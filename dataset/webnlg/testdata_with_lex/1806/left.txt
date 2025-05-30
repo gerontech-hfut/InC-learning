@@ -1,0 +1,5 @@
+Agnes_Kant | nationality | Netherlands
+Netherlands | leaderName | Mark_Rutte
+Agnes_Kant | office (workedAt, workedAs) | House_of_Representatives_(Netherlands)
+House_of_Representatives_(Netherlands) | leaderName | Khadija_Arib
+Agnes_Kant | residence | Doesburg

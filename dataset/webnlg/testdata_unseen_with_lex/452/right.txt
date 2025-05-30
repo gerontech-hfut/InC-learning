@@ -1,0 +1,3 @@
+19255 1994 VK8, with a mass of 5.6kg, has an apoapsis of 6603633000.0 kilometres and an escape velocity of 0.0925 km/s.
+19255 1994 VK8 has a mass of 5.6kg and an escape velocity of 0.0925 kilometres per second. Its apoapsis is 6603633000.0 km.
+(19255) 1994 VK8 has an escape velocity of 0.0925 km per sec, a mass of 5.6 kgs and an apoapsis of 6603633000.0 km.

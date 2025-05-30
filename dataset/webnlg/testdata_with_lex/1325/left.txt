@@ -1,0 +1,2 @@
+1036_Ganymed | averageSpeed | 16.86 (kilometrePerSeconds)
+1036_Ganymed | apoapsis | 611961000.0 (kilometres)

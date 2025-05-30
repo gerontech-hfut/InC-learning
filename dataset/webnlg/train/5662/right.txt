@@ -1,0 +1,3 @@
+The city of Abilene, in Texas, is served by Abilene Regional Airport. The airport is 546 metres above sea level and has the runway length of 2,195. It also has the runway name 17L/35R and the ICAO Location Identifier is KABI.
+Abilene Regional airport is located 546 metres above sea level and serves Abilene in Texas. It has the ICAO location identifier of KABI. the runway length is 2195 and has the name 17L/35R.
+Abilene, Texas is served by the Abilene regional airport, which is located 546 meters above sea level. The airport's ICAO Location Identifier is KABI. Abilene airport's runway - 17L/35R - measures a length of 2195.0.

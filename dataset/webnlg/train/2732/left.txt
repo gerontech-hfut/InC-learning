@@ -1,0 +1,2 @@
+Akron_Summit_Assault | chairman | Dave_Laughlin
+Akron_Summit_Assault | numberOfMembers | 3000

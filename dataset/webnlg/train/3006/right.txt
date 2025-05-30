@@ -1,0 +1,2 @@
+Aarhus Airport, which is operated by the Aktieselkab organisation, has a runway that's 2,776 long and is named 10L/28R.
+Aarhus Airport, operated by Aktieselskab has a runway length of 2776.0 and a name of 10L/28R.

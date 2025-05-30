@@ -1,0 +1,4 @@
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Malay
+Sumatra | ethnicGroup | Minangkabau_people
+Asam_pedas | region | Sumatra

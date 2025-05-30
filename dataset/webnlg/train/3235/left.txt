@@ -1,0 +1,3 @@
+William_Anders | dateOfRetirement | "1969-09-01"
+British_Hong_Kong | representative | Chris_Patten
+William_Anders | birthPlace | British_Hong_Kong

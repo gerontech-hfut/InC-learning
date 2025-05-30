@@ -1,0 +1,3 @@
+Agnes_Kant | nationality | Netherlands
+Netherlands | leaderName | Mark_Rutte
+Agnes_Kant | party | Socialist_Party_(Netherlands)

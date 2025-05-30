@@ -1,0 +1,5 @@
+Adisham_Hall | location | Sri_Lanka
+Adisham_Hall | architecturalStyle | Tudor_Revival_architecture
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | buildingStartDate | "1927"
+Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"

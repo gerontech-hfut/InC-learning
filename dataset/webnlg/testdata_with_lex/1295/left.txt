@@ -1,0 +1,2 @@
+Alex_Day | genre | Synthpop
+Synthpop | stylisticOrigin | New_wave_music

@@ -1,0 +1,2 @@
+Asser_Levy_Public_Baths | location | "Asser Levy Place and East 23rd Street"
+Asser_Levy_Public_Baths | yearOfConstruction | 1904

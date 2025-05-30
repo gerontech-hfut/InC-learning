@@ -1,0 +1,2 @@
+Antwerp_International_Airport | owner | Flemish_Region
+Antwerp_International_Airport | cityServed | Antwerp

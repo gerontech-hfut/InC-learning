@@ -1,0 +1,4 @@
+Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain
+Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco
+Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González
+Abel_Caballero | birthPlace | Galicia_(Spain)

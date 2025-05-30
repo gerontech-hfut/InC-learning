@@ -1,0 +1,5 @@
+Alan Shepard was born in New Hampshire, served as a test pilot and is dead.
+The test pilot Alan Shepard, who is now deceased, was born in New Hampshire.
+Alan Shepard, who was born in New Hampshire and served as a test pilot, is deceased.
+Alan Shepard, now deceased, was born in New Hampshire and served as a test pilot.
+Alan Shepard (born in New Hampshire) served as a test pilot but is now deceased.

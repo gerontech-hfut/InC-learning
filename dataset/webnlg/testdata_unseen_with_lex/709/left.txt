@@ -1,0 +1,4 @@
+Allen_Forrest | birthYear | 1981
+Allen_Forrest | genre | Acoustic_music
+Allen_Forrest | birthPlace | Fort_Campbell
+Allen_Forrest | background | "solo_singer"

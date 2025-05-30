@@ -1,0 +1,1 @@
+name : Giraffe | Type : restaurant | food : Fast food | area : riverside | family friendly : yes | near : Rainbow Vegetarian Café

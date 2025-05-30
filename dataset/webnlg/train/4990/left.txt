@@ -1,0 +1,4 @@
+Baked_Alaska | course | Dessert
+Baked_Alaska | country | France
+France | leaderName | Manuel_Valls
+Dessert | dishVariation | Sandesh_(confectionery)

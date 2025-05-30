@@ -1,0 +1,5 @@
+Turkey | leaderTitle | President_of_Turkey
+Turkey | leader | Ahmet_Davutoğlu
+Turkey | capital | Ankara
+Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"
+Atatürk_Monument_(İzmir) | location | Turkey

@@ -1,0 +1,3 @@
+Binignit | ingredient | Banana
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie

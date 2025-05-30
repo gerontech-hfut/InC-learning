@@ -1,0 +1,2 @@
+Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+Alvis_Speed_25 | engine | Straight-six_engine

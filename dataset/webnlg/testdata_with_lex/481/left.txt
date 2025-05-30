@@ -1,0 +1,3 @@
+Albany,_Georgia | isPartOf | Dougherty_County,_Georgia
+United_States | ethnicGroup | Asian_Americans
+Albany,_Georgia | country | United_States

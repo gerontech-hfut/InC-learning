@@ -1,0 +1,4 @@
+A.C._Cesena | league | Serie_B
+Serie_B | champions | Carpi_F.C._1909
+A.C._Cesena | manager | Massimo_Drago
+Massimo_Drago | club | Delfino_Pescara_1936

@@ -1,0 +1,2 @@
+The 3Arena is a concerts and events venue type building.
+The 3Arena hosts concerts and events.

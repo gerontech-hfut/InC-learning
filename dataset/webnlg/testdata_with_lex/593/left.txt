@@ -1,0 +1,4 @@
+103_Colmore_Row | location | Birmingham
+103_Colmore_Row | completionDate | 1976
+103_Colmore_Row | buildingStartDate | "1973"
+103_Colmore_Row | floorCount | 23

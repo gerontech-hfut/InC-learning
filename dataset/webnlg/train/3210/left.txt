@@ -1,0 +1,3 @@
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey
+Buzz_Aldrin | nationality | United_States
+Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey

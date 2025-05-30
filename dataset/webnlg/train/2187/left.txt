@@ -1,0 +1,2 @@
+Ethiopia | leaderName | Mulatu_Teshome
+Addis_Ababa_City_Hall | country | Ethiopia

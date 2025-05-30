@@ -1,0 +1,3 @@
+Alan_Bean | birthDate | "1932-03-15"
+Alan_Bean | was selected by NASA | 1963
+Alan_Bean | status | "Retired"

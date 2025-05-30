@@ -1,0 +1,7 @@
+Turkey | leaderTitle | President_of_Turkey
+Atatürk_Monument_(İzmir) | designer | Pietro_Canonica
+Turkey | leaderName | Ahmet_Davutoğlu
+Turkey | largestCity | Istanbul
+Atatürk_Monument_(İzmir) | material | "Bronze"
+Turkey | currency | Turkish_lira
+Atatürk_Monument_(İzmir) | location | Turkey

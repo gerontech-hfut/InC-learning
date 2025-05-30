@@ -1,0 +1,3 @@
+Moscow | leaderName | Sergey_Sobyanin
+Aleksandr_Chumakov | deathPlace | Russia
+Aleksandr_Chumakov | birthPlace | Moscow

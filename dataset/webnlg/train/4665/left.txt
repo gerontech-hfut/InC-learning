@@ -1,0 +1,4 @@
+200_Public_Square | location | Cleveland
+200_Public_Square | floorCount | 45
+Cleveland | isPartOf | Ohio
+Cleveland | country | United_States

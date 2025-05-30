@@ -1,0 +1,5 @@
+American_Motors | successor | Eagle_(automobile)
+American_Motors | subsidiary | Wheel_Horse
+AMC_Matador | manufacturer | American_Motors
+American_Motors | fate | Chrysler
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.

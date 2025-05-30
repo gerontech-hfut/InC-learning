@@ -1,0 +1,2 @@
+American_Journal_of_Mathematics | firstPublicationYear | 1878
+American_Journal_of_Mathematics | abbreviation | "Am. J. Math."

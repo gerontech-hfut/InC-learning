@@ -1,0 +1,5 @@
+Ajoblanco | country | Spain
+Ajoblanco | mainIngredients | "Bread, almonds, garlic, water, olive oil"
+Ajoblanco | region | Andalusia
+Ajoblanco | alternativeName | "Ajo blanco"
+Ajoblanco | ingredient | Water

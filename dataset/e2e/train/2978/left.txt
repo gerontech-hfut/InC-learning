@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Italian | customer rating : high | family friendly : yes

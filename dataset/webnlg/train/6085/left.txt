@@ -1,0 +1,5 @@
+Bananaman | broadcastedBy | BBC
+Bananaman | creator | Steve_Bright
+Bananaman | starring | Bill_Oddie
+Bananaman | firstAired | "1983-10-03"
+Bananaman | lastAired | "1986-04-15"

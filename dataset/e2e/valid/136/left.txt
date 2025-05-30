@@ -1,0 +1,1 @@
+name : Cotto | Type : coffee shop | food : Chinese | price : moderate | customer rating : 3 out of 5 | area : city centre | near : The Portland Arms

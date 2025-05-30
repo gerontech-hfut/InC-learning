@@ -1,0 +1,3 @@
+Massimo_Drago | club | U.S._Castrovillari_Calcio
+A.C._Cesena | manager | Massimo_Drago
+Massimo_Drago | club | A.S.D._S.S._Nola_1925

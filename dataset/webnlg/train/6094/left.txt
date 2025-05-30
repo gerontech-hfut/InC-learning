@@ -1,0 +1,5 @@
+Duncan_Rouleau | nationality | Americans
+Baymax | creator | Duncan_Rouleau
+Baymax | creator | Steven_T._Seagle
+Baymax | series | Big_Hero_6_(film)
+Big_Hero_6_(film) | starring | Maya_Rudolph

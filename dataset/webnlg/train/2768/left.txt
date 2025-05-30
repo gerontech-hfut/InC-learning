@@ -1,0 +1,2 @@
+Acharya_Institute_of_Technology | academicStaffSize | "~500"
+Acharya_Institute_of_Technology | motto | "Nurturing Excellence"

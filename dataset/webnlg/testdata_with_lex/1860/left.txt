@@ -1,0 +1,5 @@
+Twilight_(band) | genre | Black_metal
+Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)
+Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom
+Aaron_Turner | instrument | Electric_guitar
+Black_metal | musicFusionGenre | Death_metal

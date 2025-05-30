@@ -1,0 +1,4 @@
+Birmingham | postalCode | B_postcode_area
+Birmingham | leaderName | Conservative_Party_(UK)
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham

@@ -1,0 +1,4 @@
+A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez
+A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez
+A.D._Isidro_Metapán | numberOfMembers | 10000
+A.D._Isidro_Metapán | fullname | "Asociación Deportiva"

@@ -1,0 +1,5 @@
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredients | Banana
+Binignit | course | Dessert
+Binignit | country | Philippines
+Binignit | region | Mindanao

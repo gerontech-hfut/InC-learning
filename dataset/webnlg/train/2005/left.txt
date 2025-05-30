@@ -1,0 +1,2 @@
+Buzz_Aldrin | was awarded | "Legion of Merit ribbon.svg"
+Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."

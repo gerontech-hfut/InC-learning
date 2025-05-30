@@ -1,0 +1,5 @@
+Andra_(singer) | birthYear | 1986
+Andra_(singer) | genre | Dance-pop
+Andra_(singer) | birthPlace | Câmpia_Turzii
+Andra_(singer) | background | "solo_singer"
+Andra_(singer) | occupation | "singer, Reality television judge"

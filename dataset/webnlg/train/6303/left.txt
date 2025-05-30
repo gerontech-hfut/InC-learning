@@ -1,0 +1,5 @@
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | region | Singapore
+Singapore | leaderName | Tony_Tan
+Singapore | language | Standard_Chinese
+Ayam_penyet | country | Java

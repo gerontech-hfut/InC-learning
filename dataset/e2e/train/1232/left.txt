@@ -1,0 +1,1 @@
+name : The Vaults | Type : coffee shop | price : cheap | customer rating : 5 out of 5 | area : riverside | near : Café Brazil

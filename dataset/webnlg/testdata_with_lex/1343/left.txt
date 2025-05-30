@@ -1,0 +1,2 @@
+AIDA_Cruises | location | Germany
+AIDAstella | operator | AIDA_Cruises

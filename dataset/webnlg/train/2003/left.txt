@@ -1,0 +1,2 @@
+Buzz_Aldrin | nationality | United_States
+Buzz_Aldrin | status | "Retired"

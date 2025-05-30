@@ -1,0 +1,3 @@
+Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana
+Angola,_Indiana | country | United_States
+United_States | ethnicGroup | Asian_Americans

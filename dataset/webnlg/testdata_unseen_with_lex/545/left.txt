@@ -1,0 +1,3 @@
+Atlas_II | countryOrigin | United_States
+Atlas_II | launchSite | Vandenberg_Air_Force_Base
+Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station

@@ -1,0 +1,3 @@
+Rice is an ingredient in bandeja paisa.
+Rice is an ingredient of Bandeja paisa.
+Rice is included in Bandeja paisa.

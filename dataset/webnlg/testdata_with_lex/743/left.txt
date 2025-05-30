@@ -1,0 +1,4 @@
+Arrabbiata_sauce | country | Italy
+Italy | capital | Rome
+Italy | leaderName | Pietro_Grasso
+Italy | leaderName | Sergio_Mattarella

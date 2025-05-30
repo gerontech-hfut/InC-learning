@@ -1,0 +1,5 @@
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | language | English_language
+United_States | leaderTitle | President_of_the_United_States
+United_States | leaderName | John_Roberts
+250_Delaware_Avenue | location | United_States

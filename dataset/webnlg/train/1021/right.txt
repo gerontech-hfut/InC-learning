@@ -1,0 +1,3 @@
+An ingredient in a bacon sandwich is bread.
+One ingredient of a bacon sandwich is bread.
+Bread is an ingredient of a bacon sandwich.

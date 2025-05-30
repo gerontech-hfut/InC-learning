@@ -1,0 +1,4 @@
+Binignit | mainIngredients | Sweet_potato
+Binignit | region | Visayas
+Binignit | country | Philippines
+Binignit | ingredient | Sago

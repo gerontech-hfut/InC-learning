@@ -1,0 +1,5 @@
+AIDS_(journal) | country | United_Kingdom
+United_Kingdom | capital | London
+AIDS_(journal) | publisher | Lippincott_Williams_&_Wilkins
+Lippincott_Williams_&_Wilkins | parentCompany | Wolters_Kluwer
+United_Kingdom | leaderName | Elizabeth_II

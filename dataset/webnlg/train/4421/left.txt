@@ -1,0 +1,4 @@
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+United_States_Air_Force | attackAircraft | Lockheed_AC-130
+United_States_Air_Force | battles | United_States_invasion_of_Panama
+United_States_Air_Force | battles | Operation_Enduring_Freedom

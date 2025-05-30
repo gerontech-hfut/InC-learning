@@ -1,0 +1,5 @@
+Philippines | language | Arabic
+Philippines | ethnicGroup | Zamboangans
+Philippines | officialLanguage | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Chinese_Filipino

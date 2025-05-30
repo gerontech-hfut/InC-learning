@@ -1,0 +1,1 @@
+name : The Golden Curry | food : Indian | customer rating : average | family friendly : yes

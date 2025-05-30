@@ -1,0 +1,4 @@
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | Cook_County,_Illinois
+Chicago | country | United_States
+Chicago | leaderName | Susana_Mendoza

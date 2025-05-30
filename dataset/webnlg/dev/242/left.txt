@@ -1,0 +1,2 @@
+Antwerp_International_Airport | operatingOrganisation | "Flemish department of Mobility and Public Works"
+Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0

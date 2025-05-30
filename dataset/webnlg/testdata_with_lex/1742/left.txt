@@ -1,0 +1,5 @@
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | shipBeam | 32.2
+AIDAstella | topSpeed | 38.892
+AIDAstella | builder | Meyer_Werft
+AIDAstella | length | 253260.0 (millimetres)

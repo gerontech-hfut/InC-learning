@@ -1,0 +1,3 @@
+The abbreviation "ACM Trans. Inf. Syst." is for ACM Transactions on Information Systems, which has the ISSN number 1558-2868 and the LCCN number 89646863.
+ACM Transactions on Information Systems, ACM Trans. Inf. Syst., has an ISSN number of 1558-2868 and an LCCN number of 89646863.
+ACM Transactions on Information Systems, or, ACM Trans. Inf. Syst., has a ISSN number of 1558-2868 and a LCCN number of 89646863.

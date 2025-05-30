@@ -1,0 +1,2 @@
+Allan_Shivers | birthPlace | Lufkin,_Texas
+Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"

@@ -297,6 +297,9 @@ if __name__ == '__main__':
     cluster_num = args.K
     ICL_mode=args.batch_ICL_method
     test_number=args.test_number
+    if not os.path.exists(root_path):
+        os.mkdir(root_path)
+    
     client = ZhipuAI(api_key=api_key)
     tok = RobertaTokenizer.from_pretrained(encoder_name)
     model = RobertaModel.from_pretrained(encoder_name)

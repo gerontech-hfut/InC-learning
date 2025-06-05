@@ -241,16 +241,10 @@ if __name__ == '__main__':
     elif(dataset_name=='dart'):
         X = np.load('emb_roberta-large/dart_train.npy')
     elif(dataset_name=='totto'):
-        X=np.load('emb_roberta-large_0516/totto_train.npy')
+        X=np.load('emb_roberta-large/totto_train.npy')
 
-    dataset_cluster_dict={
-        'totto':11,
-        'webnlg':8,
-        'dart':6,
-        'e2e':19
-    }
-    K=dataset_cluster_dict[dataset_name]
-    # 计算silhouette score决定K值
+
+ 
     # K=1
     # max_silhouette_score=-1
     # 
@@ -259,7 +253,13 @@ if __name__ == '__main__':
     #     if max_silhouette_score<temp_silhouette_score:
     #         max_silhouette_score=temp_silhouette_score
     #         K=k
-
+    dataset_cluster_dict={
+        'totto':11,
+        'webnlg':8,
+        'dart':6,
+        'e2e':19
+    }
+    K=dataset_cluster_dict[dataset_name]
     first_cluster(n_clusters = K,dataset_name=dataset_name)
     second_cluster(cluster_num=K, cluster_num2=ICL_example_num, dataset_name=dataset_name)
 

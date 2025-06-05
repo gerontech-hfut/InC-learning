@@ -455,7 +455,8 @@ if __name__ == '__main__':
   ICL_example_num = args.ICL_example_num
   encoder_name = args.encoder_path
   api_key=args.api_key
-
+  if not os.path.exists(root_path):
+    os.mkdir(root_path)
   client = ZhipuAI(api_key=api_key)
 
   tok = RobertaTokenizer.from_pretrained(encoder_name)

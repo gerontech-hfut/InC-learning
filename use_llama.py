@@ -439,7 +439,8 @@ if __name__ == '__main__':
   ICL_example_num = args.ICL_example_num
   encoder_name = args.encoder_path
   llama_model_id=args.llama_model_id
-
+  if not os.path.exists(root_path):
+    os.mkdir(root_path)
   tok = RobertaTokenizer.from_pretrained(encoder_name)
   model = RobertaModel.from_pretrained(encoder_name)
   model.to(device)
